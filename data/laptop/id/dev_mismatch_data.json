@@ -1,0 +1,79 @@
+[
+    {
+        "line": 4,
+        "original_sentence": "this (1: version) has been my least favorite (1: version) i ' ve had for the following reasons listed bellow the pros .",
+        "original_tuples": "[['version', 'LAPTOP#GENERAL', 'negative']]\n",
+        "translated_sentence": "ini (versi 1:) adalah versi yang paling tidak saya sukai (versi 1:) yang pernah saya miliki karena beberapa alasan yang tercantum di bawah kelebihannya.",
+        "updated_tuples": "['version', 'LAPTOP#GENERAL', 'negative']"
+    },
+    {
+        "line": 49,
+        "original_sentence": "i like that it ' s got the (1: 8th generation i5 cpu) .",
+        "original_tuples": "[['8th generation i5 cpu', 'CPU#GENERAL', 'positive']]\n",
+        "translated_sentence": "Saya suka karena ia memiliki (cpu i5 generasi ke-1:8).",
+        "updated_tuples": "['8th generation i5 cpu', 'CPU#GENERAL', 'positive']"
+    },
+    {
+        "line": 80,
+        "original_sentence": "it is a basic little (1: laptop) and i love it .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "ini adalah laptop kecil yang mendasar (1: dan saya menyukainya.",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 148,
+        "original_sentence": "less of a fault of the much lauded diving board and more a factor of the very well designed new (1: hardware) .",
+        "original_tuples": "[['hardware', 'HARDWARE#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "bukan karena kesalahan papan loncat yang banyak dipuji, tetapi lebih karena faktor perangkat keras baru yang dirancang dengan sangat baik.",
+        "updated_tuples": "['hardware', 'HARDWARE#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 158,
+        "original_sentence": "as i bought 13 inch (1: model) , it is very portable .",
+        "original_tuples": "[['model', 'LAPTOP#PORTABILITY', 'positive']]\n",
+        "translated_sentence": "karena saya membeli 13 inci (model 1), sangat portabel.",
+        "updated_tuples": "['model', 'LAPTOP#PORTABILITY', 'positive']"
+    },
+    {
+        "line": 184,
+        "original_sentence": "all metal body , very slim form (1: factor) , and has a pretty decent (2: touchscreen) .",
+        "original_tuples": "[['factor', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#GENERAL', 'positive']]\n",
+        "translated_sentence": "bodi seluruhnya berbahan metal, bentuk sangat ramping (faktor 1), dan layar sentuhnya cukup bagus (faktor 2).",
+        "updated_tuples": "['factor', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#GENERAL', 'positive']"
+    },
+    {
+        "line": 211,
+        "original_sentence": "using (1: wifi) the signal seems to drop , not sure if the (1: wifi) adapter needs an update but there are issues .",
+        "original_tuples": "[['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "menggunakan wifi sinyalnya nampaknya turun, tidak yakin apakah adaptor wifi perlu pembaruan tetapi ada masalah.",
+        "updated_tuples": "['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 239,
+        "original_sentence": "it ' s light weight , sleek , the (3: screen resolution) is great and it runs very well for everyday use .",
+        "original_tuples": "[['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['screen resolution', 'DISPLAY#GENERAL', 'positive'], ['NULL', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "bobotnya ringan, ramping, resolusi layarnya (3%) hebat dan berjalan sangat baik untuk penggunaan sehari-hari.",
+        "updated_tuples": "['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['screen resolution', 'DISPLAY#GENERAL', 'positive'], ['NULL', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 242,
+        "original_sentence": "moreover , the (1: 8th gen i5 cpu) is amazing .",
+        "original_tuples": "[['8th gen i5 cpu', 'CPU#GENERAL', 'positive']]\n",
+        "translated_sentence": "terlebih lagi, (cpu i5 gen 1:8) sangat menakjubkan.",
+        "updated_tuples": "['8th gen i5 cpu', 'CPU#GENERAL', 'positive']"
+    },
+    {
+        "line": 265,
+        "original_sentence": "i ' ve been able to play fortnite on this (1: laptop) , medium settings , with no issues or lag / stutter .",
+        "original_tuples": "[['laptop', 'LAPTOP#OPERATION_PERFORMANCE', 'neutral']]\n",
+        "translated_sentence": "Saya bisa memainkan Fortnite di laptop ini (1), pengaturan sedang, tanpa masalah atau lag/gagap.",
+        "updated_tuples": "['laptop', 'LAPTOP#OPERATION_PERFORMANCE', 'neutral']"
+    },
+    {
+        "line": 317,
+        "original_sentence": "overall i like its slim (3: design) and feather light - weight alone with well equipped (4: spec) that can meet my daily work environment .",
+        "original_tuples": "[['design', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['design', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['design', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['spec', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "Secara keseluruhan saya suka karena ramping (desain 3) dan ringan - bobotnya sendiri cukup ringan dan dilengkapi dengan baik (spesifikasi 4) yang dapat memenuhi lingkungan kerja saya sehari-hari.",
+        "updated_tuples": "['design', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['design', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['design', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['spec', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    }
+]

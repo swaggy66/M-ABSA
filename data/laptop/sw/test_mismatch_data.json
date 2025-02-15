@@ -1,0 +1,23 @@
+[
+    {
+        "line": 48,
+        "original_sentence": "this unit not only has a nice (2: aluminum shell) ( which is very attractive ) , but it also has a decent (4: keyboard) , with much better tactile properties than any chromebooks i ' ve looked at in the past .",
+        "original_tuples": "[['aluminum shell', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['aluminum shell', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['keyboard', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['keyboard', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "kitengo hiki sio tu kina ganda zuri ganda la alumini ( ambalo linavutia sana ) , lakini pia kina heshima ( 4: kibodi ) , chenye sifa bora zaidi za kugusa kuliko chromebooks nilizotazama hapo awali .",
+        "updated_tuples": "['ganda la alumini', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['ganda la alumini', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['keyboard', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['keyboard', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 446,
+        "original_sentence": "* (1: battery) * - (1: battery) life is great .",
+        "original_tuples": "[['battery', 'BATTERY#GENERAL', 'positive'], ['battery life', 'BATTERY#GENERAL', 'positive']]\n",
+        "translated_sentence": "* betri * - betri maisha ni mazuri .",
+        "updated_tuples": "['betri', 'BATTERY#GENERAL', 'positive'], ['battery life', 'BATTERY#GENERAL', 'positive']"
+    },
+    {
+        "line": 453,
+        "original_sentence": "- nice , bright (2: screen) ( touch(2: screen) , too ! )",
+        "original_tuples": "[['screen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['screen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "- nzuri, mkali skrini ( gusa skrini , pia!)",
+        "updated_tuples": "['skrini', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['skrini', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive']"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "line": 55,
+        "original_sentence": "i plugged in regular (3: headphones) and it was horribly low - very unenjoyable to listen to music this way .",
+        "original_tuples": "[['headphones', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative'], ['headphones', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative'], ['headphones', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "일반 헤드폰(3개)을 연결했더니 소리가 너무 작아서 음악을 듣는 재미가 전혀 없었습니다.",
+        "updated_tuples": "['headphones', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative'], ['headphones', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative'], ['headphones', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 102,
+        "original_sentence": "this is easily the best overall (1: chromebook) out there right now ( under $ 500 ) .",
+        "original_tuples": "[['chromebook', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "이 제품은 현재 시중에 나와 있는 크롬북 중에서 전반적으로 가장 뛰어납니다(500달러 이하).",
+        "updated_tuples": "['chromebook', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 110,
+        "original_sentence": "i paid $ 500 for a 15 ` ` notebook with 8gb ram , latest i5 - 8250u cpu with reasonable (1: weight) and its quite extendable , i am happy for this deal .",
+        "original_tuples": "[['weight', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "저는 8GB 램, 최신 i5-8250U CPU가 장착된 15인치 노트북을 500달러에 구입했습니다. 무게도 적당하고 확장성도 좋습니다. 이 거래에 만족합니다.",
+        "updated_tuples": "['weight', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 111,
+        "original_sentence": "the ones that do , doesn ' t have the numbering pad on the right side of the (1: keyboard) and i needed that .",
+        "original_tuples": "[['keyboard', 'KEYBOARD#DESIGN_FEATURES', 'negative']]\n",
+        "translated_sentence": "그런 종류의 키보드는 오른쪽에 번호 패드가 없어서 그게 필요했어요.",
+        "updated_tuples": "['keyboard', 'KEYBOARD#DESIGN_FEATURES', 'negative']"
+    },
+    {
+        "line": 184,
+        "original_sentence": "(1: google and partners) have done great with chromebooks and have plenty of features to accommodate .",
+        "original_tuples": "[['google and partners', 'COMPANY#GENERAL', 'positive']]\n",
+        "translated_sentence": "(1: Google과 파트너사는 Chromebook을 훌륭하게 개발했으며 다양한 기능을 수용할 수 있는 역량을 갖추고 있습니다.",
+        "updated_tuples": "['google and partners', 'COMPANY#GENERAL', 'positive']"
+    },
+    {
+        "line": 278,
+        "original_sentence": "i can certainly say this is the best (1: laptop) i ' ve ever had ( but then again i ' ve only had 3 , and you would expect these things to improve over time , right ) .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "확실히 이 노트북은 내가 지금까지 가진 것 중 최고라고 말할 수 있습니다(하지만 아직 3개만 가지고 있었고, 시간이 지나면서 이 제품이 더 좋아질 것이라고 기대할 수 있겠지만요).",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 349,
+        "original_sentence": "+ decent quantity of available (2: ports)",
+        "original_tuples": "[['ports', 'PORTS#QUALITY', 'positive'], ['ports', 'PORTS#QUALITY', 'positive']]\n",
+        "translated_sentence": "+ 사용 가능한 포트 수가 적당함 (2개)",
+        "updated_tuples": "['ports', 'PORTS#QUALITY', 'positive'], ['ports', 'PORTS#QUALITY', 'positive']"
+    },
+    {
+        "line": 370,
+        "original_sentence": "however , 1 ) the (1: speakers) on this thing are horrible .",
+        "original_tuples": "[['speakers', 'MULTIMEDIA_DEVICES#GENERAL', 'negative']]\n",
+        "translated_sentence": "하지만 1) 이 제품의 스피커는 끔찍합니다.",
+        "updated_tuples": "['speakers', 'MULTIMEDIA_DEVICES#GENERAL', 'negative']"
+    },
+    {
+        "line": 416,
+        "original_sentence": "2 (1: usb ports) and 2 (2: thunderbolt ports) on a $ 4500nz laptop ?",
+        "original_tuples": "[['usb ports', 'PORTS#GENERAL', 'negative'], ['thunderbolt ports', 'PORTS#GENERAL', 'negative']]\n",
+        "translated_sentence": "4,500달러짜리 노트북에 2개(1개: USB 포트)와 2개(2개: Thunderbolt 포트)가 있나요?",
+        "updated_tuples": "['usb ports', 'PORTS#GENERAL', 'negative'], ['thunderbolt ports', 'PORTS#GENERAL', 'negative']"
+    },
+    {
+        "line": 423,
+        "original_sentence": "after exactly one year of useage this (1: computer) completely stopped working .",
+        "original_tuples": "[['computer', 'LAPTOP#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "정확히 1년 동안 사용하다가 이 컴퓨터가 완전히 작동을 멈췄습니다.",
+        "updated_tuples": "['computer', 'LAPTOP#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 446,
+        "original_sentence": "* (1: battery) * - (1: battery) life is great .",
+        "original_tuples": "[['battery', 'BATTERY#GENERAL', 'positive'], ['battery life', 'BATTERY#GENERAL', 'positive']]\n",
+        "translated_sentence": "* 배터리 * - 배터리 수명이 매우 좋습니다.",
+        "updated_tuples": "['배터리', 'BATTERY#GENERAL', 'positive'], ['battery life', 'BATTERY#GENERAL', 'positive']"
+    },
+    {
+        "line": 453,
+        "original_sentence": "- nice , bright (2: screen) ( touch(2: screen) , too ! )",
+        "original_tuples": "[['screen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['screen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "- 훌륭하고 밝음화면 ( 터치화면도 !)",
+        "updated_tuples": "['화면', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['화면', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 472,
+        "original_sentence": "this is my favorite (1: computer) of all the ones i have ever owned .",
+        "original_tuples": "[['computer', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "이건 제가 지금껏 소유했던 모든 컴퓨터 중에서 제일 좋아하는 컴퓨터예요.",
+        "updated_tuples": "['computer', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 515,
+        "original_sentence": "now given that without the issue they are a nice (1: laptop) .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "이제 그 문제가 없다면 괜찮은 노트북이 될 겁니다.",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive']"
+    }
+]

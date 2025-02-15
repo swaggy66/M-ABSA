@@ -1,0 +1,156 @@
+[
+    {
+        "line": 4,
+        "original_sentence": "this (1: version) has been my least favorite (1: version) i ' ve had for the following reasons listed bellow the pros .",
+        "original_tuples": "[['version', 'LAPTOP#GENERAL', 'negative']]\n",
+        "translated_sentence": "Esta (versión 1:) ha sido mi (versión 1:) menos favorita que he tenido por las siguientes razones enumeradas debajo de los pros.",
+        "updated_tuples": "['version', 'LAPTOP#GENERAL', 'negative']"
+    },
+    {
+        "line": 9,
+        "original_sentence": "the (2: keyboard) is stiff and unresponsive to my typing at times .",
+        "original_tuples": "[['keyboard', 'KEYBOARD#QUALITY', 'negative'], ['keyboard', 'KEYBOARD#QUALITY', 'negative']]\n",
+        "translated_sentence": "El teclado (2) a veces está rígido y no responde a mi escritura.",
+        "updated_tuples": "['keyboard', 'KEYBOARD#QUALITY', 'negative'], ['keyboard', 'KEYBOARD#QUALITY', 'negative']"
+    },
+    {
+        "line": 16,
+        "original_sentence": "after some use , the (1: battery) charge had logically gone down some ( down to about 80 % ) , and so i went back to my office to plug it in .",
+        "original_tuples": "[['battery', 'BATTERY#OPERATION_PERFORMANCE', 'neutral']]\n",
+        "translated_sentence": "Después de un tiempo de uso, la carga de la (batería 1) lógicamente había bajado un poco (hasta aproximadamente el 80 %), por lo que volví a mi oficina para enchufarla.",
+        "updated_tuples": "['battery', 'BATTERY#OPERATION_PERFORMANCE', 'neutral']"
+    },
+    {
+        "line": 49,
+        "original_sentence": "i like that it ' s got the (1: 8th generation i5 cpu) .",
+        "original_tuples": "[['8th generation i5 cpu', 'CPU#GENERAL', 'positive']]\n",
+        "translated_sentence": "Me gusta que tenga la (CPU i5 de 1:8.a generación).",
+        "updated_tuples": "['8th generation i5 cpu', 'CPU#GENERAL', 'positive']"
+    },
+    {
+        "line": 61,
+        "original_sentence": "- the (2: battery life) is excellent ( i get 6 - 8 hours of normal university student usage out of it ) and even when i ' m using it , it charges as fast as my phone .",
+        "original_tuples": "[['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'positive'], ['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "- La duración de la batería (2) es excelente (obtengo entre 6 y 8 horas de uso normal de estudiante universitario) e incluso cuando lo uso, se carga tan rápido como mi teléfono.",
+        "updated_tuples": "['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'positive'], ['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 73,
+        "original_sentence": "i wanted an inexpensive (1: chromebook) and this fit the bill .",
+        "original_tuples": "[['chromebook', 'LAPTOP#PRICE', 'positive']]\n",
+        "translated_sentence": "Quería una Chromebook económica (1) y esta cumplía con los requisitos.",
+        "updated_tuples": "['chromebook', 'LAPTOP#PRICE', 'positive']"
+    },
+    {
+        "line": 80,
+        "original_sentence": "it is a basic little (1: laptop) and i love it .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Es una computadora portátil básica pequeña y me encanta.",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 81,
+        "original_sentence": "the (2: battery life) is incredible and literally lasts all day , not to mention it charges to 100 % in about an hour and a half .",
+        "original_tuples": "[['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'positive'], ['battery life', 'POWER_SUPPLY#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "La duración de la batería (2) es increíble y dura literalmente todo el día, sin mencionar que se carga al 100% en aproximadamente una hora y media.",
+        "updated_tuples": "['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'positive'], ['battery life', 'POWER_SUPPLY#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 94,
+        "original_sentence": "i ' m using it mainly to store movies , and the 1 tb (1: drive) is nice .",
+        "original_tuples": "[['drive', 'HARD_DISC#GENERAL', 'positive']]\n",
+        "translated_sentence": "Lo uso principalmente para almacenar películas, y 1 TB (1 unidad) es agradable.",
+        "updated_tuples": "['drive', 'HARD_DISC#GENERAL', 'positive']"
+    },
+    {
+        "line": 141,
+        "original_sentence": "it doesn ' t effect any of the functionality , but it was a little disappointing to open the box to see a (1: dent) on something i ' d just spend $ 1 , 000 on .",
+        "original_tuples": "[['dent', 'LAPTOP#GENERAL', 'negative']]\n",
+        "translated_sentence": "No afecta ninguna de las funciones, pero fue un poco decepcionante abrir la caja y ver una (abolladura de 1:) en algo en lo que gastaría $ 1,000.",
+        "updated_tuples": "['dent', 'LAPTOP#GENERAL', 'negative']"
+    },
+    {
+        "line": 158,
+        "original_sentence": "as i bought 13 inch (1: model) , it is very portable .",
+        "original_tuples": "[['model', 'LAPTOP#PORTABILITY', 'positive']]\n",
+        "translated_sentence": "Como compré el modelo de 13 pulgadas (modelo 1), es muy portátil.",
+        "updated_tuples": "['model', 'LAPTOP#PORTABILITY', 'positive']"
+    },
+    {
+        "line": 184,
+        "original_sentence": "all metal body , very slim form (1: factor) , and has a pretty decent (2: touchscreen) .",
+        "original_tuples": "[['factor', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#GENERAL', 'positive']]\n",
+        "translated_sentence": "Cuerpo totalmente metálico, forma muy delgada (factor 1) y tiene una pantalla táctil bastante decente (2).",
+        "updated_tuples": "['factor', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#GENERAL', 'positive']"
+    },
+    {
+        "line": 201,
+        "original_sentence": "it ' s their (1: policy) to only repair not replace .",
+        "original_tuples": "[['policy', 'SUPPORT#QUALITY', 'negative']]\n",
+        "translated_sentence": "Su política es solo reparar, no reemplazar.",
+        "updated_tuples": "['policy', 'SUPPORT#QUALITY', 'negative']"
+    },
+    {
+        "line": 203,
+        "original_sentence": "other than this , it ' s a decent (1: product) .",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Aparte de esto, es un producto decente.",
+        "updated_tuples": "['product', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 207,
+        "original_sentence": "after one charge , the (1: battery) would not take charge .",
+        "original_tuples": "[['battery', 'BATTERY#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "Después de una carga, la (batería 1) no se carga.",
+        "updated_tuples": "['battery', 'BATTERY#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 210,
+        "original_sentence": "i really liked it when i first got it , it performs very well and the (2: software) is very easy to use .",
+        "original_tuples": "[['NULL', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['software', 'SOFTWARE#USABILITY', 'positive']]\n",
+        "translated_sentence": "Realmente me gustó cuando lo compré por primera vez, funciona muy bien y el (software 2:) es muy fácil de usar.",
+        "updated_tuples": "['NULL', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['software', 'SOFTWARE#USABILITY', 'positive']"
+    },
+    {
+        "line": 211,
+        "original_sentence": "using (1: wifi) the signal seems to drop , not sure if the (1: wifi) adapter needs an update but there are issues .",
+        "original_tuples": "[['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "Al usar wifi, la señal parece caer. No estoy seguro de si el adaptador wifi necesita una actualización, pero hay problemas.",
+        "updated_tuples": "['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 237,
+        "original_sentence": "the (1: screen) looks amazing , ips it seems .",
+        "original_tuples": "[['screen', 'DISPLAY#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "La (pantalla 1:) se ve increíble, ips al parecer.",
+        "updated_tuples": "['screen', 'DISPLAY#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 252,
+        "original_sentence": "the (1: laptop) was shipped in what looked like a new case but upon opening it , it appeared used and repackaged .",
+        "original_tuples": "[['laptop', 'SHIPPING#QUALITY', 'negative']]\n",
+        "translated_sentence": "La computadora portátil (1) se envió en lo que parecía un estuche nuevo, pero al abrirla, parecía usada y reempaquetada.",
+        "updated_tuples": "['laptop', 'SHIPPING#QUALITY', 'negative']"
+    },
+    {
+        "line": 281,
+        "original_sentence": "a big part of this (2: device) is its gorgeous aesthetic .",
+        "original_tuples": "[['device', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['device', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "Una gran parte de este (dispositivo 2) es su magnífica estética.",
+        "updated_tuples": "['device', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['device', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 287,
+        "original_sentence": "after a week of use , i can safely say it is the most impressive (1: chromebook) i have used to - date .",
+        "original_tuples": "[['chromebook', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Después de una semana de uso, puedo decir con seguridad que es la Chromebook más impresionante que he usado hasta la fecha.",
+        "updated_tuples": "['chromebook', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 316,
+        "original_sentence": "it ' s fast and the (2: screen) is nice .",
+        "original_tuples": "[['NULL', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive']]\n",
+        "translated_sentence": "Es rápido y la (pantalla 2:) es agradable.",
+        "updated_tuples": "['NULL', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive']"
+    }
+]

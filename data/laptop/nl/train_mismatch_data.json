@@ -1,0 +1,114 @@
+[
+    {
+        "line": 154,
+        "original_sentence": "absolutly horrible (1: product) , cheap (2: components) make for unreliable (1: product)s , but when the nearest (4: service location) is 50 + miles away i wonder how much (5: apple) truly cares ?",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'negative'], ['components', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['service location', 'SUPPORT#GENERAL', 'negative'], ['apple', 'COMPANY#GENERAL', 'negative']]\n",
+        "translated_sentence": "absoluut verschrikkelijk product, goedkoop componenten maken product onbetrouwbaar, maar als de dichtstbijzijnde servicelocatie 80+ kilometer verderop is vraag ik me af hoeveel Apple er werkelijk om geeft?",
+        "updated_tuples": "['product', 'LAPTOP#GENERAL', 'negative'], ['componenten', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['servicelocatie', 'SUPPORT#GENERAL', 'negative'], ['Apple', 'COMPANY#GENERAL', 'negative']"
+    },
+    {
+        "line": 193,
+        "original_sentence": "if you do n ' t need a full blown (1: laptop) this is a good choice .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Als je geen volwaardige laptop nodig hebt, is dit een goede keuze.",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 387,
+        "original_sentence": "the new (3: pro model) is very light and compact , and can easily be carried around with you every day .",
+        "original_tuples": "[['pro model', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['pro model', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['pro model', 'LAPTOP#PORTABILITY', 'positive']]\n",
+        "translated_sentence": "het nieuwe (model 3: pro) is zeer licht en compact, en kan gemakkelijk elke dag met u meegedragen worden.",
+        "updated_tuples": "['pro model', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['pro model', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['pro model', 'LAPTOP#PORTABILITY', 'positive']"
+    },
+    {
+        "line": 454,
+        "original_sentence": "i loved the simplicity of chrome os while enjoying the (1: flip) aspect of being able to turn it into a reading tablet when i wanted to as well .",
+        "original_tuples": "[['flip', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "Ik vond de eenvoud van Chrome OS geweldig, en daarnaast vond ik het ook fijn dat ik het kon omdraaien en er een leestablet van kon maken als ik dat wilde.",
+        "updated_tuples": "['flip', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 550,
+        "original_sentence": "transferring files from a non - iphone phone , like (1: android) is extremely annoying .",
+        "original_tuples": "[['android', 'SOFTWARE#PORTABILITY', 'negative']]\n",
+        "translated_sentence": "Het overzetten van bestanden vanaf een andere telefoon dan een iPhone, zoals bijvoorbeeld een Android-telefoon, is buitengewoon vervelend.",
+        "updated_tuples": "['android', 'SOFTWARE#PORTABILITY', 'negative']"
+    },
+    {
+        "line": 634,
+        "original_sentence": "at the time of this posting , this (1: model) was going only for 1800 for the 512gb with a dedicated video card .",
+        "original_tuples": "[['model', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "op het moment dat dit bericht werd geplaatst, kostte dit (model 1) slechts 1800 voor de 512 GB met een speciale videokaart.",
+        "updated_tuples": "['model', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 708,
+        "original_sentence": "i went online and found that the 1 year (1: acer warranty) had already expired .",
+        "original_tuples": "[['acer warranty', 'WARRANTY#GENERAL', 'neutral']]\n",
+        "translated_sentence": "Ik ging online en zag dat de garantie van 1 jaar (1 jaar van Acer) al was verlopen.",
+        "updated_tuples": "['acer warranty', 'WARRANTY#GENERAL', 'neutral']"
+    },
+    {
+        "line": 731,
+        "original_sentence": "the (1: trackpad) is awful as are most acer (1: trackpad)s .",
+        "original_tuples": "[['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "het trackpad is verschrikkelijk, net als de meeste acer trackpads.",
+        "updated_tuples": "['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 1005,
+        "original_sentence": "moreover i ' m quite upset because it seems (1: amazon) will not pay me back the shipping fees , which for me amount to about 100 $ as i live in france .",
+        "original_tuples": "[['amazon', 'SHIPPING#GENERAL', 'negative']]\n",
+        "translated_sentence": "Bovendien ben ik behoorlijk overstuur omdat het erop lijkt dat Amazon de verzendkosten niet wil terugbetalen. Die bedragen voor mij ongeveer 100 dollar, aangezien ik in Frankrijk woon.",
+        "updated_tuples": "['amazon', 'SHIPPING#GENERAL', 'negative']"
+    },
+    {
+        "line": 1011,
+        "original_sentence": "more importantly i appreciate the uncanny (1: speed) to boot up or wake up .",
+        "original_tuples": "[['speed', 'OS#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "Wat ik nog belangrijker vind, is de snelheid waarmee het apparaat opstart of wakker wordt.",
+        "updated_tuples": "['speed', 'OS#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 1015,
+        "original_sentence": "however , for using it as a (1: tablet / computer with streaming) , it seems to only work half the time .",
+        "original_tuples": "[['tablet / computer with streaming', 'LAPTOP#GENERAL', 'negative']]\n",
+        "translated_sentence": "Echter, als je het als tablet/computer met streaming gebruikt, lijkt het maar de helft van de tijd te werken.",
+        "updated_tuples": "['tablet / computer with streaming', 'LAPTOP#GENERAL', 'negative']"
+    },
+    {
+        "line": 1059,
+        "original_sentence": "very easy to (1: set up) and light to carry .",
+        "original_tuples": "[['set up', 'LAPTOP#USABILITY', 'positive'], ['NULL', 'LAPTOP#PORTABILITY', 'positive']]\n",
+        "translated_sentence": "zeer eenvoudig op te zetten en licht om te dragen.",
+        "updated_tuples": "['set up', 'LAPTOP#USABILITY', 'positive'], ['NULL', 'LAPTOP#PORTABILITY', 'positive']"
+    },
+    {
+        "line": 1066,
+        "original_sentence": "the only draw back with this pc is the (1: battery life) which lasts about 3 hrs before needing to be charged .",
+        "original_tuples": "[['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "Het enige nadeel van deze pc is de batterijduur. Deze gaat ongeveer 3 uur mee voordat hij opgeladen moet worden.",
+        "updated_tuples": "['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 1083,
+        "original_sentence": "note : i bought a refurbished / ` ` damaged ` ` (1: model) from amazon and it ' s in absolutely flawless condition .",
+        "original_tuples": "[['model', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Let op: ik heb een opgeknapt/beschadigd (model 1) gekocht bij Amazon en deze is in absoluut onberispelijke staat.",
+        "updated_tuples": "['model', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 1211,
+        "original_sentence": "works great as a (1: chromebook) but (1: chromebook)s are still very limited for android compatibility , at least this one is .",
+        "original_tuples": "[['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']]\n",
+        "translated_sentence": "werkt prima als chromebook, maar chromebooks zijn nog steeds zeer beperkt compatibel met Android, in ieder geval deze wel.",
+        "updated_tuples": "['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']"
+    },
+    {
+        "line": 1241,
+        "original_sentence": "the (2: keyboard) makes it easy to type notes quickly and write papers , and the backlit (2: keyboard) is a major plus .",
+        "original_tuples": "[['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "Het toetsenbord maakt het gemakkelijk om snel aantekeningen te maken en papers te schrijven, en het verlichte toetsenbord is een groot pluspunt.",
+        "updated_tuples": "['toetsenbord', 'KEYBOARD#USABILITY', 'positive'], ['toetsenbord', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']"
+    }
+]

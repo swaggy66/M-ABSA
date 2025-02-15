@@ -1,0 +1,149 @@
+[
+    {
+        "line": 20,
+        "original_sentence": "if you are indifferent about the (1: screen) , do not buy this !",
+        "original_tuples": "[['screen', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "jika anda acuh tak acuh terhadap (layar 1), jangan beli ini!",
+        "updated_tuples": "['screen', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 33,
+        "original_sentence": "pros : nice size , clear (2: screen) , quick on start up , very functional and easy to use .",
+        "original_tuples": "[['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive'], ['NULL', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive']]\n",
+        "translated_sentence": "kelebihan : ukurannya bagus, jernih (layar 2), cepat saat memulai, sangat fungsional dan mudah digunakan.",
+        "updated_tuples": "['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive'], ['NULL', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive']"
+    },
+    {
+        "line": 77,
+        "original_sentence": "it ' s light and thin , and overall the (3: screen) is pretty good .",
+        "original_tuples": "[['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive']]\n",
+        "translated_sentence": "ringan dan tipis, dan secara keseluruhan (layar 3) cukup bagus.",
+        "updated_tuples": "['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive']"
+    },
+    {
+        "line": 82,
+        "original_sentence": "in preparation for becoming a chromebook user i had purchased a 256 gig (1: memory card) and moved all my laptop files to it .",
+        "original_tuples": "[['memory card', 'MEMORY#GENERAL', 'neutral']]\n",
+        "translated_sentence": "sebagai persiapan menjadi pengguna chromebook saya telah membeli kartu memori 256 gig (1: dan memindahkan semua file laptop saya ke sana.",
+        "updated_tuples": "['memory card', 'MEMORY#GENERAL', 'neutral']"
+    },
+    {
+        "line": 83,
+        "original_sentence": "best for : if you are looking for a travel (2: laptop) and are planning on doing light work this is an amazing buy for the price .",
+        "original_tuples": "[['laptop', 'LAPTOP#PORTABILITY', 'positive'], ['laptop', 'LAPTOP#PRICE', 'positive']]\n",
+        "translated_sentence": "terbaik untuk: jika Anda mencari laptop untuk bepergian (2: dan berencana melakukan pekerjaan ringan, ini adalah pembelian yang luar biasa untuk harganya.",
+        "updated_tuples": "['laptop', 'LAPTOP#PORTABILITY', 'positive'], ['laptop', 'LAPTOP#PRICE', 'positive']"
+    },
+    {
+        "line": 146,
+        "original_sentence": "one of the first things i noticed after firing up this (2: device) was how quiet and effortlessly it performs all tasks that i ask of it .",
+        "original_tuples": "[['device', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['device', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "salah satu hal pertama yang saya sadari setelah menjalankan ini (perangkat 2) adalah betapa senyap dan mudahnya ia menjalankan semua tugas yang saya minta.",
+        "updated_tuples": "['device', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['device', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 154,
+        "original_sentence": "absolutly horrible (1: product) , cheap (2: components) make for unreliable (1: product)s , but when the nearest (4: service location) is 50 + miles away i wonder how much (5: apple) truly cares ?",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'negative'], ['components', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['service location', 'SUPPORT#GENERAL', 'negative'], ['apple', 'COMPANY#GENERAL', 'negative']]\n",
+        "translated_sentence": "benar-benar buruk produk, murah komponen membuat produk tidak bisa diandalkan, tetapi ketika lokasi layanan terdekat berjarak 50+ mil, saya bertanya-tanya seberapa besar Apple benar-benar peduli?",
+        "updated_tuples": "['produk', 'LAPTOP#GENERAL', 'negative'], ['komponen', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['lokasi layanan', 'SUPPORT#GENERAL', 'negative'], ['Apple', 'COMPANY#GENERAL', 'negative']"
+    },
+    {
+        "line": 314,
+        "original_sentence": "i ' m running it at 2500x1400 (2: resolution) extremely thin and lightweight .",
+        "original_tuples": "[['resolution', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['resolution', 'DISPLAY#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "Saya menjalankannya pada 2500x1400 (resolusi 2): sangat tipis dan ringan.",
+        "updated_tuples": "['resolution', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['resolution', 'DISPLAY#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 349,
+        "original_sentence": "a fantastic (1: product) , with an aluminum frame , (4: touchscreen) , and high (3: definition) ; high resolution screen ; you can ' t beat this .",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'positive'], ['touchscreen', 'LAPTOP#GENERAL', 'neutral'], ['definition', 'DISPLAY#GENERAL', 'positive'], ['touchscreen', 'DISPLAY#GENERAL', 'positive']]\n",
+        "translated_sentence": "fantastis produk, dengan rangka aluminium, layar sentuh, dan definisi tinggi (3: layar beresolusi tinggi; tidak ada yang bisa mengalahkan ini.",
+        "updated_tuples": "['produk', 'LAPTOP#GENERAL', 'positive'], ['layar sentuh', 'LAPTOP#GENERAL', 'neutral'], ['definition', 'DISPLAY#GENERAL', 'positive'], ['layar sentuh', 'DISPLAY#GENERAL', 'positive']"
+    },
+    {
+        "line": 516,
+        "original_sentence": "happy i got a great (2: machine) for half the cost !",
+        "original_tuples": "[['machine', 'LAPTOP#PRICE', 'positive'], ['machine', 'LAPTOP#PRICE', 'positive']]\n",
+        "translated_sentence": "senang saya mendapatkan (mesin 2) yang hebat dengan setengah biaya!",
+        "updated_tuples": "['machine', 'LAPTOP#PRICE', 'positive'], ['machine', 'LAPTOP#PRICE', 'positive']"
+    },
+    {
+        "line": 634,
+        "original_sentence": "at the time of this posting , this (1: model) was going only for 1800 for the 512gb with a dedicated video card .",
+        "original_tuples": "[['model', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "pada saat postingan ini, (model 1) ini hanya dijual seharga 1800 untuk 512gb dengan kartu video khusus.",
+        "updated_tuples": "['model', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 660,
+        "original_sentence": "surprisingly to me , the (2: tablet form) has been better than expected for reading .",
+        "original_tuples": "[['tablet form', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['tablet form', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "yang mengejutkan bagi saya, (bentuk tablet 2) lebih baik dari yang diharapkan untuk membaca.",
+        "updated_tuples": "['tablet form', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['tablet form', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 719,
+        "original_sentence": "the (2: 4gb / 32gb version) is fast and smooth and has enough (3: storage space) for your work documents and e - books for ready access when no internet is available .",
+        "original_tuples": "[['4gb / 32gb version', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['4gb / 32gb version', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['storage space', 'MEMORY#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "(versi 2: 4gb / 32gb) cepat dan lancar dan memiliki cukup ruang penyimpanan untuk dokumen kerja dan e-book Anda untuk akses mudah saat tidak ada internet tersedia.",
+        "updated_tuples": "['4gb / 32gb version', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['4gb / 32gb version', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['ruang penyimpanan', 'MEMORY#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 731,
+        "original_sentence": "the (1: trackpad) is awful as are most acer (1: trackpad)s .",
+        "original_tuples": "[['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "trackpad-nya jelek, begitu pula sebagian besar acer trackpad.",
+        "updated_tuples": "['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 754,
+        "original_sentence": "i am beyond impressed with this little (1: machine) , i would absolutly buy this again !",
+        "original_tuples": "[['machine', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Saya sangat terkesan dengan (mesin 1) kecil ini, saya pasti akan membelinya lagi!",
+        "updated_tuples": "['machine', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 801,
+        "original_sentence": "this is a good (1: product) based on my experience - i have used this for almost a whole month .",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "ini adalah produk yang bagus (1: berdasarkan pengalaman saya - saya telah menggunakan ini selama hampir sebulan penuh.",
+        "updated_tuples": "['product', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 965,
+        "original_sentence": "the (2: 8th generation processor) and (3: ssd) make for a very snappy (1: computer) , and the easy upgradablility is helpful now and will be useful in the future .",
+        "original_tuples": "[['computer', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['8th generation processor', 'CPU#OPERATION_PERFORMANCE', 'positive'], ['ssd', 'HARDWARE#GENERAL', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive']]\n",
+        "translated_sentence": "(prosesor generasi ke-2:8) dan ssd membuat komputer sangat cepat, dan kemudahan peningkatannya sangat membantu sekarang dan akan berguna di masa mendatang.",
+        "updated_tuples": "['sangat cepat', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['8th generation processor', 'CPU#OPERATION_PERFORMANCE', 'positive'], ['ssd', 'HARDWARE#GENERAL', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive']"
+    },
+    {
+        "line": 1026,
+        "original_sentence": "i absolutely love this (4: laptop) , it looks great , its quality is amazing and can handle so many games without any lag involved .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive'], ['laptop', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['laptop', 'LAPTOP#QUALITY', 'positive'], ['laptop', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "Saya benar-benar suka laptop ini (4), tampilannya hebat, kualitasnya menakjubkan dan dapat menangani banyak game tanpa ada hambatan apa pun.",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive'], ['laptop', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['laptop', 'LAPTOP#QUALITY', 'positive'], ['laptop', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 1083,
+        "original_sentence": "note : i bought a refurbished / ` ` damaged ` ` (1: model) from amazon and it ' s in absolutely flawless condition .",
+        "original_tuples": "[['model', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "catatan: saya membeli yang sudah diperbaharui / `` rusak `` (model 1) dari amazon dan dalam kondisi yang benar-benar sempurna.",
+        "updated_tuples": "['model', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 1211,
+        "original_sentence": "works great as a (1: chromebook) but (1: chromebook)s are still very limited for android compatibility , at least this one is .",
+        "original_tuples": "[['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']]\n",
+        "translated_sentence": "berfungsi baik sebagai chromebook tetapi chromebook masih sangat terbatas untuk kompatibilitas android, setidaknya yang ini.",
+        "updated_tuples": "['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']"
+    },
+    {
+        "line": 1241,
+        "original_sentence": "the (2: keyboard) makes it easy to type notes quickly and write papers , and the backlit (2: keyboard) is a major plus .",
+        "original_tuples": "[['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "keyboard memudahkan mengetik catatan dengan cepat dan menulis makalah, dan keyboard dengan lampu latar merupakan nilai tambah yang besar.",
+        "updated_tuples": "['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']"
+    }
+]

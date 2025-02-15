@@ -1,0 +1,65 @@
+[
+    {
+        "line": 123,
+        "original_sentence": "thus far , i ' ve loaded a number of games , my password vault , several productivity apps , skype , spotify and some network scanning (2: android apps) and they ' ve all worked very well .",
+        "original_tuples": "[['NULL', 'SOFTWARE#OPERATION_PERFORMANCE', 'positive'], ['android apps', 'SOFTWARE#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "На данный момент я загрузил несколько игр, свое хранилище паролей, несколько приложений для повышения производительности, Skype, Spotify и несколько сетевых сканеров (2 приложения для Android), и все они работают очень хорошо.",
+        "updated_tuples": "['NULL', 'SOFTWARE#OPERATION_PERFORMANCE', 'positive'], ['android apps', 'SOFTWARE#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 130,
+        "original_sentence": "this is my second (1: chromebook) and my next purchase will be a chromebase to replace my home pc .",
+        "original_tuples": "[['chromebook', 'LAPTOP#GENERAL', 'neutral']]\n",
+        "translated_sentence": "Это мой второй (первый: Chromebook) и моей следующей покупкой будет Chromebase для замены моего домашнего ПК.",
+        "updated_tuples": "['chromebook', 'LAPTOP#GENERAL', 'neutral']"
+    },
+    {
+        "line": 188,
+        "original_sentence": "this (1: screen ratio) makes it look great in desktop mode .",
+        "original_tuples": "[['screen ratio', 'DISPLAY#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "благодаря этому (соотношение сторон экрана 1:1) он отлично смотрится в режиме рабочего стола.",
+        "updated_tuples": "['screen ratio', 'DISPLAY#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 216,
+        "original_sentence": "the touch screen is really accurate , and the (1: 360 flip) feature is really easy - i can switch to tablet mode anytime , although i use this much more often as a laptop .",
+        "original_tuples": "[['360 flip', 'Out_Of_Scope#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "Сенсорный экран действительно точный, а функция (переворот на 360 градусов) очень проста — я могу переключиться в режим планшета в любое время, хотя я гораздо чаще использую его как ноутбук.",
+        "updated_tuples": "['360 flip', 'Out_Of_Scope#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 376,
+        "original_sentence": "my trusty (1: windows 7 laptop) was on its last leg and i opted to try something new .",
+        "original_tuples": "[['windows 7 laptop', 'LAPTOP#GENERAL', 'neutral']]\n",
+        "translated_sentence": "Мой верный друг (ноутбук с Windows 7) был на последнем издыхании, и я решил попробовать что-то новое.",
+        "updated_tuples": "['windows 7 laptop', 'LAPTOP#GENERAL', 'neutral']"
+    },
+    {
+        "line": 404,
+        "original_sentence": "i love that it is only as big as it needs to be to have a full - size (2: keyboard) ( not with a number pad , but full - sized keys ) .",
+        "original_tuples": "[['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "Мне нравится, что он ровно настолько большой, насколько это необходимо для полноразмерной клавиатуры (не с цифровым блоком, но с полноразмерными клавишами).",
+        "updated_tuples": "['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 411,
+        "original_sentence": "perfect (3: size) to use in bed and nice and bright .",
+        "original_tuples": "[['size', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['size', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['size', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "Идеально подходит (размер 3) для использования в постели, красивый и яркий.",
+        "updated_tuples": "['size', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['size', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['size', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 446,
+        "original_sentence": "* (1: battery) * - (1: battery) life is great .",
+        "original_tuples": "[['battery', 'BATTERY#GENERAL', 'positive'], ['battery life', 'BATTERY#GENERAL', 'positive']]\n",
+        "translated_sentence": "* аккумулятор * - аккумулятор срок службы отличный.",
+        "updated_tuples": "['аккумулятор', 'BATTERY#GENERAL', 'positive'], ['battery life', 'BATTERY#GENERAL', 'positive']"
+    },
+    {
+        "line": 453,
+        "original_sentence": "- nice , bright (2: screen) ( touch(2: screen) , too ! )",
+        "original_tuples": "[['screen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['screen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "- хороший, яркий экран (тачэкран тоже!)",
+        "updated_tuples": "['экран', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['экран', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive']"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "line": 15,
+        "original_sentence": "but do not dare will only be good for playing games maybe (1: it) will get better .",
+        "aspect": "it"
+    },
+    {
+        "line": 20,
+        "original_sentence": "the brand new (1: vivobook) is dead in the water !",
+        "aspect": "vivobook"
+    },
+    {
+        "line": 58,
+        "original_sentence": "(1: acer) seems to be the only one who puts together stuff like this .",
+        "aspect": "acer"
+    },
+    {
+        "line": 59,
+        "original_sentence": "the (1: bluetooth) connects easily to everything .",
+        "aspect": "bluetooth"
+    },
+    {
+        "line": 152,
+        "original_sentence": "such a nice (1: mac)",
+        "aspect": "mac"
+    },
+    {
+        "line": 158,
+        "original_sentence": "as i bought 13 inch (1: model) , it is very portable .",
+        "aspect": "model"
+    },
+    {
+        "line": 166,
+        "original_sentence": "this is where the (1: r11) gets interesting .",
+        "aspect": "r11"
+    },
+    {
+        "line": 179,
+        "original_sentence": "now i ' m just down to some gripes that are probably here to stay : the (1: bluetooth) on this thing is really fussy , the non - functional video output ( using usb - c video out through an hdmi cable sends just a blank desktop background and no audio , even if i am playing a movie or youtube visibly on the c302 screen ) , and that it can ' t hold a vpn connection without dropping it every 20 - 30 minutes .",
+        "aspect": "bluetooth"
+    },
+    {
+        "line": 187,
+        "original_sentence": "unlike other asus laptops i ' ve tried , this (1: unit) won the display roulette .",
+        "aspect": "unit"
+    },
+    {
+        "line": 211,
+        "original_sentence": "using (1: wifi) the signal seems to drop , not sure if the (1: wifi) adapter needs an update but there are issues .",
+        "aspect": "wifi adapter"
+    },
+    {
+        "line": 245,
+        "original_sentence": "this little (1: vivo) had the speed / storage that we need , the (3: materials) feel substantial instead of cheap .",
+        "aspect": "vivo"
+    },
+    {
+        "line": 291,
+        "original_sentence": "update : the (1: c302) now supports google play store services on the stable channel .",
+        "aspect": "c302"
+    }
+]

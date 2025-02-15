@@ -1,0 +1,93 @@
+[
+    {
+        "line": 4,
+        "original_sentence": "this (1: version) has been my least favorite (1: version) i ' ve had for the following reasons listed bellow the pros .",
+        "original_tuples": "[['version', 'LAPTOP#GENERAL', 'negative']]\n",
+        "translated_sentence": "(Phiên bản 1) này là phiên bản tôi ít thích nhất (Phiên bản 1) vì những lý do sau đây được liệt kê dưới đây là ưu điểm.",
+        "updated_tuples": "['version', 'LAPTOP#GENERAL', 'negative']"
+    },
+    {
+        "line": 29,
+        "original_sentence": "but my main concerns for everyone is the heat and (1: fan) noises , both are very apparent and if you have this on your lap you better have a laptop tray or keep it on a desk .",
+        "original_tuples": "[['fan', 'FANS&COOLING#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "nhưng mối quan tâm chính của tôi đối với mọi người là nhiệt độ và tiếng ồn của quạt, cả hai đều rất rõ ràng và nếu bạn đặt nó trên đùi thì tốt hơn hết bạn nên có khay đựng máy tính xách tay hoặc để nó trên bàn.",
+        "updated_tuples": "['fan', 'FANS&COOLING#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 53,
+        "original_sentence": "i would knock a star for the (1: hard drive size) since it ' s incredibly small but at this price you can easily pick up large one to add if you want to and it ' s not like you aren ' t warned when you buy it .",
+        "original_tuples": "[['hard drive size', 'HARD_DISC#MISCELLANEOUS', 'positive']]\n",
+        "translated_sentence": "Tôi sẽ đánh giá thấp sản phẩm này vì nó cực kỳ nhỏ nhưng với mức giá này, bạn có thể dễ dàng mua ổ cứng lớn hơn để lắp thêm nếu muốn và bạn sẽ được cảnh báo khi mua.",
+        "updated_tuples": "['hard drive size', 'HARD_DISC#MISCELLANEOUS', 'positive']"
+    },
+    {
+        "line": 71,
+        "original_sentence": "this is a functional (2: laptop) , perfect for work and casual internet browsing .",
+        "original_tuples": "[['laptop', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['laptop', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "Đây là một máy tính xách tay đa chức năng (2): hoàn hảo cho công việc và lướt web thông thường.",
+        "updated_tuples": "['laptop', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['laptop', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 99,
+        "original_sentence": "only thing i really didn ' t like about this was how quickly the (1: battery) drained .",
+        "original_tuples": "[['battery', 'BATTERY#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "điều duy nhất tôi thực sự không thích ở sản phẩm này là pin nhanh hết.",
+        "updated_tuples": "['battery', 'BATTERY#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 140,
+        "original_sentence": "i am extremely happy with this (1: laptop) .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Tôi cực kỳ hài lòng với chiếc máy tính xách tay này (1).",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 148,
+        "original_sentence": "less of a fault of the much lauded diving board and more a factor of the very well designed new (1: hardware) .",
+        "original_tuples": "[['hardware', 'HARDWARE#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "ít hơn là lỗi của ván nhảy được ca ngợi nhiều và nhiều hơn là của phần cứng mới được thiết kế rất tốt (1).",
+        "updated_tuples": "['hardware', 'HARDWARE#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 158,
+        "original_sentence": "as i bought 13 inch (1: model) , it is very portable .",
+        "original_tuples": "[['model', 'LAPTOP#PORTABILITY', 'positive']]\n",
+        "translated_sentence": "vì tôi mua loại 13 inch (mẫu 1:), nên nó rất dễ mang theo.",
+        "updated_tuples": "['model', 'LAPTOP#PORTABILITY', 'positive']"
+    },
+    {
+        "line": 201,
+        "original_sentence": "it ' s their (1: policy) to only repair not replace .",
+        "original_tuples": "[['policy', 'SUPPORT#QUALITY', 'negative']]\n",
+        "translated_sentence": "chính sách của họ là chỉ sửa chữa chứ không phải thay thế.",
+        "updated_tuples": "['policy', 'SUPPORT#QUALITY', 'negative']"
+    },
+    {
+        "line": 211,
+        "original_sentence": "using (1: wifi) the signal seems to drop , not sure if the (1: wifi) adapter needs an update but there are issues .",
+        "original_tuples": "[['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "khi sử dụng wifi tín hiệu có vẻ giảm, không chắc bộ điều hợp wifi có cần cập nhật không nhưng có vấn đề.",
+        "updated_tuples": "['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 214,
+        "original_sentence": "i didn ' t even call for tech help because a (1: brand new laptop) should not be giving me such a headache .",
+        "original_tuples": "[['brand new laptop', 'LAPTOP#GENERAL', 'negative']]\n",
+        "translated_sentence": "Tôi thậm chí còn không gọi trợ giúp kỹ thuật vì một chiếc máy tính xách tay hoàn toàn mới không thể khiến tôi đau đầu đến vậy.",
+        "updated_tuples": "['brand new laptop', 'LAPTOP#GENERAL', 'negative']"
+    },
+    {
+        "line": 287,
+        "original_sentence": "after a week of use , i can safely say it is the most impressive (1: chromebook) i have used to - date .",
+        "original_tuples": "[['chromebook', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "sau một tuần sử dụng, tôi có thể khẳng định đây là chiếc Chromebook ấn tượng nhất mà tôi từng sử dụng cho đến nay.",
+        "updated_tuples": "['chromebook', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 295,
+        "original_sentence": "can get pretty warm running an intensive (1: android app) for a while .",
+        "original_tuples": "[['android app', 'LAPTOP#QUALITY', 'negative']]\n",
+        "translated_sentence": "có thể trở nên khá nóng khi chạy một ứng dụng Android chuyên sâu trong một thời gian.",
+        "updated_tuples": "['android app', 'LAPTOP#QUALITY', 'negative']"
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "line": 47,
+        "original_sentence": "mine arrived with the (1: metal screen casing) slightly bent , i can easily bend it back , not sure about the durability of this thing in the long term .",
+        "original_tuples": "[['metal screen casing', 'DISPLAY#QUALITY', 'negative']]\n",
+        "translated_sentence": "สินค้าของฉันมาถึงโดยมีตัวเรือนโลหะ 1 ชิ้นงอเล็กน้อย แต่ฉันสามารถงอมันกลับได้อย่างง่ายดาย ไม่แน่ใจเรื่องความทนทานของสิ่งนี้ในระยะยาว",
+        "updated_tuples": "['metal screen casing', 'DISPLAY#QUALITY', 'negative']"
+    },
+    {
+        "line": 76,
+        "original_sentence": "this is an amazing (1: computer) i bought from cellelectronics .",
+        "original_tuples": "[['computer', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "นี่เป็นคอมพิวเตอร์ที่น่าทึ่งมากที่ฉันซื้อมาจาก Cellelectronics",
+        "updated_tuples": "['computer', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 86,
+        "original_sentence": "i ' m a (1: graphic) designer / gamer and my creative software operates with no problems and i ' m able to play the sims 4 and world of warcraft on very high settings with no problems at all .",
+        "original_tuples": "[['graphic', 'GRAPHICS#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "ฉันเป็นนักออกแบบกราฟิก / นักเล่นเกม และซอฟต์แวร์สร้างสรรค์ของฉันทำงานได้โดยไม่มีปัญหา และฉันสามารถเล่น The Sims 4 และ World of Warcraft ได้ในระดับการตั้งค่าสูงสุดโดยไม่มีปัญหาใดๆ เลย",
+        "updated_tuples": "['graphic', 'GRAPHICS#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 102,
+        "original_sentence": "this is easily the best overall (1: chromebook) out there right now ( under $ 500 ) .",
+        "original_tuples": "[['chromebook', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "โดยรวมแล้วนี่เป็น Chromebook ที่ดีที่สุดเท่าที่มีมา (ราคาต่ำกว่า 500 เหรียญสหรัฐ)",
+        "updated_tuples": "['chromebook', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 170,
+        "original_sentence": "it does have a nice (4: screen) that is very bright , decent viewing angle and ok for contrast .",
+        "original_tuples": "[['screen', 'DISPLAY#GENERAL', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive']]\n",
+        "translated_sentence": "มันมีหน้าจอขนาด 4 นิ้วที่สวยงาม สว่างมาก มุมมองที่เหมาะสม และความคมชัดพอใช้ได้",
+        "updated_tuples": "['screen', 'DISPLAY#GENERAL', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive']"
+    },
+    {
+        "line": 188,
+        "original_sentence": "this (1: screen ratio) makes it look great in desktop mode .",
+        "original_tuples": "[['screen ratio', 'DISPLAY#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "(อัตราส่วน 1: หน้าจอ) นี้ทำให้ดูดีเยี่ยมในโหมดเดสก์ท็อป",
+        "updated_tuples": "['screen ratio', 'DISPLAY#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 192,
+        "original_sentence": "no matter how many times i reinserted the (1: charging adapter) , i kept getting this message .",
+        "original_tuples": "[['charging adapter', 'POWER_SUPPLY#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "ไม่ว่าฉันจะเสียบอะแดปเตอร์ชาร์จ (1: เข้าไปใหม่กี่ครั้งก็ตาม ฉันก็ยังคงได้รับข้อความนี้อยู่",
+        "updated_tuples": "['charging adapter', 'POWER_SUPPLY#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 208,
+        "original_sentence": "(1: mx150 gaphics card) is also pretty bad .",
+        "original_tuples": "[['mx150 gaphics card', 'GRAPHICS#GENERAL', 'negative']]\n",
+        "translated_sentence": "(การ์ด 1: mx150 gaphics) ก็แย่เหมือนกัน",
+        "updated_tuples": "['mx150 gaphics card', 'GRAPHICS#GENERAL', 'negative']"
+    },
+    {
+        "line": 210,
+        "original_sentence": "i found the (2: display) to be very vibrant , with excellent pixel density .",
+        "original_tuples": "[['display', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['display', 'DISPLAY#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "ฉันพบว่าจอแสดงผล (2) มีสีสันสดใสมาก และมีความหนาแน่นของพิกเซลที่ยอดเยี่ยม",
+        "updated_tuples": "['display', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['display', 'DISPLAY#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 216,
+        "original_sentence": "the touch screen is really accurate , and the (1: 360 flip) feature is really easy - i can switch to tablet mode anytime , although i use this much more often as a laptop .",
+        "original_tuples": "[['360 flip', 'Out_Of_Scope#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "หน้าจอสัมผัสมีความแม่นยำมาก และฟีเจอร์ (พลิก 1:360) ก็ใช้งานง่ายมาก ฉันสามารถสลับไปที่โหมดแท็บเล็ตได้ตลอดเวลา แม้ว่าฉันจะใช้โหมดนี้บ่อยกว่ามากในฐานะแล็ปท็อปก็ตาม",
+        "updated_tuples": "['360 flip', 'Out_Of_Scope#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 265,
+        "original_sentence": "great price for a good (2: book) used for college students who carry all day",
+        "original_tuples": "[['book', 'LAPTOP#GENERAL', 'positive'], ['book', 'LAPTOP#PRICE', 'positive']]\n",
+        "translated_sentence": "ราคาสุดคุ้มสำหรับหนังสือดี ๆ (2 เล่ม) ที่ใช้ได้สำหรับนักศึกษาที่ต้องพกทั้งวัน",
+        "updated_tuples": "['book', 'LAPTOP#GENERAL', 'positive'], ['book', 'LAPTOP#PRICE', 'positive']"
+    },
+    {
+        "line": 274,
+        "original_sentence": "the (2: screen) is clear and bright and the (3: system) doesn ' t lag unless i have a large number of tabs open .",
+        "original_tuples": "[['screen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['screen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['system', 'OS#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "หน้าจอ (2) มีความชัดเจนและสว่าง และระบบ (3) จะไม่ล่าช้า เว้นแต่ฉันจะเปิดแท็บไว้จำนวนมาก",
+        "updated_tuples": "['screen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['screen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['system', 'OS#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 292,
+        "original_sentence": "the core m3 processor allows the c302 to be fanless , as well , adding to the sleek (1: design) .",
+        "original_tuples": "[['design', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "โปรเซสเซอร์หลัก M3 ช่วยให้ C302 ไม่ต้องใช้พัดลมอีกด้วย จึงทำให้มีดีไซน์ที่เพรียวบาง",
+        "updated_tuples": "['design', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 309,
+        "original_sentence": "the (1: return procedure) is so elaborate that i may decide to just write this purchase up as one big mistake .",
+        "original_tuples": "[['return procedure', 'SUPPORT#GENERAL', 'negative']]\n",
+        "translated_sentence": "(ขั้นตอนการคืนสินค้า 1) ซับซ้อนมากจนฉันอาจตัดสินใจเขียนการซื้อครั้งนี้ว่าเป็นความผิดพลาดครั้งใหญ่ก็ได้",
+        "updated_tuples": "['return procedure', 'SUPPORT#GENERAL', 'negative']"
+    },
+    {
+        "line": 312,
+        "original_sentence": "i don ' t think you ' ll find a better (1: laptop) at this price point .",
+        "original_tuples": "[['laptop', 'LAPTOP#PRICE', 'positive']]\n",
+        "translated_sentence": "ฉันไม่คิดว่าคุณจะหาโน้ตบุ๊กที่ดีกว่านี้ในราคาเท่านี้ได้",
+        "updated_tuples": "['laptop', 'LAPTOP#PRICE', 'positive']"
+    },
+    {
+        "line": 355,
+        "original_sentence": "so i went to install my favorite (1: screenwriting app) , trelby , only to find its not available .",
+        "original_tuples": "[['screenwriting app', 'SOFTWARE#GENERAL', 'positive']]\n",
+        "translated_sentence": "ฉันไปติดตั้งแอปโปรดของฉัน (แอปเขียนบทภาพยนตร์) ชื่อ Trelby แต่กลับพบว่าไม่มีแอปนี้",
+        "updated_tuples": "['screenwriting app', 'SOFTWARE#GENERAL', 'positive']"
+    },
+    {
+        "line": 366,
+        "original_sentence": "- the (1: touch screen) isn ' t as accurate as i wish , for cases like tapping tiny things around the edges .",
+        "original_tuples": "[['touch screen', 'DISPLAY#GENERAL', 'negative']]\n",
+        "translated_sentence": "- หน้าจอสัมผัส (1) ไม่แม่นยำเท่าที่ฉันต้องการ เช่น การแตะสิ่งเล็กๆ น้อยๆ รอบขอบ",
+        "updated_tuples": "['touch screen', 'DISPLAY#GENERAL', 'negative']"
+    },
+    {
+        "line": 370,
+        "original_sentence": "however , 1 ) the (1: speakers) on this thing are horrible .",
+        "original_tuples": "[['speakers', 'MULTIMEDIA_DEVICES#GENERAL', 'negative']]\n",
+        "translated_sentence": "อย่างไรก็ตาม 1) ลำโพงบนสิ่งนี้แย่มาก",
+        "updated_tuples": "['speakers', 'MULTIMEDIA_DEVICES#GENERAL', 'negative']"
+    },
+    {
+        "line": 373,
+        "original_sentence": "i do like the (3: screen) on this , images are clean and crisp , enjoying the 4 gigs of (4: ram) which allow me to have a few more tab open .",
+        "original_tuples": "[['screen', 'DISPLAY#GENERAL', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive'], ['ram', 'MEMORY#GENERAL', 'positive']]\n",
+        "translated_sentence": "ฉันชอบหน้าจอ  ของเครื่องนี้มาก รูปภาพดูคมชัด ทำให้ฉันเพลิดเพลินกับแรม 4GB ที่ทำให้ฉันเปิดแท็บเพิ่มได้อีกสองสามแท็บ",
+        "updated_tuples": "['', 'DISPLAY#GENERAL', 'positive'], ['', 'DISPLAY#GENERAL', 'positive'], ['', 'DISPLAY#GENERAL', 'positive'], ['ram', 'MEMORY#GENERAL', 'positive']"
+    },
+    {
+        "line": 376,
+        "original_sentence": "my trusty (1: windows 7 laptop) was on its last leg and i opted to try something new .",
+        "original_tuples": "[['windows 7 laptop', 'LAPTOP#GENERAL', 'neutral']]\n",
+        "translated_sentence": "แล็ปท็อป Windows 7 ที่เชื่อถือได้ของฉันใกล้จะหมดอายุการใช้งานแล้ว ฉันจึงตัดสินใจลองอะไรใหม่ๆ",
+        "updated_tuples": "['windows 7 laptop', 'LAPTOP#GENERAL', 'neutral']"
+    },
+    {
+        "line": 446,
+        "original_sentence": "* (1: battery) * - (1: battery) life is great .",
+        "original_tuples": "[['battery', 'BATTERY#GENERAL', 'positive'], ['battery life', 'BATTERY#GENERAL', 'positive']]\n",
+        "translated_sentence": "* แบตเตอรี่ * - แบตเตอรี่ อายุการใช้งานยาวนาน",
+        "updated_tuples": "['แบตเตอรี่', 'BATTERY#GENERAL', 'positive'], ['battery life', 'BATTERY#GENERAL', 'positive']"
+    },
+    {
+        "line": 453,
+        "original_sentence": "- nice , bright (2: screen) ( touch(2: screen) , too ! )",
+        "original_tuples": "[['screen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['screen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "- สวยงาม สว่าง หน้าจอ (สัมผัส หน้าจอ ได้ด้วย!)",
+        "updated_tuples": "['หน้าจอ', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['หน้าจอ', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 460,
+        "original_sentence": "i purchased this (1: computer) because it came highly rated by consumer reports , pc magazine , and other raters .",
+        "original_tuples": "[['computer', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "ฉันซื้อคอมพิวเตอร์เครื่องนี้ (1) เพราะได้รับคะแนนสูงจาก Consumer Reports, นิตยสาร PC และผู้ให้คะแนนรายอื่นๆ",
+        "updated_tuples": "['computer', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 475,
+        "original_sentence": "we ' ve had the (1: computer) for 5 weeks , used it a total of less than 20 hours , and now it will be gone for 3 weeks .",
+        "original_tuples": "[['computer', 'LAPTOP#GENERAL', 'neutral'], ['NULL', 'LAPTOP#GENERAL', 'negative']]\n",
+        "translated_sentence": "เราใช้คอมพิวเตอร์เครื่องนี้มา 5 สัปดาห์แล้ว ใช้ไปทั้งหมดไม่ถึง 20 ชั่วโมง และตอนนี้มันก็หายไปอีก 3 สัปดาห์แล้ว",
+        "updated_tuples": "['computer', 'LAPTOP#GENERAL', 'neutral'], ['NULL', 'LAPTOP#GENERAL', 'negative']"
+    },
+    {
+        "line": 484,
+        "original_sentence": "after 3 months of use the (1: unit) will no longer charge .",
+        "original_tuples": "[['unit', 'POWER_SUPPLY#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "หลังจากใช้งานไป 3 เดือน (หน่วย 1) จะไม่ชาร์จอีกต่อไป",
+        "updated_tuples": "['unit', 'POWER_SUPPLY#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 508,
+        "original_sentence": "this is nothing more than an okay (1: laptop) to get you through basic work activities .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "นี่เป็นเพียงแล็ปท็อปธรรมดาๆ หนึ่งเครื่องที่ช่วยให้คุณทำงานพื้นฐานได้",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive']"
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "line": 1,
+        "original_sentence": "this (2: unit) is ` ` pretty ` ` and stylish , so my high school daughter was attracted to it for that reason .",
+        "aspect": "unit"
+    },
+    {
+        "line": 1,
+        "original_sentence": "this (2: unit) is ` ` pretty ` ` and stylish , so my high school daughter was attracted to it for that reason .",
+        "aspect": "unit"
+    },
+    {
+        "line": 20,
+        "original_sentence": "the brand new (1: vivobook) is dead in the water !",
+        "aspect": "vivobook"
+    },
+    {
+        "line": 42,
+        "original_sentence": "(1: acer) made a winner here !",
+        "aspect": "acer"
+    },
+    {
+        "line": 57,
+        "original_sentence": "also love that access to the (2: hd / ssd) and (1: ram slots) is really easy .",
+        "aspect": "ram slots"
+    },
+    {
+        "line": 57,
+        "original_sentence": "also love that access to the (2: hd / ssd) and (1: ram slots) is really easy .",
+        "aspect": "hd / ssd"
+    },
+    {
+        "line": 58,
+        "original_sentence": "(1: acer) seems to be the only one who puts together stuff like this .",
+        "aspect": "acer"
+    },
+    {
+        "line": 80,
+        "original_sentence": "it is a basic little (1: laptop) and i love it .",
+        "aspect": "laptop"
+    },
+    {
+        "line": 82,
+        "original_sentence": "(1: linux) is a fairly light (2: os) depending on the distro you use .",
+        "aspect": "linux"
+    },
+    {
+        "line": 82,
+        "original_sentence": "(1: linux) is a fairly light (2: os) depending on the distro you use .",
+        "aspect": "os"
+    },
+    {
+        "line": 84,
+        "original_sentence": "low rpm (1: hdd) .",
+        "aspect": "hdd"
+    },
+    {
+        "line": 113,
+        "original_sentence": "so (2: android) is fun for tablet features , but its like embedding an (2: android) inside , without letting (2: android) apps out to utilize the full abilities of the chromium system .",
+        "aspect": "android"
+    },
+    {
+        "line": 113,
+        "original_sentence": "so (2: android) is fun for tablet features , but its like embedding an (2: android) inside , without letting (2: android) apps out to utilize the full abilities of the chromium system .",
+        "aspect": "android"
+    },
+    {
+        "line": 121,
+        "original_sentence": "thankfully , this time , (1: acer) has gotten that part right .",
+        "aspect": "acer"
+    },
+    {
+        "line": 124,
+        "original_sentence": "for home users , these cheap (2: machines) fit many use cases from casual browsing and two - screening , to watching videos and calling family .",
+        "aspect": "machines"
+    },
+    {
+        "line": 124,
+        "original_sentence": "for home users , these cheap (2: machines) fit many use cases from casual browsing and two - screening , to watching videos and calling family .",
+        "aspect": "machines"
+    },
+    {
+        "line": 132,
+        "original_sentence": "- new (1: ports) that were not in the 2011 model : hdmi port , extra thunderbolt video port ( now it has two instead of one )",
+        "aspect": "ports"
+    },
+    {
+        "line": 166,
+        "original_sentence": "this is where the (1: r11) gets interesting .",
+        "aspect": "r11"
+    },
+    {
+        "line": 167,
+        "original_sentence": "i have not had any freezing or (1: screen) flashing issues .",
+        "aspect": "screen"
+    },
+    {
+        "line": 170,
+        "original_sentence": "i have had it about 4 days and have been checking out how well it runs my favorite (2: android apps) .",
+        "aspect": "android apps"
+    },
+    {
+        "line": 203,
+        "original_sentence": "other than this , it ' s a decent (1: product) .",
+        "aspect": "product"
+    },
+    {
+        "line": 211,
+        "original_sentence": "using (1: wifi) the signal seems to drop , not sure if the (1: wifi) adapter needs an update but there are issues .",
+        "aspect": "wifi"
+    },
+    {
+        "line": 211,
+        "original_sentence": "using (1: wifi) the signal seems to drop , not sure if the (1: wifi) adapter needs an update but there are issues .",
+        "aspect": "wifi adapter"
+    },
+    {
+        "line": 219,
+        "original_sentence": "if i had it to do over again , i would not buy this (1: pc) .",
+        "aspect": "pc"
+    },
+    {
+        "line": 227,
+        "original_sentence": "i have had this (1: laptop) two months now and it has crashed as many times .",
+        "aspect": "laptop"
+    },
+    {
+        "line": 228,
+        "original_sentence": "this is the worst (1: laptop) i have ever bought in my entire life .",
+        "aspect": "laptop"
+    },
+    {
+        "line": 245,
+        "original_sentence": "this little (1: vivo) had the speed / storage that we need , the (3: materials) feel substantial instead of cheap .",
+        "aspect": "vivo"
+    },
+    {
+        "line": 264,
+        "original_sentence": "having (1: ram) problems after 1 .",
+        "aspect": "ram"
+    },
+    {
+        "line": 265,
+        "original_sentence": "i ' ve been able to play fortnite on this (1: laptop) , medium settings , with no issues or lag / stutter .",
+        "aspect": "laptop"
+    },
+    {
+        "line": 282,
+        "original_sentence": "this is a great (2: device) and the $ 450 asking price seems fair .",
+        "aspect": "device"
+    },
+    {
+        "line": 282,
+        "original_sentence": "this is a great (2: device) and the $ 450 asking price seems fair .",
+        "aspect": "device"
+    },
+    {
+        "line": 291,
+        "original_sentence": "update : the (1: c302) now supports google play store services on the stable channel .",
+        "aspect": "c302"
+    },
+    {
+        "line": 313,
+        "original_sentence": "the (3: speakers) are super clear and get loud enough , but obviously lack bass .",
+        "aspect": "speakers"
+    },
+    {
+        "line": 313,
+        "original_sentence": "the (3: speakers) are super clear and get loud enough , but obviously lack bass .",
+        "aspect": "speakers"
+    },
+    {
+        "line": 313,
+        "original_sentence": "the (3: speakers) are super clear and get loud enough , but obviously lack bass .",
+        "aspect": "speakers"
+    }
+]

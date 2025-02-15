@@ -1,0 +1,37 @@
+[
+    {
+        "line": 154,
+        "original_sentence": "absolutly horrible (1: product) , cheap (2: components) make for unreliable (1: product)s , but when the nearest (4: service location) is 50 + miles away i wonder how much (5: apple) truly cares ?",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'negative'], ['components', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['service location', 'SUPPORT#GENERAL', 'negative'], ['apple', 'COMPANY#GENERAL', 'negative']]\n",
+        "translated_sentence": "absolut hemsk produkt, billig komponenter ger opålitliga produkt s, men när den närmaste serviceplats är 50 + miles bort undrar jag hur mycket apple verkligen bryr sig ?",
+        "updated_tuples": "['produkt', 'LAPTOP#GENERAL', 'negative'], ['komponenter', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['serviceplats', 'SUPPORT#GENERAL', 'negative'], ['apple', 'COMPANY#GENERAL', 'negative']"
+    },
+    {
+        "line": 630,
+        "original_sentence": "the one drawback is that it uses more energy than most (1: apps) on the mbp ( especially word , not so much with excel or ppt ) , so i ' ve been using (2: google docs / drive) in safari ( (3: chrome) is also an energy hog ) if i ' m away from a power source and the task is light enough .",
+        "original_tuples": "[['apps', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative'], ['google docs / drive', 'SOFTWARE#GENERAL', 'neutral'], ['chrome', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "den ena nackdelen är att den använder mer energi än de flesta appar på mbp (särskilt word, inte så mycket med excel eller ppt), så jag har använt google docs/drive i safari (( 3: krom) är också ett energisvin) om jag är borta från en strömkälla och uppgiften är tillräckligt lätt.",
+        "updated_tuples": "['appar', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative'], ['google docs/drive', 'SOFTWARE#GENERAL', 'neutral'], ['chrome', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 731,
+        "original_sentence": "the (1: trackpad) is awful as are most acer (1: trackpad)s .",
+        "original_tuples": "[['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "styrplatta är hemskt, liksom de flesta acer styrplatta är.",
+        "updated_tuples": "['styrplatta', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 1211,
+        "original_sentence": "works great as a (1: chromebook) but (1: chromebook)s are still very limited for android compatibility , at least this one is .",
+        "original_tuples": "[['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']]\n",
+        "translated_sentence": "fungerar utmärkt som chromebook men chromebook är fortfarande mycket begränsade för Android-kompatibilitet, åtminstone den här är .",
+        "updated_tuples": "['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']"
+    },
+    {
+        "line": 1241,
+        "original_sentence": "the (2: keyboard) makes it easy to type notes quickly and write papers , and the backlit (2: keyboard) is a major plus .",
+        "original_tuples": "[['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "tangentbordet gör det enkelt att snabbt skriva anteckningar och skriva papper, och bakgrundsbelysningen tangentbordet är ett stort plus.",
+        "updated_tuples": "['tangentbordet', 'KEYBOARD#USABILITY', 'positive'], ['tangentbordet', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']"
+    }
+]

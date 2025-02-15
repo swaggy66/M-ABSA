@@ -1,0 +1,205 @@
+[
+    {
+        "line": 1,
+        "original_sentence": "this (2: unit) is ` ` pretty ` ` and stylish , so my high school daughter was attracted to it for that reason .",
+        "original_tuples": "[['unit', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['unit', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "これ（２：ユニット）は「かわいい」し、おしゃれだったので、高校生の娘はそういう理由でそれに惹かれました。",
+        "updated_tuples": "['unit', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['unit', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 24,
+        "original_sentence": "(1: screen) is good .",
+        "original_tuples": "[['screen', 'DISPLAY#GENERAL', 'positive']]\n",
+        "translated_sentence": "（１：画面）は良いです。",
+        "updated_tuples": "['screen', 'DISPLAY#GENERAL', 'positive']"
+    },
+    {
+        "line": 26,
+        "original_sentence": "(1: screen) is amazing",
+        "original_tuples": "[['screen', 'DISPLAY#GENERAL', 'positive']]\n",
+        "translated_sentence": "（１：スクリーン）はすごい",
+        "updated_tuples": "['screen', 'DISPLAY#GENERAL', 'positive']"
+    },
+    {
+        "line": 35,
+        "original_sentence": "this (1: computer) is loud !",
+        "original_tuples": "[['computer', 'LAPTOP#DESIGN_FEATURES', 'negative']]\n",
+        "translated_sentence": "これ（１：コンピュータ）はうるさいです！",
+        "updated_tuples": "['computer', 'LAPTOP#DESIGN_FEATURES', 'negative']"
+    },
+    {
+        "line": 38,
+        "original_sentence": "this (1: computer) has wasted so much of my time already .",
+        "original_tuples": "[['computer', 'LAPTOP#GENERAL', 'negative']]\n",
+        "translated_sentence": "この（１：コンピュータ）はすでに私の時間の多くを無駄にしてきました。",
+        "updated_tuples": "['computer', 'LAPTOP#GENERAL', 'negative']"
+    },
+    {
+        "line": 47,
+        "original_sentence": "i ' ve been happy being able to plug in and run overwatch from time to time on this (1: laptop) , with higher settings .",
+        "original_tuples": "[['laptop', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "時々、このノートパソコン（1）に接続して、高めの設定でオーバーウォッチを実行できることに満足しています。",
+        "updated_tuples": "['laptop', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 74,
+        "original_sentence": "(1: set up) is take out of box and open cover .",
+        "original_tuples": "[['set up', 'LAPTOP#USABILITY', 'positive']]\n",
+        "translated_sentence": "（１：セットアップ）箱から取り出してカバーを開けます。",
+        "updated_tuples": "['set up', 'LAPTOP#USABILITY', 'positive']"
+    },
+    {
+        "line": 88,
+        "original_sentence": "a good (1: product) !",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "良い（１：製品）！",
+        "updated_tuples": "['product', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 94,
+        "original_sentence": "i ' m using it mainly to store movies , and the 1 tb (1: drive) is nice .",
+        "original_tuples": "[['drive', 'HARD_DISC#GENERAL', 'positive']]\n",
+        "translated_sentence": "主に映画の保存に使用しており、1 TB (1 ドライブ) は便利です。",
+        "updated_tuples": "['drive', 'HARD_DISC#GENERAL', 'positive']"
+    },
+    {
+        "line": 108,
+        "original_sentence": "(1: navigates) well .",
+        "original_tuples": "[['navigates', 'Out_Of_Scope#GENERAL', 'positive']]\n",
+        "translated_sentence": "（１：うまくナビゲートする）",
+        "updated_tuples": "['navigates', 'Out_Of_Scope#GENERAL', 'positive']"
+    },
+    {
+        "line": 123,
+        "original_sentence": "i only mention this because , in my opinion , you ' re getting about $ 300 worth of performance here ; anyone telling you this (1: device) runs like a $ 500 or $ 800 computer is exaggerating .",
+        "original_tuples": "[['device', 'LAPTOP#PRICE', 'negative']]\n",
+        "translated_sentence": "私がこれについて言及するのは、私の意見では、ここでは約 300 ドル相当のパフォーマンスが得られるからです。このデバイス (1) が 500 ドルまたは 800 ドルのコンピューターのように動作すると言う人は誇張しています。",
+        "updated_tuples": "['device', 'LAPTOP#PRICE', 'negative']"
+    },
+    {
+        "line": 134,
+        "original_sentence": "honestly , i think nobody uses these (1: ports) anyway .",
+        "original_tuples": "[['ports', 'PORTS#GENERAL', 'neutral']]\n",
+        "translated_sentence": "正直に言うと、これらのポート (1) を使用する人は誰もいないと思います。",
+        "updated_tuples": "['ports', 'PORTS#GENERAL', 'neutral']"
+    },
+    {
+        "line": 151,
+        "original_sentence": "(1: battery life) is a huge plus !",
+        "original_tuples": "[['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "（１：バッテリー寿命）は大きなプラスです！",
+        "updated_tuples": "['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 160,
+        "original_sentence": "overall : i ' m super happy with this (1: product) .",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "全体的に: この製品には非常に満足しています。",
+        "updated_tuples": "['product', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 200,
+        "original_sentence": "this (1: computer) is really hard to use .",
+        "original_tuples": "[['computer', 'LAPTOP#USABILITY', 'negative']]\n",
+        "translated_sentence": "この（１：コンピュータ）は本当に使いにくいです。",
+        "updated_tuples": "['computer', 'LAPTOP#USABILITY', 'negative']"
+    },
+    {
+        "line": 211,
+        "original_sentence": "using (1: wifi) the signal seems to drop , not sure if the (1: wifi) adapter needs an update but there are issues .",
+        "original_tuples": "[['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "wifi を使用すると信号が落ちるようです。wifi アダプターを更新する必要があるかどうかはわかりませんが、問題があります。",
+        "updated_tuples": "['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 216,
+        "original_sentence": "beautiful (1: screen) .",
+        "original_tuples": "[['screen', 'DISPLAY#GENERAL', 'positive']]\n",
+        "translated_sentence": "美しい（１：スクリーン）。",
+        "updated_tuples": "['screen', 'DISPLAY#GENERAL', 'positive']"
+    },
+    {
+        "line": 231,
+        "original_sentence": "(1: battery life) doesn ' t seem to be more than 5 hours , but i expected that going in .",
+        "original_tuples": "[['battery life', 'BATTERY#QUALITY', 'neutral']]\n",
+        "translated_sentence": "（１：バッテリー寿命）5時間以上は持たないようです。でも、それは予想していました。",
+        "updated_tuples": "['battery life', 'BATTERY#QUALITY', 'neutral']"
+    },
+    {
+        "line": 250,
+        "original_sentence": "less than that , for me , the (1: screen) looks dull .",
+        "original_tuples": "[['screen', 'DISPLAY#QUALITY', 'negative']]\n",
+        "translated_sentence": "それ以下だと、私にとっては（１：画面）がくすんで見えます。",
+        "updated_tuples": "['screen', 'DISPLAY#QUALITY', 'negative']"
+    },
+    {
+        "line": 270,
+        "original_sentence": "(1: keyboard) is not good .",
+        "original_tuples": "[['keyboard', 'KEYBOARD#GENERAL', 'negative']]\n",
+        "translated_sentence": "（１：キーボード）は良くないです。",
+        "updated_tuples": "['keyboard', 'KEYBOARD#GENERAL', 'negative']"
+    },
+    {
+        "line": 272,
+        "original_sentence": "(1: one of the keys) is especially flimsy and feels like it could break at any moment .",
+        "original_tuples": "[['one of the keys', 'KEYBOARD#QUALITY', 'negative']]\n",
+        "translated_sentence": "（１：鍵の１つ）は特に脆くて、いつ壊れてもおかしくない感じです。",
+        "updated_tuples": "['one of the keys', 'KEYBOARD#QUALITY', 'negative']"
+    },
+    {
+        "line": 275,
+        "original_sentence": "(1: machine) is totally unusable during the update .",
+        "original_tuples": "[['machine', 'LAPTOP#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "（１：マシン）はアップデート中は全く使用できません。",
+        "updated_tuples": "['machine', 'LAPTOP#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 298,
+        "original_sentence": "after two years , or almost , the worst thing about this (1: machine) is lack of printer support .",
+        "original_tuples": "[['machine', 'LAPTOP#DESIGN_FEATURES', 'negative']]\n",
+        "translated_sentence": "2年経った今、このマシン(1)の最も悪い点はプリンターのサポートがないことです。",
+        "updated_tuples": "['machine', 'LAPTOP#DESIGN_FEATURES', 'negative']"
+    },
+    {
+        "line": 302,
+        "original_sentence": "(1: battery life) is outstanding .",
+        "original_tuples": "[['battery life', 'BATTERY#GENERAL', 'positive']]\n",
+        "translated_sentence": "（１：電池寿命）が抜群です。",
+        "updated_tuples": "['battery life', 'BATTERY#GENERAL', 'positive']"
+    },
+    {
+        "line": 303,
+        "original_sentence": "this is my third (1: chromebook) and easily the best i ' ve encountered .",
+        "original_tuples": "[['chromebook', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "これは私の 3 台目 (1 台目は Chromebook) ですが、これまで出会った中で間違いなく最高のものです。",
+        "updated_tuples": "['chromebook', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 306,
+        "original_sentence": "(1: battery life) is also solid .",
+        "original_tuples": "[['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "（１：電池持ち）もしっかりしています。",
+        "updated_tuples": "['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 307,
+        "original_sentence": "(1: construction) looks and feels great .",
+        "original_tuples": "[['construction', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "（１：構造）見た目も感触も素晴らしいです。",
+        "updated_tuples": "['construction', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 315,
+        "original_sentence": "for ~ $ 400 , i ' m happy with this (1: product) after a couple months .",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "約 400 ドルで、数か月経った今でもこの製品に満足しています。",
+        "updated_tuples": "['product', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 324,
+        "original_sentence": "this is my second (1: asus product) , and i have been very happy with both .",
+        "original_tuples": "[['asus product', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "これは私の2台目（1台目：ASUS製品）ですが、どちらも非常に満足しています。",
+        "updated_tuples": "['asus product', 'LAPTOP#GENERAL', 'positive']"
+    }
+]

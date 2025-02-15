@@ -1,0 +1,100 @@
+[
+    {
+        "line": 154,
+        "original_sentence": "absolutly horrible (1: product) , cheap (2: components) make for unreliable (1: product)s , but when the nearest (4: service location) is 50 + miles away i wonder how much (5: apple) truly cares ?",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'negative'], ['components', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['service location', 'SUPPORT#GENERAL', 'negative'], ['apple', 'COMPANY#GENERAL', 'negative']]\n",
+        "translated_sentence": "बिल्कुल भयानक उत्पाद, सस्ते घटक अविश्वसनीय उत्पाद बनाते हैं, लेकिन जब निकटतम सेवा स्थान 50+ मील दूर है तो मुझे आश्चर्य होता है कि एप्पल वास्तव में कितना परवाह करता है?",
+        "updated_tuples": "['उत्पाद', 'LAPTOP#GENERAL', 'negative'], ['घटक', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['सेवा स्थान', 'SUPPORT#GENERAL', 'negative'], ['एप्पल', 'COMPANY#GENERAL', 'negative']"
+    },
+    {
+        "line": 246,
+        "original_sentence": "(1: sound) sort of sucks but i don ' t use it for music .",
+        "original_tuples": "[['sound', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "(१: ध्वनि) एक तरह से बेकार है, लेकिन मैं इसे संगीत के लिए उपयोग नहीं करता हूं।",
+        "updated_tuples": "['sound', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 501,
+        "original_sentence": "what this tells me is that the (1: hdmi port on my chromebook) is defective .",
+        "original_tuples": "[['hdmi port on my chromebook', 'PORTS#CONNECTIVITY', 'negative']]\n",
+        "translated_sentence": "इससे मुझे पता चलता है कि (मेरे क्रोमबुक पर 1: एचडीएमआई पोर्ट) दोषपूर्ण है।",
+        "updated_tuples": "['hdmi port on my chromebook', 'PORTS#CONNECTIVITY', 'negative']"
+    },
+    {
+        "line": 731,
+        "original_sentence": "the (1: trackpad) is awful as are most acer (1: trackpad)s .",
+        "original_tuples": "[['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "ट्रैकपैड बहुत ही खराब है, क्योंकि अधिकांश एसर ट्रैकपैड हैं।",
+        "updated_tuples": "['ट्रैकपैड', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 746,
+        "original_sentence": "even with the 2 - in - 1 flip hinge , the device has a solid feel and there ' s very little wobble in the (1: screen) while typing .",
+        "original_tuples": "[['screen', 'DISPLAY#USABILITY', 'positive']]\n",
+        "translated_sentence": "2-इन-1 फ्लिप हिंज के साथ भी, डिवाइस एक ठोस अनुभव देता है और टाइप करते समय स्क्रीन में बहुत कम कंपन होता है।",
+        "updated_tuples": "['screen', 'DISPLAY#USABILITY', 'positive']"
+    },
+    {
+        "line": 863,
+        "original_sentence": "(1: computer) looked excellent .",
+        "original_tuples": "[['computer', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "(१: कंप्यूटर) बहुत अच्छा लगा.",
+        "updated_tuples": "['computer', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 901,
+        "original_sentence": "it ' s one of the worst (1: laptops) i ' ve ever had .",
+        "original_tuples": "[['laptops', 'LAPTOP#GENERAL', 'negative']]\n",
+        "translated_sentence": "यह मेरे पास अब तक आए सबसे खराब लैपटॉपों में से एक है।",
+        "updated_tuples": "['laptops', 'LAPTOP#GENERAL', 'negative']"
+    },
+    {
+        "line": 903,
+        "original_sentence": "(1: wifi) sketchy to nonexistent .",
+        "original_tuples": "[['wifi', 'PORTS#QUALITY', 'negative']]\n",
+        "translated_sentence": "(१: वाईफ़ाई) अस्पष्ट से लेकर अस्तित्वहीन तक।",
+        "updated_tuples": "['wifi', 'PORTS#QUALITY', 'negative']"
+    },
+    {
+        "line": 972,
+        "original_sentence": "(1: the quality) is is meh .",
+        "original_tuples": "[['the quality', 'LAPTOP#QUALITY', 'negative']]\n",
+        "translated_sentence": "(१: गुणवत्ता) यह है meh.",
+        "updated_tuples": "['the quality', 'LAPTOP#QUALITY', 'negative']"
+    },
+    {
+        "line": 1046,
+        "original_sentence": "if you want to watch movies or listen to music , this might not be the (1: machine) for you .",
+        "original_tuples": "[['machine', 'LAPTOP#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "यदि आप फिल्में देखना या संगीत सुनना चाहते हैं, तो यह मशीन आपके लिए नहीं है।",
+        "updated_tuples": "['machine', 'LAPTOP#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 1082,
+        "original_sentence": "(1: sound) is .",
+        "original_tuples": "[['sound', 'MULTIMEDIA_DEVICES#GENERAL', 'neutral']]\n",
+        "translated_sentence": "(१: ध्वनि) है.",
+        "updated_tuples": "['sound', 'MULTIMEDIA_DEVICES#GENERAL', 'neutral']"
+    },
+    {
+        "line": 1209,
+        "original_sentence": "the (3: color) of everything is so very much brighter and clearer it makes the extra cost is worth more for just that .",
+        "original_tuples": "[['color', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['color', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['color', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "हर चीज का रंग इतना अधिक चमकीला और स्पष्ट हो जाता है कि इसके लिए किया गया अतिरिक्त खर्च भी अधिक सार्थक हो जाता है।",
+        "updated_tuples": "['color', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['color', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['color', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 1211,
+        "original_sentence": "works great as a (1: chromebook) but (1: chromebook)s are still very limited for android compatibility , at least this one is .",
+        "original_tuples": "[['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']]\n",
+        "translated_sentence": "क्रोमबुक के रूप में महान काम करता है लेकिन क्रोमबुक अभी भी एंड्रॉइड संगतता के लिए बहुत सीमित हैं, कम से कम यह एक है।",
+        "updated_tuples": "['क्रोमबुक', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']"
+    },
+    {
+        "line": 1241,
+        "original_sentence": "the (2: keyboard) makes it easy to type notes quickly and write papers , and the backlit (2: keyboard) is a major plus .",
+        "original_tuples": "[['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "कीबोर्ड नोट्स को जल्दी से टाइप करना और कागजात लिखना आसान बनाता है, और बैकलिट कीबोर्ड एक प्रमुख प्लस है।",
+        "updated_tuples": "['कीबोर्ड', 'KEYBOARD#USABILITY', 'positive'], ['कीबोर्ड', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']"
+    }
+]

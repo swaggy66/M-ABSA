@@ -1,0 +1,30 @@
+[
+    {
+        "line": 15,
+        "original_sentence": "but do not dare will only be good for playing games maybe (1: it) will get better .",
+        "original_tuples": "[['it', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "aber trau dich nicht, es ist nur zum Spielen gut, vielleicht wird es besser.",
+        "updated_tuples": "['it', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 158,
+        "original_sentence": "as i bought 13 inch (1: model) , it is very portable .",
+        "original_tuples": "[['model', 'LAPTOP#PORTABILITY', 'positive']]\n",
+        "translated_sentence": "da ich ein 13-Zoll-Modell (Modell 1) gekauft habe, ist es sehr tragbar.",
+        "updated_tuples": "['model', 'LAPTOP#PORTABILITY', 'positive']"
+    },
+    {
+        "line": 187,
+        "original_sentence": "unlike other asus laptops i ' ve tried , this (1: unit) won the display roulette .",
+        "original_tuples": "[['unit', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "anders als andere asus-laptops die ich probiert habe , hat dieses ( 1 einheit ) beim display-roulette gewonnen .",
+        "updated_tuples": "['unit', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 211,
+        "original_sentence": "using (1: wifi) the signal seems to drop , not sure if the (1: wifi) adapter needs an update but there are issues .",
+        "original_tuples": "[['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "Bei Verwendung von WLAN scheint das Signal abzubrechen. Ich bin nicht sicher, ob der WLAN-Adapter aktualisiert werden muss, aber es gibt Probleme.",
+        "updated_tuples": "['WLAN', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']"
+    }
+]

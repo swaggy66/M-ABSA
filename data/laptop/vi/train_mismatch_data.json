@@ -1,0 +1,380 @@
+[
+    {
+        "line": 9,
+        "original_sentence": "i ' ve had the (1: laptop) for a full day now and i can say it is quite impressive .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Tôi đã sử dụng máy tính xách tay này được một ngày và tôi có thể nói rằng nó khá ấn tượng.",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 28,
+        "original_sentence": "this has been a really good (1: computer) for the money .",
+        "original_tuples": "[['computer', 'LAPTOP#PRICE', 'positive']]\n",
+        "translated_sentence": "đây thực sự là một chiếc máy tính tốt với mức giá này.",
+        "updated_tuples": "['computer', 'LAPTOP#PRICE', 'positive']"
+    },
+    {
+        "line": 33,
+        "original_sentence": "pros : nice size , clear (2: screen) , quick on start up , very functional and easy to use .",
+        "original_tuples": "[['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive'], ['NULL', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive']]\n",
+        "translated_sentence": "Ưu điểm: kích thước đẹp, màn hình rõ nét (2 inch), khởi động nhanh, rất tiện dụng và dễ sử dụng.",
+        "updated_tuples": "['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive'], ['NULL', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive']"
+    },
+    {
+        "line": 38,
+        "original_sentence": "all in all , i could live with this as my sole (1: device) if i had to",
+        "original_tuples": "[['device', 'LAPTOP#GENERAL', 'neutral']]\n",
+        "translated_sentence": "Nói chung, tôi có thể sống với nó như là thiết bị duy nhất của tôi (1: nếu tôi phải",
+        "updated_tuples": "['device', 'LAPTOP#GENERAL', 'neutral']"
+    },
+    {
+        "line": 39,
+        "original_sentence": "overall , its a pretty good looking (1: laptop) that falls short of feeling truly premium ( backlit keyboard , cheap quality screen , keyboard flex ) .",
+        "original_tuples": "[['laptop', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "Nhìn chung, đây là một chiếc máy tính xách tay có vẻ ngoài khá đẹp (1) nhưng chưa đạt đến mức thực sự cao cấp (bàn phím có đèn nền, màn hình chất lượng rẻ tiền, bàn phím cong).",
+        "updated_tuples": "['laptop', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 82,
+        "original_sentence": "in preparation for becoming a chromebook user i had purchased a 256 gig (1: memory card) and moved all my laptop files to it .",
+        "original_tuples": "[['memory card', 'MEMORY#GENERAL', 'neutral']]\n",
+        "translated_sentence": "để chuẩn bị trở thành người dùng Chromebook, tôi đã mua một máy 256 GB (1 thẻ nhớ) và chuyển toàn bộ dữ liệu trong máy tính xách tay của mình sang đó.",
+        "updated_tuples": "['memory card', 'MEMORY#GENERAL', 'neutral']"
+    },
+    {
+        "line": 83,
+        "original_sentence": "best for : if you are looking for a travel (2: laptop) and are planning on doing light work this is an amazing buy for the price .",
+        "original_tuples": "[['laptop', 'LAPTOP#PORTABILITY', 'positive'], ['laptop', 'LAPTOP#PRICE', 'positive']]\n",
+        "translated_sentence": "Phù hợp nhất cho: nếu bạn đang tìm kiếm một chiếc máy tính xách tay để đi du lịch (2) và đang có kế hoạch làm việc nhẹ thì đây là một sản phẩm đáng mua với mức giá này.",
+        "updated_tuples": "['laptop', 'LAPTOP#PORTABILITY', 'positive'], ['laptop', 'LAPTOP#PRICE', 'positive']"
+    },
+    {
+        "line": 84,
+        "original_sentence": "i have used this (1: computer) daily now for about 6 months , spending hours per day on it for an emt / paramedic class .",
+        "original_tuples": "[['computer', 'LAPTOP#USABILITY', 'neutral']]\n",
+        "translated_sentence": "Tôi đã sử dụng máy tính này hàng ngày trong khoảng 6 tháng nay, dành nhiều giờ mỗi ngày cho lớp học cấp cứu.",
+        "updated_tuples": "['computer', 'LAPTOP#USABILITY', 'neutral']"
+    },
+    {
+        "line": 92,
+        "original_sentence": "i was a bit apprehensive at first will ordering such an expensive (2: item) online , but it was delivered in perfect new condition .",
+        "original_tuples": "[['item', 'LAPTOP#PRICE', 'negative'], ['item', 'SHIPPING#QUALITY', 'negative']]\n",
+        "translated_sentence": "Lúc đầu tôi hơi lo lắng khi đặt mua một món đồ đắt tiền như vậy (2 món) trực tuyến, nhưng nó được giao trong tình trạng mới hoàn hảo.",
+        "updated_tuples": "['item', 'LAPTOP#PRICE', 'negative'], ['item', 'SHIPPING#QUALITY', 'negative']"
+    },
+    {
+        "line": 115,
+        "original_sentence": "the reason for a 4 star rating is due to the provided (1: power cord) failing to charge within two months .",
+        "original_tuples": "[['power cord', 'POWER_SUPPLY#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "lý do cho đánh giá 4 sao là do dây nguồn đi kèm (1: không sạc được trong vòng hai tháng.",
+        "updated_tuples": "['power cord', 'POWER_SUPPLY#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 154,
+        "original_sentence": "absolutly horrible (1: product) , cheap (2: components) make for unreliable (1: product)s , but when the nearest (4: service location) is 50 + miles away i wonder how much (5: apple) truly cares ?",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'negative'], ['components', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['service location', 'SUPPORT#GENERAL', 'negative'], ['apple', 'COMPANY#GENERAL', 'negative']]\n",
+        "translated_sentence": "thật sự tệ hại sản phẩm, giá rẻ linh kiện tạo nên sản phẩm không đáng tin cậy, nhưng khi địa điểm gần nhất dịch vụ cách xa hơn 50 dặm thì tôi tự hỏi Apple thực sự quan tâm đến điều đó đến mức nào?",
+        "updated_tuples": "['sản phẩm', 'LAPTOP#GENERAL', 'negative'], ['linh kiện', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['dịch vụ', 'SUPPORT#GENERAL', 'negative'], ['Apple', 'COMPANY#GENERAL', 'negative']"
+    },
+    {
+        "line": 193,
+        "original_sentence": "if you do n ' t need a full blown (1: laptop) this is a good choice .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "nếu bạn không cần một chiếc máy tính xách tay đầy đủ chức năng thì đây là một lựa chọn tốt.",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 258,
+        "original_sentence": "great price for a nice (2: laptop) .",
+        "original_tuples": "[['laptop', 'LAPTOP#PRICE', 'positive'], ['laptop', 'LAPTOP#PRICE', 'positive']]\n",
+        "translated_sentence": "giá tuyệt vời cho một chiếc máy tính xách tay đẹp (2).",
+        "updated_tuples": "['laptop', 'LAPTOP#PRICE', 'positive'], ['laptop', 'LAPTOP#PRICE', 'positive']"
+    },
+    {
+        "line": 265,
+        "original_sentence": "the small (1: battery capacity) is the number one reason i would not buy this product and would recommend with that caveat being disclosed .",
+        "original_tuples": "[['battery capacity', 'BATTERY#QUALITY', 'negative']]\n",
+        "translated_sentence": "Dung lượng pin nhỏ (1) là lý do số một khiến tôi không muốn mua sản phẩm này và sẽ giới thiệu sản phẩm này với điều kiện là phải tiết lộ điều đó.",
+        "updated_tuples": "['battery capacity', 'BATTERY#QUALITY', 'negative']"
+    },
+    {
+        "line": 283,
+        "original_sentence": "its cheap plastic and honestly , the (2: keyboard) its really bad .",
+        "original_tuples": "[['NULL', 'LAPTOP#DESIGN_FEATURES', 'negative'], ['keyboard', 'KEYBOARD#GENERAL', 'negative']]\n",
+        "translated_sentence": "nó làm bằng nhựa rẻ tiền và thành thật mà nói, bàn phím của nó thực sự tệ.",
+        "updated_tuples": "['NULL', 'LAPTOP#DESIGN_FEATURES', 'negative'], ['keyboard', 'KEYBOARD#GENERAL', 'negative']"
+    },
+    {
+        "line": 306,
+        "original_sentence": "this by far one of the best (1: laptops) i ' ve ever purchased .",
+        "original_tuples": "[['laptops', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Đây chắc chắn là một trong những chiếc máy tính xách tay tốt nhất (1) mà tôi từng mua.",
+        "updated_tuples": "['laptops', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 334,
+        "original_sentence": "i ' ve found the (1: touch screen) is pretty handy .",
+        "original_tuples": "[['touch screen', 'DISPLAY#USABILITY', 'positive']]\n",
+        "translated_sentence": "Tôi thấy màn hình cảm ứng (1) khá tiện dụng.",
+        "updated_tuples": "['touch screen', 'DISPLAY#USABILITY', 'positive']"
+    },
+    {
+        "line": 336,
+        "original_sentence": "i don ' t have need for the (1: backlit keyboard) .",
+        "original_tuples": "[['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'neutral']]\n",
+        "translated_sentence": "Tôi không cần bàn phím có đèn nền (1).",
+        "updated_tuples": "['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'neutral']"
+    },
+    {
+        "line": 382,
+        "original_sentence": "for the price , it ' s a solid (1: laptop) .",
+        "original_tuples": "[['laptop', 'LAPTOP#PRICE', 'positive']]\n",
+        "translated_sentence": "với mức giá này thì đây là một chiếc máy tính xách tay chắc chắn (1).",
+        "updated_tuples": "['laptop', 'LAPTOP#PRICE', 'positive']"
+    },
+    {
+        "line": 401,
+        "original_sentence": "my (1: computer) was used on average a couple hours a day .",
+        "original_tuples": "[['computer', 'LAPTOP#GENERAL', 'neutral']]\n",
+        "translated_sentence": "máy tính của tôi (1: trung bình được sử dụng vài giờ mỗi ngày.",
+        "updated_tuples": "['computer', 'LAPTOP#GENERAL', 'neutral']"
+    },
+    {
+        "line": 470,
+        "original_sentence": "one of the two (2: usb ports) is defective , which is an enormous pain .",
+        "original_tuples": "[['usb ports', 'PORTS#OPERATION_PERFORMANCE', 'negative'], ['usb ports', 'PORTS#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "một trong hai cổng (2 cổng USB) bị lỗi, thực sự rất phiền phức.",
+        "updated_tuples": "['usb ports', 'PORTS#OPERATION_PERFORMANCE', 'negative'], ['usb ports', 'PORTS#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 483,
+        "original_sentence": ": p ) , and the (1: machine) is definitely zippy .",
+        "original_tuples": "[['machine', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": ":p) và máy (1: chắc chắn là nhanh nhẹn.",
+        "updated_tuples": "['machine', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 498,
+        "original_sentence": "now i ' m really bummed that i have a very nice looking (3: chromebook) with a beautiful (4: screen) that is totally unusable .",
+        "original_tuples": "[['chromebook', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'negative'], ['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'negative'], ['screen', 'DISPLAY#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "giờ tôi thực sự thất vọng khi tôi có một chiếc Chromebook đẹp với màn hình tuyệt đẹp nhưng lại hoàn toàn không sử dụng được.",
+        "updated_tuples": "['đẹp', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['đẹp', 'LAPTOP#OPERATION_PERFORMANCE', 'negative'], ['đẹp', 'LAPTOP#OPERATION_PERFORMANCE', 'negative'], ['screen', 'DISPLAY#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 516,
+        "original_sentence": "happy i got a great (2: machine) for half the cost !",
+        "original_tuples": "[['machine', 'LAPTOP#PRICE', 'positive'], ['machine', 'LAPTOP#PRICE', 'positive']]\n",
+        "translated_sentence": "Thật vui vì tôi đã mua được một chiếc máy tuyệt vời với một nửa giá!",
+        "updated_tuples": "['machine', 'LAPTOP#PRICE', 'positive'], ['machine', 'LAPTOP#PRICE', 'positive']"
+    },
+    {
+        "line": 555,
+        "original_sentence": "never again will i buy (1: samsung products) and thats what i ' d suggest here .",
+        "original_tuples": "[['samsung products', 'COMPANY#GENERAL', 'negative']]\n",
+        "translated_sentence": "Tôi sẽ không bao giờ mua sản phẩm của Samsung nữa và đó là những gì tôi muốn gợi ý ở đây.",
+        "updated_tuples": "['samsung products', 'COMPANY#GENERAL', 'negative']"
+    },
+    {
+        "line": 702,
+        "original_sentence": "i love this (1: laptop) so far .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Tôi rất thích chiếc máy tính xách tay này (1) cho đến giờ.",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 719,
+        "original_sentence": "the (2: 4gb / 32gb version) is fast and smooth and has enough (3: storage space) for your work documents and e - books for ready access when no internet is available .",
+        "original_tuples": "[['4gb / 32gb version', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['4gb / 32gb version', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['storage space', 'MEMORY#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "(phiên bản 2: 4gb / 32gb) nhanh và mượt mà, có đủ dung lượng lưu trữ cho các tài liệu làm việc và sách điện tử của bạn để truy cập khi không có internet.",
+        "updated_tuples": "['4gb / 32gb version', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['4gb / 32gb version', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['dung lượng lưu trữ', 'MEMORY#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 731,
+        "original_sentence": "the (1: trackpad) is awful as are most acer (1: trackpad)s .",
+        "original_tuples": "[['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "trackpad tệ như hầu hết các máy Acer trackpad.",
+        "updated_tuples": "['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 760,
+        "original_sentence": "i have had good luck with acer products but this (1: pc) was my 1st time i needed them for technical support .",
+        "original_tuples": "[['pc', 'LAPTOP#GENERAL', 'negative']]\n",
+        "translated_sentence": "Tôi đã may mắn với các sản phẩm của Acer nhưng đây là lần đầu tiên tôi cần họ hỗ trợ kỹ thuật.",
+        "updated_tuples": "['pc', 'LAPTOP#GENERAL', 'negative']"
+    },
+    {
+        "line": 762,
+        "original_sentence": "for $ 499 the (1: laptop) is a bargain , but you should only buy if you you plan to add an ssd in the near future .",
+        "original_tuples": "[['laptop', 'LAPTOP#PRICE', 'positive']]\n",
+        "translated_sentence": "với giá 499 đô la, chiếc máy tính xách tay này là một món hời, nhưng bạn chỉ nên mua nếu bạn có kế hoạch lắp thêm ổ SSD trong tương lai gần.",
+        "updated_tuples": "['laptop', 'LAPTOP#PRICE', 'positive']"
+    },
+    {
+        "line": 771,
+        "original_sentence": "i have had three (1: macbook pro ' s) and all have been excellent .",
+        "original_tuples": "[[\"macbook pro ' s\", 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Tôi đã dùng ba chiếc (1 chiếc: macbook pro) và tất cả đều tuyệt vời.",
+        "updated_tuples": "['macbook pro ' s', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 772,
+        "original_sentence": "(1: 6 inch laptop) it appears fragile the (2: keyboard) itself feels like the (3: keys) will pop out .",
+        "original_tuples": "[['6 inch laptop', 'LAPTOP#QUALITY', 'negative'], ['keyboard', 'KEYBOARD#QUALITY', 'negative'], ['keys', 'KEYBOARD#QUALITY', 'negative']]\n",
+        "translated_sentence": "máy tính xách tay 6 inch trông có vẻ mỏng manh bàn phím cảm giác như các phím (3: sẽ bật ra.",
+        "updated_tuples": "['máy tính xách tay 6 inch', 'LAPTOP#QUALITY', 'negative'], ['bàn phím', 'KEYBOARD#QUALITY', 'negative'], ['keys', 'KEYBOARD#QUALITY', 'negative']"
+    },
+    {
+        "line": 776,
+        "original_sentence": "this is my first (1: macbook pro) i ' m impress !",
+        "original_tuples": "[['macbook pro', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "đây là chiếc macbook pro đầu tiên của tôi, tôi rất ấn tượng!",
+        "updated_tuples": "['macbook pro', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 801,
+        "original_sentence": "this is a good (1: product) based on my experience - i have used this for almost a whole month .",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Đây là một sản phẩm tốt (1: dựa trên kinh nghiệm của tôi - tôi đã sử dụng sản phẩm này được gần một tháng.",
+        "updated_tuples": "['product', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 815,
+        "original_sentence": "while the (1: stock aluminum case) is darn solid enough , it can take scratches easily from things like keys or cable connectors tossed in a bag with it .",
+        "original_tuples": "[['stock aluminum case', 'LAPTOP#QUALITY', 'positive']]\n",
+        "translated_sentence": "Mặc dù vỏ nhôm nguyên bản (1) khá chắc chắn nhưng nó vẫn dễ bị trầy xước do những thứ như chìa khóa hoặc đầu nối cáp bỏ trong túi.",
+        "updated_tuples": "['stock aluminum case', 'LAPTOP#QUALITY', 'positive']"
+    },
+    {
+        "line": 820,
+        "original_sentence": "(1: power) turning on failed .",
+        "original_tuples": "[['power', 'POWER_SUPPLY#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "(1: bật nguồn không thành công.",
+        "updated_tuples": "['power', 'POWER_SUPPLY#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 882,
+        "original_sentence": "january 21 , 2016 update : i love this (1: laptop) even more than before .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Cập nhật ngày 21 tháng 1 năm 2016: Tôi thích chiếc máy tính xách tay này (1) hơn trước rất nhiều.",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 914,
+        "original_sentence": "i work with an it company and we ' re testing an all (1: android environment) and it ' s working out pretty well so far .",
+        "original_tuples": "[['android environment', 'SOFTWARE#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "Tôi làm việc với một công ty CNTT và chúng tôi đang thử nghiệm một môi trường Android (1) và cho đến nay mọi thứ diễn ra khá tốt.",
+        "updated_tuples": "['android environment', 'SOFTWARE#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 916,
+        "original_sentence": "however , there is (1: screen) glare , even in a normally lit room , not just a brightly lit room .",
+        "original_tuples": "[['screen', 'DISPLAY#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "Tuy nhiên, vẫn có hiện tượng chói màn hình, ngay cả trong phòng có ánh sáng bình thường, không chỉ trong phòng có ánh sáng mạnh.",
+        "updated_tuples": "['screen', 'DISPLAY#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 984,
+        "original_sentence": "but as it stands still makes a great (1: mobile device) with excellent (2: battery life) to boot .",
+        "original_tuples": "[['mobile device', 'LAPTOP#GENERAL', 'positive'], ['battery life', 'BATTERY#GENERAL', 'positive']]\n",
+        "translated_sentence": "nhưng xét về tổng thể thì nó vẫn là một thiết bị di động tuyệt vời với thời lượng pin tuyệt vời.",
+        "updated_tuples": "['thiết bị di động', 'LAPTOP#GENERAL', 'positive'], ['battery life', 'BATTERY#GENERAL', 'positive']"
+    },
+    {
+        "line": 1013,
+        "original_sentence": "i was very excited at the prospect of buying this (1: laptop) .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Tôi rất phấn khích trước viễn cảnh mua được chiếc máy tính xách tay này (1).",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 1026,
+        "original_sentence": "i absolutely love this (4: laptop) , it looks great , its quality is amazing and can handle so many games without any lag involved .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive'], ['laptop', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['laptop', 'LAPTOP#QUALITY', 'positive'], ['laptop', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "Tôi thực sự thích chiếc máy tính xách tay này (4), nó trông tuyệt vời, chất lượng tuyệt vời và có thể xử lý rất nhiều trò chơi mà không bị trễ.",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive'], ['laptop', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['laptop', 'LAPTOP#QUALITY', 'positive'], ['laptop', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 1033,
+        "original_sentence": "overall i have to remind myself that this (1: laptop) is only 600 dollars , and with certain gains i ' ll lose some things unless i ' m willing to spend out of budget .",
+        "original_tuples": "[['laptop', 'LAPTOP#PRICE', 'neutral']]\n",
+        "translated_sentence": "Nhìn chung, tôi phải tự nhắc nhở mình rằng chiếc máy tính xách tay này chỉ có giá 600 đô la và mặc dù có một số lợi ích nhất định, tôi cũng sẽ mất một số thứ trừ khi tôi sẵn sàng chi vượt quá ngân sách.",
+        "updated_tuples": "['laptop', 'LAPTOP#PRICE', 'neutral']"
+    },
+    {
+        "line": 1066,
+        "original_sentence": "the only draw back with this pc is the (1: battery life) which lasts about 3 hrs before needing to be charged .",
+        "original_tuples": "[['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "Điểm trừ duy nhất của chiếc máy tính này là thời lượng pin chỉ kéo dài được khoảng 3 giờ trước khi cần sạc.",
+        "updated_tuples": "['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 1083,
+        "original_sentence": "note : i bought a refurbished / ` ` damaged ` ` (1: model) from amazon and it ' s in absolutely flawless condition .",
+        "original_tuples": "[['model', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Lưu ý: Tôi đã mua một sản phẩm đã tân trang/``hư hỏng`` (mẫu 1) từ Amazon và nó hoàn toàn trong tình trạng hoàn hảo.",
+        "updated_tuples": "['model', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 1094,
+        "original_sentence": "im actually wondering if there is an issue with the (1: speakers) , it ' s so bad .",
+        "original_tuples": "[['speakers', 'MULTIMEDIA_DEVICES#GENERAL', 'negative']]\n",
+        "translated_sentence": "thực ra tôi đang thắc mắc liệu có vấn đề gì với loa (1: không, tệ quá.",
+        "updated_tuples": "['speakers', 'MULTIMEDIA_DEVICES#GENERAL', 'negative']"
+    },
+    {
+        "line": 1151,
+        "original_sentence": "i really can ' t say enough about this awesome (1: laptop) .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Tôi thực sự không thể nói đủ về chiếc máy tính xách tay tuyệt vời này (1).",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 1154,
+        "original_sentence": "i don ' t ask much of a (1: laptop) so i am happy with it .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Tôi không đòi hỏi nhiều ở một chiếc máy tính xách tay nên tôi rất hài lòng với nó.",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 1175,
+        "original_sentence": "love my (2: macbook) , beautiful and use daily !",
+        "original_tuples": "[['macbook', 'LAPTOP#GENERAL', 'positive'], ['macbook', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "yêu chiếc macbook của tôi, đẹp và sử dụng hàng ngày!",
+        "updated_tuples": "['macbook', 'LAPTOP#GENERAL', 'positive'], ['macbook', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 1193,
+        "original_sentence": "my (1: desktop) runs all my video editing software for my bigger and most demanding projects and my laptop is great for editing video and running pc games in places other than my home ( like school ! )",
+        "original_tuples": "[['desktop', 'LAPTOP#MISCELLANEOUS', 'positive']]\n",
+        "translated_sentence": "Máy tính để bàn (1) của tôi chạy tất cả phần mềm chỉnh sửa video cho các dự án lớn và đòi hỏi khắt khe nhất của tôi và máy tính xách tay của tôi rất tuyệt để chỉnh sửa video và chạy trò chơi PC ở những nơi khác ngoài nhà tôi (như trường học!)",
+        "updated_tuples": "['desktop', 'LAPTOP#MISCELLANEOUS', 'positive']"
+    },
+    {
+        "line": 1198,
+        "original_sentence": "i have not fiddled around much with the (1: touchscreen) yet , but it seems very responsive .",
+        "original_tuples": "[['touchscreen', 'DISPLAY#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "Tôi chưa thử nhiều với màn hình cảm ứng (1), nhưng có vẻ như nó phản hồi rất tốt.",
+        "updated_tuples": "['touchscreen', 'DISPLAY#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 1211,
+        "original_sentence": "works great as a (1: chromebook) but (1: chromebook)s are still very limited for android compatibility , at least this one is .",
+        "original_tuples": "[['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']]\n",
+        "translated_sentence": "hoạt động tốt như Chromebook nhưng Chromebook vẫn còn rất hạn chế về khả năng tương thích với Android, ít nhất là chiếc này.",
+        "updated_tuples": "['Chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']"
+    },
+    {
+        "line": 1241,
+        "original_sentence": "the (2: keyboard) makes it easy to type notes quickly and write papers , and the backlit (2: keyboard) is a major plus .",
+        "original_tuples": "[['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "bàn phím giúp bạn dễ dàng gõ ghi chú nhanh chóng và viết bài, và bàn phím có đèn nền là một điểm cộng lớn.",
+        "updated_tuples": "['bàn phím', 'KEYBOARD#USABILITY', 'positive'], ['bàn phím', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 1249,
+        "original_sentence": "this is a lovely (2: product) that i recommend for general use as a student , less so for gaming and storing whatnot .",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'positive'], ['product', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "đây là một sản phẩm tuyệt vời (2: mà tôi khuyên dùng cho mục đích chung của sinh viên, không hẳn là để chơi game và lưu trữ những thứ tương tự.",
+        "updated_tuples": "['product', 'LAPTOP#GENERAL', 'positive'], ['product', 'LAPTOP#GENERAL', 'positive']"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "line": 46,
+        "original_sentence": "(1: hdmi) out doesn ' t work right .",
+        "aspect": "hdmi"
+    },
+    {
+        "line": 49,
+        "original_sentence": "i tried factory resetting after i updated the (1: os) , and it still drained 9 % over 8 hours .",
+        "aspect": "os"
+    },
+    {
+        "line": 55,
+        "original_sentence": "i plugged in regular (3: headphones) and it was horribly low - very unenjoyable to listen to music this way .",
+        "aspect": "headphones"
+    },
+    {
+        "line": 55,
+        "original_sentence": "i plugged in regular (3: headphones) and it was horribly low - very unenjoyable to listen to music this way .",
+        "aspect": "headphones"
+    },
+    {
+        "line": 55,
+        "original_sentence": "i plugged in regular (3: headphones) and it was horribly low - very unenjoyable to listen to music this way .",
+        "aspect": "headphones"
+    },
+    {
+        "line": 57,
+        "original_sentence": "light weight , good (2: battery) life , sharp (3: screen) .",
+        "aspect": "battery"
+    },
+    {
+        "line": 57,
+        "original_sentence": "light weight , good (2: battery) life , sharp (3: screen) .",
+        "aspect": "screen"
+    },
+    {
+        "line": 71,
+        "original_sentence": "will not connect to (1: wifi) , amd (2: screen) flashes when adjusting while on .",
+        "aspect": "wifi"
+    },
+    {
+        "line": 73,
+        "original_sentence": "(1: mastercam) itself runs pretty good .",
+        "aspect": "mastercam"
+    },
+    {
+        "line": 120,
+        "original_sentence": "- (1: ddr4 ram) that is upgradable .",
+        "aspect": "ddr4 ram"
+    },
+    {
+        "line": 173,
+        "original_sentence": "so i ' m very happy and relieved to see it working excellently on the (2: c302) .",
+        "aspect": "c302"
+    },
+    {
+        "line": 173,
+        "original_sentence": "so i ' m very happy and relieved to see it working excellently on the (2: c302) .",
+        "aspect": "c302"
+    },
+    {
+        "line": 184,
+        "original_sentence": "(1: google and partners) have done great with chromebooks and have plenty of features to accommodate .",
+        "aspect": "google and partners"
+    },
+    {
+        "line": 188,
+        "original_sentence": "this (1: screen ratio) makes it look great in desktop mode .",
+        "aspect": "screen ratio"
+    },
+    {
+        "line": 216,
+        "original_sentence": "the touch screen is really accurate , and the (1: 360 flip) feature is really easy - i can switch to tablet mode anytime , although i use this much more often as a laptop .",
+        "aspect": "360 flip"
+    },
+    {
+        "line": 257,
+        "original_sentence": "when i sent it back to (1: acer) to repair it they simply claimed it had water damaging and couldn ' t fix it .",
+        "aspect": "acer"
+    },
+    {
+        "line": 258,
+        "original_sentence": "video converting process with same video file took only 25 minutes with (1: asus vivobook f510ua) .",
+        "aspect": "asus vivobook f510ua"
+    },
+    {
+        "line": 289,
+        "original_sentence": "this does not really matter to me because the (1: mx150) is enough for my needs .",
+        "aspect": "mx150"
+    },
+    {
+        "line": 304,
+        "original_sentence": "(1: ssd) hardware issue",
+        "aspect": "ssd"
+    },
+    {
+        "line": 335,
+        "original_sentence": "the (1: chormebook) works as described by seller .",
+        "aspect": "chormebook"
+    },
+    {
+        "line": 336,
+        "original_sentence": "this isn ' t a powerhouse , i ' ve never pushed (1: it) , (1: it) probably wouldn ' t handle the 20 + tabs over multiple windows / desktops that i ' m used to on chrome on the desktop , but for 99 % of ` ` regular people ` ` this is an unbelievably good laptop .",
+        "aspect": "it"
+    },
+    {
+        "line": 349,
+        "original_sentence": "+ decent quantity of available (2: ports)",
+        "aspect": "ports"
+    },
+    {
+        "line": 349,
+        "original_sentence": "+ decent quantity of available (2: ports)",
+        "aspect": "ports"
+    },
+    {
+        "line": 364,
+        "original_sentence": "my final verdict - it ' s somewhat solid as a (1: device) now that 6 months of updates and delays are behind us .",
+        "aspect": "device"
+    },
+    {
+        "line": 410,
+        "original_sentence": "my (2: acer aspire) e 15 worked great for a day , and then shut off by itself .",
+        "aspect": "acer aspire"
+    },
+    {
+        "line": 410,
+        "original_sentence": "my (2: acer aspire) e 15 worked great for a day , and then shut off by itself .",
+        "aspect": "acer aspire"
+    },
+    {
+        "line": 417,
+        "original_sentence": "if you ' re considering getting this (1: macbook) , proceed with confidence .",
+        "aspect": "macbook"
+    },
+    {
+        "line": 440,
+        "original_sentence": "the (1: size) is perfect , it ' s easy to toss it in my satchel or backpack along with my textbook and notebooks and have plenty of room .",
+        "aspect": "size"
+    },
+    {
+        "line": 441,
+        "original_sentence": "(1: ram) upgrade available",
+        "aspect": "ram"
+    },
+    {
+        "line": 442,
+        "original_sentence": "i call (1: customer service) , first they argue and say customer damage then to try and placate me they say they have an adp accidental damage and protection plan one time for one year .",
+        "aspect": "customer service"
+    },
+    {
+        "line": 446,
+        "original_sentence": "* (1: battery) * - (1: battery) life is great .",
+        "aspect": "battery life"
+    },
+    {
+        "line": 448,
+        "original_sentence": "with (2: (4: os) x y(4: os)emite) , the (4: os) is very refined and elegant .",
+        "aspect": "os"
+    },
+    {
+        "line": 448,
+        "original_sentence": "with (2: (4: os) x y(4: os)emite) , the (4: os) is very refined and elegant .",
+        "aspect": "os"
+    },
+    {
+        "line": 453,
+        "original_sentence": "- nice , bright (2: screen) ( touch(2: screen) , too ! )",
+        "aspect": "touchscreen"
+    },
+    {
+        "line": 453,
+        "original_sentence": "- nice , bright (2: screen) ( touch(2: screen) , too ! )",
+        "aspect": "touchscreen"
+    },
+    {
+        "line": 484,
+        "original_sentence": "after 3 months of use the (1: unit) will no longer charge .",
+        "aspect": "unit"
+    },
+    {
+        "line": 494,
+        "original_sentence": "going from acer 15 to (2: acer 11) was difficult , 11 inches seems too small for me .",
+        "aspect": "acer 11"
+    },
+    {
+        "line": 494,
+        "original_sentence": "going from acer 15 to (2: acer 11) was difficult , 11 inches seems too small for me .",
+        "aspect": "acer 11"
+    },
+    {
+        "line": 497,
+        "original_sentence": "the (4: asus chromebook flip 302ca) is smooth , fast and incredibly well engineered and built .",
+        "aspect": "asus chromebook flip 302ca"
+    },
+    {
+        "line": 497,
+        "original_sentence": "the (4: asus chromebook flip 302ca) is smooth , fast and incredibly well engineered and built .",
+        "aspect": "asus chromebook flip 302ca"
+    },
+    {
+        "line": 497,
+        "original_sentence": "the (4: asus chromebook flip 302ca) is smooth , fast and incredibly well engineered and built .",
+        "aspect": "asus chromebook flip 302ca"
+    },
+    {
+        "line": 497,
+        "original_sentence": "the (4: asus chromebook flip 302ca) is smooth , fast and incredibly well engineered and built .",
+        "aspect": "asus chromebook flip 302ca"
+    },
+    {
+        "line": 505,
+        "original_sentence": "it (1: starts up) , runs without issues .",
+        "aspect": "starts up"
+    },
+    {
+        "line": 529,
+        "original_sentence": "(1: asus) , has a horrible reputation .",
+        "aspect": "asus"
+    }
+]

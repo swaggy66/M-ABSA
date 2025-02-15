@@ -1,0 +1,72 @@
+[
+    {
+        "line": 32,
+        "original_sentence": "one plus i ' m particularly happy about : a quiet (2: fan - less device) that doesn ' t heat up too much !",
+        "original_tuples": "[['fan - less device', 'FANS&COOLING#QUALITY', 'positive'], ['fan - less device', 'FANS&COOLING#QUALITY', 'positive']]\n",
+        "translated_sentence": "Één pluspunt waar ik bijzonder blij mee ben: een stil apparaat (zonder ventilator) dat niet te warm wordt!",
+        "updated_tuples": "['fan - less device', 'FANS&COOLING#QUALITY', 'positive'], ['fan - less device', 'FANS&COOLING#QUALITY', 'positive']"
+    },
+    {
+        "line": 55,
+        "original_sentence": "i plugged in regular (3: headphones) and it was horribly low - very unenjoyable to listen to music this way .",
+        "original_tuples": "[['headphones', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative'], ['headphones', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative'], ['headphones', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "Ik heb een gewone koptelefoon aangesloten en het geluid was verschrikkelijk laag. Het is heel onprettig om op deze manier naar muziek te luisteren.",
+        "updated_tuples": "['headphones', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative'], ['headphones', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative'], ['headphones', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 61,
+        "original_sentence": "the only issue i have with it ( and hence the four star rating ) is the (1: battery life) .",
+        "original_tuples": "[['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "het enige probleem dat ik ermee heb (en daarom de vier sterren) is de batterijduur.",
+        "updated_tuples": "['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 119,
+        "original_sentence": "i also have to press the trackpad very hard for left click ( not as badly as the first unit , though ) , and i lost right click functionality on the (1: track pad) 2 days into my voyage with this thing .",
+        "original_tuples": "[['track pad', 'KEYBOARD#USABILITY', 'negative']]\n",
+        "translated_sentence": "Ik moet ook heel hard op het trackpad drukken om links te klikken (hoewel dat niet zo erg is als bij het eerste apparaat), en ik ben de functionaliteit van de rechtermuisknop op het trackpad kwijtgeraakt na twee dagen reizen met dit apparaat.",
+        "updated_tuples": "['track pad', 'KEYBOARD#USABILITY', 'negative']"
+    },
+    {
+        "line": 158,
+        "original_sentence": "after researching for a high quality (1: laptop) that would not break the bank , i finally chose this one .",
+        "original_tuples": "[['laptop', 'LAPTOP#QUALITY', 'positive']]\n",
+        "translated_sentence": "Nadat ik op zoek was naar een laptop van hoge kwaliteit die niet al te duur zou zijn, heb ik uiteindelijk voor deze gekozen.",
+        "updated_tuples": "['laptop', 'LAPTOP#QUALITY', 'positive']"
+    },
+    {
+        "line": 331,
+        "original_sentence": "i really enjoy the 2 - 1 aspect of the device and really like how when folded into (1: tablet mode) , there aren ' t any weird groves on the sides .",
+        "original_tuples": "[['tablet mode', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Ik vind het 2-1 aspect van het apparaat erg prettig en vind het fijn dat er geen vreemde groeven aan de zijkanten zitten als je het apparaat in de 1: tabletmodus zet.",
+        "updated_tuples": "['tablet mode', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 404,
+        "original_sentence": "i love that it is only as big as it needs to be to have a full - size (2: keyboard) ( not with a number pad , but full - sized keys ) .",
+        "original_tuples": "[['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "Ik vind het fijn dat het apparaat alleen zo groot is als nodig is om een toetsenbord van normale grootte te hebben (geen numeriek toetsenbord, maar toetsen van normale grootte).",
+        "updated_tuples": "['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 433,
+        "original_sentence": "first , use case : i write a lot for work and use a (1: chromebook) as my daily driver for notes , word processing , spreadsheets , etc .",
+        "original_tuples": "[['chromebook', 'LAPTOP#GENERAL', 'neutral']]\n",
+        "translated_sentence": "Ten eerste, het gebruiksvoorbeeld: ik schrijf veel voor mijn werk en gebruik een Chromebook als dagelijkse driver voor notities, tekstverwerking, spreadsheets, etc.",
+        "updated_tuples": "['chromebook', 'LAPTOP#GENERAL', 'neutral']"
+    },
+    {
+        "line": 446,
+        "original_sentence": "* (1: battery) * - (1: battery) life is great .",
+        "original_tuples": "[['battery', 'BATTERY#GENERAL', 'positive'], ['battery life', 'BATTERY#GENERAL', 'positive']]\n",
+        "translated_sentence": "* batterij * - batterij levensduur is geweldig.",
+        "updated_tuples": "['batterij', 'BATTERY#GENERAL', 'positive'], ['battery life', 'BATTERY#GENERAL', 'positive']"
+    },
+    {
+        "line": 453,
+        "original_sentence": "- nice , bright (2: screen) ( touch(2: screen) , too ! )",
+        "original_tuples": "[['screen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['screen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "- mooi, helder scherm (touchscherm ook!)",
+        "updated_tuples": "['scherm', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['scherm', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive']"
+    }
+]

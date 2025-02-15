@@ -1,0 +1,1442 @@
+[
+    {
+        "line": 20,
+        "original_sentence": "if you are indifferent about the (1: screen) , do not buy this !",
+        "aspect": "screen"
+    },
+    {
+        "line": 26,
+        "original_sentence": "good (1: laptop) but the (2: webcam) isn ' t good .",
+        "aspect": "webcam"
+    },
+    {
+        "line": 29,
+        "original_sentence": "i went with the (1: asus vivobook) based on the good (4: specs) , better (2: hdd) and (3: ram) , reviews , and because i could pay for it over several months .",
+        "aspect": "asus vivobook"
+    },
+    {
+        "line": 29,
+        "original_sentence": "i went with the (1: asus vivobook) based on the good (4: specs) , better (2: hdd) and (3: ram) , reviews , and because i could pay for it over several months .",
+        "aspect": "ram"
+    },
+    {
+        "line": 42,
+        "original_sentence": "other than that i ' m pleased with the (1: performance) .",
+        "aspect": "performance"
+    },
+    {
+        "line": 52,
+        "original_sentence": "love the (1: cortana) !",
+        "aspect": "cortana"
+    },
+    {
+        "line": 55,
+        "original_sentence": "still , a very nice compact (2: chromebook) .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 55,
+        "original_sentence": "still , a very nice compact (2: chromebook) .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 59,
+        "original_sentence": "the (2: acer) is similar but bigger and heavier .",
+        "aspect": "acer"
+    },
+    {
+        "line": 59,
+        "original_sentence": "the (2: acer) is similar but bigger and heavier .",
+        "aspect": "acer"
+    },
+    {
+        "line": 67,
+        "original_sentence": "i absolutely love this (1: chromebook) !",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 76,
+        "original_sentence": "its a sleek racecar of a (1: machine) and ran the new insurgency : sandstorm with ease .",
+        "aspect": "machine"
+    },
+    {
+        "line": 84,
+        "original_sentence": "i have used this (1: computer) daily now for about 6 months , spending hours per day on it for an emt / paramedic class .",
+        "aspect": "computer"
+    },
+    {
+        "line": 91,
+        "original_sentence": "i would recommend this (1: machine) to anyone who wants an inexpensive web - content device .",
+        "aspect": "machine"
+    },
+    {
+        "line": 101,
+        "original_sentence": "i hate (1: windows 10) .",
+        "aspect": "windows 10"
+    },
+    {
+        "line": 103,
+        "original_sentence": "- the (1: webcam) is a bad joke",
+        "aspect": "webcam"
+    },
+    {
+        "line": 109,
+        "original_sentence": "it has a very fast (1: 64gb ssd) and 4gb on (2: lpddr3 memory) .",
+        "aspect": "64gb ssd"
+    },
+    {
+        "line": 114,
+        "original_sentence": "love these (1: chromebooks) !",
+        "aspect": "chromebooks"
+    },
+    {
+        "line": 116,
+        "original_sentence": "that said : if you can deal with the short (1: battery life) , you ' re not going to find a better (2: machine) at this price .",
+        "aspect": "machine"
+    },
+    {
+        "line": 118,
+        "original_sentence": "i love the feel of a lighter (1: os) and can do many tasks using google / web based apps .",
+        "aspect": "os"
+    },
+    {
+        "line": 119,
+        "original_sentence": "i mainly download movies over the (1: netflix app) and watch movies on the airplane and internet browsing in hotel rooms .",
+        "aspect": "netflix app"
+    },
+    {
+        "line": 128,
+        "original_sentence": "edit : reinstalled the driver now the (1: audio) is better on earphones .",
+        "aspect": "audio"
+    },
+    {
+        "line": 130,
+        "original_sentence": "if you are looking for a quality (1: chromebook) with the most important features for everyday use , the (2: asus flip) is a fantastic choice .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 130,
+        "original_sentence": "if you are looking for a quality (1: chromebook) with the most important features for everyday use , the (2: asus flip) is a fantastic choice .",
+        "aspect": "asus flip"
+    },
+    {
+        "line": 132,
+        "original_sentence": "(1: linux) worked fairly well , and i was pretty pleased with it overall .",
+        "aspect": "linux"
+    },
+    {
+        "line": 137,
+        "original_sentence": "thanks to its ssd , it boots (1: windows 10) pretty fast , bloatware is kept to a minimum ( please uninstall norton before doing anything else .",
+        "aspect": "windows 10"
+    },
+    {
+        "line": 144,
+        "original_sentence": "the (2: m3) is great , never slow or laggy .",
+        "aspect": "m3"
+    },
+    {
+        "line": 144,
+        "original_sentence": "the (2: m3) is great , never slow or laggy .",
+        "aspect": "m3"
+    },
+    {
+        "line": 148,
+        "original_sentence": "the (1: ram) is expandable ; i bought 8 gb additional and installed myself fairly easily .",
+        "aspect": "ram"
+    },
+    {
+        "line": 150,
+        "original_sentence": "it just is missing a lot of other features that i wanted in a (1: notebook)",
+        "aspect": "notebook"
+    },
+    {
+        "line": 151,
+        "original_sentence": "the (1: playstore) its immature .",
+        "aspect": "playstore"
+    },
+    {
+        "line": 154,
+        "original_sentence": "absolutly horrible (1: product) , cheap (2: components) make for unreliable (1: product)s , but when the nearest (4: service location) is 50 + miles away i wonder how much (5: apple) truly cares ?",
+        "aspect": "products"
+    },
+    {
+        "line": 155,
+        "original_sentence": "i bought mine this year february and the (1: laptop) is very awesome the (3: boot speed) is perfect and the gaming it ' s fine as well and yeah i can say it depends on what you want to use with your (1: laptop) but overall the (1: laptop) is fine the only problem is the (4: cooling fan) it is too loud but the (5: processor) the (6: ram) the (7: storage) it ' s fine",
+        "aspect": "ram"
+    },
+    {
+        "line": 156,
+        "original_sentence": "the (1: track pad) has now stopped working .",
+        "aspect": "track pad"
+    },
+    {
+        "line": 158,
+        "original_sentence": "i can ' t help but feel that people are also slightly exaggerating the performance offered by the (1: n3160) .",
+        "aspect": "n3160"
+    },
+    {
+        "line": 163,
+        "original_sentence": "- the (1: webcam) sucks but i don ' t care about that .",
+        "aspect": "webcam"
+    },
+    {
+        "line": 166,
+        "original_sentence": "awsome (1: machine) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 171,
+        "original_sentence": "the (1: computer) itself is as stated and i received at a price my husband and i were both happy with .",
+        "aspect": "computer"
+    },
+    {
+        "line": 173,
+        "original_sentence": "of course , i have only had this (1: acer) for a week .",
+        "aspect": "acer"
+    },
+    {
+        "line": 175,
+        "original_sentence": "within two months , there were too many issues / bugs with the (1: os) .",
+        "aspect": "os"
+    },
+    {
+        "line": 177,
+        "original_sentence": "(1: touch screen) and (2: zoom) is great .",
+        "aspect": "zoom"
+    },
+    {
+        "line": 187,
+        "original_sentence": "the aluminum construction is every bit as nice as my 12 ` ` macbook , the (1: keyboard) is excellent and has better (2: travel / feedback) and the (3: trackpad) is the best i ' ve used on any asus portable .",
+        "aspect": "trackpad"
+    },
+    {
+        "line": 190,
+        "original_sentence": "very impressive (1: design) .",
+        "aspect": "design"
+    },
+    {
+        "line": 194,
+        "original_sentence": "i purchased this (1: machine) on cyber monday for $ 375 ( $ 75 off the listing price at the time of this review ) and i think at that price point , it ' s well worth it .",
+        "aspect": "machine"
+    },
+    {
+        "line": 195,
+        "original_sentence": "i also decided that despite the advantages of the (2: asus) , i can not live with the sharp edges and middling volume .",
+        "aspect": "asus"
+    },
+    {
+        "line": 195,
+        "original_sentence": "i also decided that despite the advantages of the (2: asus) , i can not live with the sharp edges and middling volume .",
+        "aspect": "asus"
+    },
+    {
+        "line": 207,
+        "original_sentence": "i only use the (1: chormebook) for surving the internet , checking my email , and watch hulu or netflix .",
+        "aspect": "chormebook"
+    },
+    {
+        "line": 216,
+        "original_sentence": "i highly recommend this (2: laptop) for anyone looking for a great performing (3: machine) with an outstanding price ( just to be clear , it won ' t be running the newest high - end games on ultra - high graphics settings , but it still performs phenomenally for its price range and usage category ) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 216,
+        "original_sentence": "i highly recommend this (2: laptop) for anyone looking for a great performing (3: machine) with an outstanding price ( just to be clear , it won ' t be running the newest high - end games on ultra - high graphics settings , but it still performs phenomenally for its price range and usage category ) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 218,
+        "original_sentence": "(1: cpu) and (2: ram) were running low .",
+        "aspect": "cpu"
+    },
+    {
+        "line": 218,
+        "original_sentence": "(1: cpu) and (2: ram) were running low .",
+        "aspect": "ram"
+    },
+    {
+        "line": 227,
+        "original_sentence": "they just don ' t get loud enough and that ' s crucial for me since i watch a lot of youtube and listen to music while doing other things on the (1: machine) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 228,
+        "original_sentence": "i have also noticed the (1: pro) seems to run hotter and have a noticeably shorter (2: battery life) .",
+        "aspect": "pro"
+    },
+    {
+        "line": 234,
+        "original_sentence": "loved this (1: chromebook) .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 237,
+        "original_sentence": "my friends , both female and male , are going to by this (1: set up) for their travel needs but for me it is lacking .",
+        "aspect": "set up"
+    },
+    {
+        "line": 241,
+        "original_sentence": "(3: trackpad) is nice and quiet and responsive .",
+        "aspect": "trackpad"
+    },
+    {
+        "line": 241,
+        "original_sentence": "(3: trackpad) is nice and quiet and responsive .",
+        "aspect": "trackpad"
+    },
+    {
+        "line": 241,
+        "original_sentence": "(3: trackpad) is nice and quiet and responsive .",
+        "aspect": "trackpad"
+    },
+    {
+        "line": 263,
+        "original_sentence": "multiple (1: ports) for anything you need .",
+        "aspect": "ports"
+    },
+    {
+        "line": 285,
+        "original_sentence": "the (1: mac pro) is also very fast , and i have only experienced the rainbow wheel once or twice whenever i was on a website that wasn ' t responding .",
+        "aspect": "mac pro"
+    },
+    {
+        "line": 292,
+        "original_sentence": "on the one i received , the (1: trackpad) is hard to press down and seems to rub against the palm rest casing .",
+        "aspect": "trackpad"
+    },
+    {
+        "line": 293,
+        "original_sentence": "you have to ` ` increase contrast ` ` and ` ` reduce transparency ` ` in the accessibility options to make it perform ok , but with a (1: ui) that looks like s * * * .",
+        "aspect": "ui"
+    },
+    {
+        "line": 298,
+        "original_sentence": "i have had this (1: computer) for almost a year now and i love it .",
+        "aspect": "computer"
+    },
+    {
+        "line": 301,
+        "original_sentence": "note : i haven ' t had any issues with the (1: touchscreen) at all .",
+        "aspect": "touchscreen"
+    },
+    {
+        "line": 305,
+        "original_sentence": "after 3 weeks using this (2: flip) , i am quite happy with its performance , design .",
+        "aspect": "flip"
+    },
+    {
+        "line": 305,
+        "original_sentence": "after 3 weeks using this (2: flip) , i am quite happy with its performance , design .",
+        "aspect": "flip"
+    },
+    {
+        "line": 310,
+        "original_sentence": "this (1: chromebook) works like a dream .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 314,
+        "original_sentence": "i ' m running it at 2500x1400 (2: resolution) extremely thin and lightweight .",
+        "aspect": "resolution"
+    },
+    {
+        "line": 314,
+        "original_sentence": "i ' m running it at 2500x1400 (2: resolution) extremely thin and lightweight .",
+        "aspect": "resolution"
+    },
+    {
+        "line": 330,
+        "original_sentence": "(1: asus) hit all the right notes on this one .",
+        "aspect": "asus"
+    },
+    {
+        "line": 344,
+        "original_sentence": "1 , (1: bloatware) from hell and 2 , a very cheap crappy (3: 5400rpm hdd) .",
+        "aspect": "bloatware"
+    },
+    {
+        "line": 357,
+        "original_sentence": "this (3: unit) is a great compromise between powerful (1: cpu) and (2: gpu) with good (4: battery life) .",
+        "aspect": "cpu"
+    },
+    {
+        "line": 357,
+        "original_sentence": "this (3: unit) is a great compromise between powerful (1: cpu) and (2: gpu) with good (4: battery life) .",
+        "aspect": "gpu"
+    },
+    {
+        "line": 368,
+        "original_sentence": "for $ 250 i can control my $ 3000 (1: pc) anywhere .",
+        "aspect": "pc"
+    },
+    {
+        "line": 370,
+        "original_sentence": "the (1: hdd) sounds more like scraping on tin rather than fine steel .",
+        "aspect": "hdd"
+    },
+    {
+        "line": 371,
+        "original_sentence": "the (1: force touch trackpad) works great .",
+        "aspect": "force touch trackpad"
+    },
+    {
+        "line": 373,
+        "original_sentence": "their (1: designs) are made for phones and on this huge screen , they are palpitated .",
+        "aspect": "designs"
+    },
+    {
+        "line": 376,
+        "original_sentence": "(1: samsung) rma ' d the device to replace the screen .",
+        "aspect": "samsung"
+    },
+    {
+        "line": 378,
+        "original_sentence": "i have the (1: intel core i7) , soooo fast !",
+        "aspect": "intel core i7"
+    },
+    {
+        "line": 381,
+        "original_sentence": "but , now i realize the (1: design) is flawed .",
+        "aspect": "design"
+    },
+    {
+        "line": 390,
+        "original_sentence": "however , the (1: bluetooth) is a nightmare .",
+        "aspect": "bluetooth"
+    },
+    {
+        "line": 391,
+        "original_sentence": "i ' ve found the large (2: trackpad) to be responsive and accurate .",
+        "aspect": "trackpad"
+    },
+    {
+        "line": 391,
+        "original_sentence": "i ' ve found the large (2: trackpad) to be responsive and accurate .",
+        "aspect": "trackpad"
+    },
+    {
+        "line": 392,
+        "original_sentence": "the (1: asus chromebook flip 302) fit the bill .",
+        "aspect": "asus chromebook flip 302"
+    },
+    {
+        "line": 393,
+        "original_sentence": "have not tried customer service so no comment , but this is a nice sub $ 400 (1: machine) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 397,
+        "original_sentence": "the thing that made me return it was the (1: trackpad) .",
+        "aspect": "trackpad"
+    },
+    {
+        "line": 398,
+        "original_sentence": "i have had nothing but problems with my (1: macbook) connecting to my wifi from the beginning .",
+        "aspect": "macbook"
+    },
+    {
+        "line": 405,
+        "original_sentence": "oh and this is a beautiful (1: machine) and the (2: lid) is amazing .",
+        "aspect": "machine"
+    },
+    {
+        "line": 406,
+        "original_sentence": "the (2: touchpad) is hard and clunky .",
+        "aspect": "touchpad"
+    },
+    {
+        "line": 406,
+        "original_sentence": "the (2: touchpad) is hard and clunky .",
+        "aspect": "touchpad"
+    },
+    {
+        "line": 413,
+        "original_sentence": "this is easily the best (1: trackpad) i have ever used .",
+        "aspect": "trackpad"
+    },
+    {
+        "line": 421,
+        "original_sentence": "(1: msi) should be ashamed at putting out (2: products) they know have issues with no intent of correcting the problem during the building and testing phase .",
+        "aspect": "msi"
+    },
+    {
+        "line": 441,
+        "original_sentence": "very disappointing , (1: samsung) !",
+        "aspect": "samsung"
+    },
+    {
+        "line": 442,
+        "original_sentence": "the (1: item) is good but the (2: sound of speakers) is very low .",
+        "aspect": "item"
+    },
+    {
+        "line": 444,
+        "original_sentence": "in essence , if you want a gaming (1: pc) , this one will do the job .",
+        "aspect": "pc"
+    },
+    {
+        "line": 447,
+        "original_sentence": "(2: trackbad) : it could be better but it ' s not bad 8 .",
+        "aspect": "trackbad"
+    },
+    {
+        "line": 447,
+        "original_sentence": "(2: trackbad) : it could be better but it ' s not bad 8 .",
+        "aspect": "trackbad"
+    },
+    {
+        "line": 454,
+        "original_sentence": "i loved the simplicity of chrome os while enjoying the (1: flip) aspect of being able to turn it into a reading tablet when i wanted to as well .",
+        "aspect": "flip"
+    },
+    {
+        "line": 456,
+        "original_sentence": "horrible , purchased directly from google , dead (2: pixel) on arrival , note feature did not pick up (3: stylus) and (4: bluetooth) rarely worked .",
+        "aspect": "pixel"
+    },
+    {
+        "line": 456,
+        "original_sentence": "horrible , purchased directly from google , dead (2: pixel) on arrival , note feature did not pick up (3: stylus) and (4: bluetooth) rarely worked .",
+        "aspect": "bluetooth"
+    },
+    {
+        "line": 458,
+        "original_sentence": "what ' s not to like , it ' s an amazing (1: machine) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 464,
+        "original_sentence": "this is my third and last (1: chromebook) .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 478,
+        "original_sentence": "so far , this (1: chromebook) is fantastic .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 495,
+        "original_sentence": "- love the (1: trackpad) .",
+        "aspect": "trackpad"
+    },
+    {
+        "line": 508,
+        "original_sentence": "the (1: specs) are good , its even faster since i added an additional 8b (2: ram) , making it a total of 16gb .",
+        "aspect": "ram"
+    },
+    {
+        "line": 517,
+        "original_sentence": "had the (1: chromebook) for 1month and 5 days and it stopped charging .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 518,
+        "original_sentence": "the (1: trackpad) was very glitchy .",
+        "aspect": "trackpad"
+    },
+    {
+        "line": 522,
+        "original_sentence": "(1: microphone) is really low .",
+        "aspect": "microphone"
+    },
+    {
+        "line": 529,
+        "original_sentence": "speaking of charges , it ' s so nice to be able to use (1: usb c) .",
+        "aspect": "usb c"
+    },
+    {
+        "line": 541,
+        "original_sentence": "it ' s okay for (1: email) , (2: facebook) , surfing the net , etc .",
+        "aspect": "email"
+    },
+    {
+        "line": 541,
+        "original_sentence": "it ' s okay for (1: email) , (2: facebook) , surfing the net , etc .",
+        "aspect": "facebook"
+    },
+    {
+        "line": 545,
+        "original_sentence": "i predict based on tests performed by other users on youtube with battlefield 4 ( frostbyte 3 engine ) that this (1: machine) will perform well with the impending starwars battlefront ( also frostbyte 3 ) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 552,
+        "original_sentence": "the (1: trackpad) is the ultimate difference - maker for me .",
+        "aspect": "trackpad"
+    },
+    {
+        "line": 561,
+        "original_sentence": "highly recommend , great value , use (4: computer) mainly for online business and is quick and easy to use",
+        "aspect": "computer"
+    },
+    {
+        "line": 561,
+        "original_sentence": "highly recommend , great value , use (4: computer) mainly for online business and is quick and easy to use",
+        "aspect": "computer"
+    },
+    {
+        "line": 561,
+        "original_sentence": "highly recommend , great value , use (4: computer) mainly for online business and is quick and easy to use",
+        "aspect": "computer"
+    },
+    {
+        "line": 561,
+        "original_sentence": "highly recommend , great value , use (4: computer) mainly for online business and is quick and easy to use",
+        "aspect": "computer"
+    },
+    {
+        "line": 567,
+        "original_sentence": "i love this little (1: chrome book) .",
+        "aspect": "chrome book"
+    },
+    {
+        "line": 568,
+        "original_sentence": "the (1: asus c302) is , for me , the dream of that perfect asus tablet / keyboard combo made real .",
+        "aspect": "asus c302"
+    },
+    {
+        "line": 573,
+        "original_sentence": "as soon as i learned about (1: c302) , i decided top bought it .",
+        "aspect": "c302"
+    },
+    {
+        "line": 582,
+        "original_sentence": "the (2: touchpad) is not the best , but it is not that terrible either .",
+        "aspect": "touchpad"
+    },
+    {
+        "line": 582,
+        "original_sentence": "the (2: touchpad) is not the best , but it is not that terrible either .",
+        "aspect": "touchpad"
+    },
+    {
+        "line": 585,
+        "original_sentence": "best (1: pc bang) for this level of buck .",
+        "aspect": "pc bang"
+    },
+    {
+        "line": 588,
+        "original_sentence": "you know , i wanted to love this (1: machine) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 598,
+        "original_sentence": "the shame of it is knowing it took me 15 minutes and $ 12 to fix it and (1: acer) wanted to rob me of $ 170 just to look at it .",
+        "aspect": "acer"
+    },
+    {
+        "line": 600,
+        "original_sentence": "the biggest reason for me to pick this (1: laptop) over others is the light - weight (2: design) and its overall (3: spec) .",
+        "aspect": "design"
+    },
+    {
+        "line": 602,
+        "original_sentence": "definitely recommend this (1: chromebook) , it ' s a beautiful (2: machine) .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 602,
+        "original_sentence": "definitely recommend this (1: chromebook) , it ' s a beautiful (2: machine) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 609,
+        "original_sentence": "the (1: mac) works like a new one .",
+        "aspect": "mac"
+    },
+    {
+        "line": 616,
+        "original_sentence": "so i went ahead and ordered the (1: c302ca) , and after a week of use there are no issues to report .",
+        "aspect": "c302ca"
+    },
+    {
+        "line": 618,
+        "original_sentence": "feels nice and looks good but it truly is the worst (3: chromebook) on the market !",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 618,
+        "original_sentence": "feels nice and looks good but it truly is the worst (3: chromebook) on the market !",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 618,
+        "original_sentence": "feels nice and looks good but it truly is the worst (3: chromebook) on the market !",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 619,
+        "original_sentence": "the (1: vivobook f510ua) is a great (2: laptop) with fantastic (3: specs) .",
+        "aspect": "vivobook f510ua"
+    },
+    {
+        "line": 621,
+        "original_sentence": "do not buy this (1: machine) if you ' re hoping to run android apps .",
+        "aspect": "machine"
+    },
+    {
+        "line": 627,
+        "original_sentence": "(1: track pad) is passable .",
+        "aspect": "track pad"
+    },
+    {
+        "line": 635,
+        "original_sentence": "this is a great (1: chromebook) !",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 640,
+        "original_sentence": "this (1: asus chromebook) fits the bill .",
+        "aspect": "asus chromebook"
+    },
+    {
+        "line": 647,
+        "original_sentence": "i hate to knock (1: acer) as they ' re the only brand i ' ve ever purchased and this is the first major issue i ' ve ever had with them , but it was frustrating spending that much time charging and almost finishing the configurations and set - up of a brand - new (2: product) and then not being able to turn it on to use it .",
+        "aspect": "acer"
+    },
+    {
+        "line": 660,
+        "original_sentence": "surprisingly to me , the (2: tablet form) has been better than expected for reading .",
+        "aspect": "tablet form"
+    },
+    {
+        "line": 660,
+        "original_sentence": "surprisingly to me , the (2: tablet form) has been better than expected for reading .",
+        "aspect": "tablet form"
+    },
+    {
+        "line": 662,
+        "original_sentence": "this is a capable (1: chromebook) !",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 663,
+        "original_sentence": "the (1: bluetooth) on it drops connections on a regular basis and the (4: wifi) is slow , slow , slow to connect on a regular basis .",
+        "aspect": "bluetooth"
+    },
+    {
+        "line": 663,
+        "original_sentence": "the (1: bluetooth) on it drops connections on a regular basis and the (4: wifi) is slow , slow , slow to connect on a regular basis .",
+        "aspect": "wifi"
+    },
+    {
+        "line": 663,
+        "original_sentence": "the (1: bluetooth) on it drops connections on a regular basis and the (4: wifi) is slow , slow , slow to connect on a regular basis .",
+        "aspect": "wifi"
+    },
+    {
+        "line": 663,
+        "original_sentence": "the (1: bluetooth) on it drops connections on a regular basis and the (4: wifi) is slow , slow , slow to connect on a regular basis .",
+        "aspect": "wifi"
+    },
+    {
+        "line": 666,
+        "original_sentence": "the (1: chromebook) is simply dead from what i can tell .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 668,
+        "original_sentence": "now audio in and out are combined in just one (1: port) .",
+        "aspect": "port"
+    },
+    {
+        "line": 670,
+        "original_sentence": "having had it for just over a month , i have to say i am thoroughly impressed by its versatility and how stable the (2: os) is .",
+        "aspect": "os"
+    },
+    {
+        "line": 670,
+        "original_sentence": "having had it for just over a month , i have to say i am thoroughly impressed by its versatility and how stable the (2: os) is .",
+        "aspect": "os"
+    },
+    {
+        "line": 678,
+        "original_sentence": "but this (1: asus c302ca) has blown me away .",
+        "aspect": "asus c302ca"
+    },
+    {
+        "line": 684,
+        "original_sentence": "i haven ' t had issues with the (1: track pad) as others have .",
+        "aspect": "track pad"
+    },
+    {
+        "line": 686,
+        "original_sentence": "i have had my (1: asus chromebook) for several months and feel liberated from electronic hell .",
+        "aspect": "asus chromebook"
+    },
+    {
+        "line": 690,
+        "original_sentence": "further , the (1: msi dragon center () default software on the installation ) caused a blue screen which lead to me having to factory reset .",
+        "aspect": "msi dragon center ("
+    },
+    {
+        "line": 694,
+        "original_sentence": "the (1: cpu) runs super fast and doesn ' t start utilizing its full potential until you start doing things like installation of applications , but the (2: memory) usage sits around 40 - 50 % the most of the time .",
+        "aspect": "cpu"
+    },
+    {
+        "line": 731,
+        "original_sentence": "the (1: trackpad) is awful as are most acer (1: trackpad)s .",
+        "aspect": "trackpad"
+    },
+    {
+        "line": 731,
+        "original_sentence": "the (1: trackpad) is awful as are most acer (1: trackpad)s .",
+        "aspect": "acer trackpads"
+    },
+    {
+        "line": 733,
+        "original_sentence": "this little (1: chromebook) is amazing .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 736,
+        "original_sentence": "i got this (1: lenovo ideapad 320) ( the amd a12 7th generation version ) and it ' s absolutely incredible !",
+        "aspect": "lenovo ideapad 320"
+    },
+    {
+        "line": 753,
+        "original_sentence": "the (1: mbp) does not run as hot as my old white mb did .",
+        "aspect": "mbp"
+    },
+    {
+        "line": 754,
+        "original_sentence": "i am beyond impressed with this little (1: machine) , i would absolutly buy this again !",
+        "aspect": "machine"
+    },
+    {
+        "line": 765,
+        "original_sentence": "so the (1: audio) can easily be muffled .",
+        "aspect": "audio"
+    },
+    {
+        "line": 767,
+        "original_sentence": "the (1: keyboard) and (2: track pad) are both quite good , although i always use a real mouse .",
+        "aspect": "track pad"
+    },
+    {
+        "line": 776,
+        "original_sentence": "this is my first (1: macbook pro) i ' m impress !",
+        "aspect": "macbook pro"
+    },
+    {
+        "line": 778,
+        "original_sentence": "the (1: asus chromebook flip) is the best one i have owned .",
+        "aspect": "asus chromebook flip"
+    },
+    {
+        "line": 814,
+        "original_sentence": "none of this means the (1: acer chromebook 14) is a bad chromebook ; on the contrary , it is an excellent chromebook !",
+        "aspect": "acer chromebook 14"
+    },
+    {
+        "line": 815,
+        "original_sentence": "while the (1: stock aluminum case) is darn solid enough , it can take scratches easily from things like keys or cable connectors tossed in a bag with it .",
+        "aspect": "stock aluminum case"
+    },
+    {
+        "line": 817,
+        "original_sentence": "the (1: 302) would be just about the perfect (2: chromebook) if it had smaller (3: bezels) , though .",
+        "aspect": "302"
+    },
+    {
+        "line": 821,
+        "original_sentence": "the (1: machine) is near - unusable out of the box .",
+        "aspect": "machine"
+    },
+    {
+        "line": 827,
+        "original_sentence": "the (1: specs) are good on this for a good cheap low end gaming (3: machine) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 827,
+        "original_sentence": "the (1: specs) are good on this for a good cheap low end gaming (3: machine) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 830,
+        "original_sentence": "(1: acer) has identified the chromebook market gaps and solved almost everything in this extremely solid offering - a thin , metal , almost mac - like build , armed with 4gb of ram , a full 14 ` ` hd display and a quad - core cpu .",
+        "aspect": "acer"
+    },
+    {
+        "line": 835,
+        "original_sentence": "the (2: c302) is clean and feels solid .",
+        "aspect": "c302"
+    },
+    {
+        "line": 835,
+        "original_sentence": "the (2: c302) is clean and feels solid .",
+        "aspect": "c302"
+    },
+    {
+        "line": 842,
+        "original_sentence": "the first week i had my (1: chromebook) it locked up .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 853,
+        "original_sentence": "i think the (1: mbp) ticks off more of the nice - to - have boxes for me than the xps13 overall .",
+        "aspect": "mbp"
+    },
+    {
+        "line": 857,
+        "original_sentence": "the (2: chromebook) looks very nice and works very well .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 857,
+        "original_sentence": "the (2: chromebook) looks very nice and works very well .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 867,
+        "original_sentence": "fast (1: delivery) , thanks to (2: amazon) .",
+        "aspect": "amazon"
+    },
+    {
+        "line": 869,
+        "original_sentence": "the (1: machine) looks amazing doesn ' t it !",
+        "aspect": "machine"
+    },
+    {
+        "line": 879,
+        "original_sentence": "if known ahead of time , we would have not purchased this (1: machine) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 880,
+        "original_sentence": "my (1: cpu) also runs over 3ghz most of the time with no heating issues either .",
+        "aspect": "cpu"
+    },
+    {
+        "line": 883,
+        "original_sentence": "this is a great (1: machine) in many ways - - and with crouton could run full ubuntu , which made it a great little (1: machine) to write code on and deploy to a server .",
+        "aspect": "machine"
+    },
+    {
+        "line": 900,
+        "original_sentence": "nice (1: chromebook) .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 903,
+        "original_sentence": "(1: wifi) sketchy to nonexistent .",
+        "aspect": "wifi"
+    },
+    {
+        "line": 905,
+        "original_sentence": "the (2: keyboard) is also one of the nicest most comfortable i have ever used .",
+        "aspect": "keyboard"
+    },
+    {
+        "line": 905,
+        "original_sentence": "the (2: keyboard) is also one of the nicest most comfortable i have ever used .",
+        "aspect": "keyboard"
+    },
+    {
+        "line": 913,
+        "original_sentence": "great little (1: machine) while it was functioning 100 % .",
+        "aspect": "machine"
+    },
+    {
+        "line": 924,
+        "original_sentence": "it has one serious flaw though which is that the (1: audio out) can not drive headphones ( or earbuds ) adequately .",
+        "aspect": "audio out"
+    },
+    {
+        "line": 925,
+        "original_sentence": "the (1: pixels) are currently stuck .",
+        "aspect": "pixels"
+    },
+    {
+        "line": 928,
+        "original_sentence": "i should have known better : (1: msi) has boot issues , no way around it .",
+        "aspect": "msi"
+    },
+    {
+        "line": 940,
+        "original_sentence": "the (1: os) is easy to use , the (2: app store) lacks many apps that i use , so i have to go directly to the developers site to download them .",
+        "aspect": "os"
+    },
+    {
+        "line": 940,
+        "original_sentence": "the (1: os) is easy to use , the (2: app store) lacks many apps that i use , so i have to go directly to the developers site to download them .",
+        "aspect": "app store"
+    },
+    {
+        "line": 941,
+        "original_sentence": "so i decided to purchase the (1: asus flip) , and so far it has met every one of my nitpicky demanding needs .",
+        "aspect": "asus flip"
+    },
+    {
+        "line": 947,
+        "original_sentence": "this is my first ever (1: macbook) and i will never go back .",
+        "aspect": "macbook"
+    },
+    {
+        "line": 948,
+        "original_sentence": "all in all , i ' m really glad i got this (1: machine) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 949,
+        "original_sentence": "this was the second (1: vivobook) in a row !",
+        "aspect": "vivobook"
+    },
+    {
+        "line": 951,
+        "original_sentence": "liked (1: it) when (1: it) was working , but (1: it) ' s a paperweight now .",
+        "aspect": "it"
+    },
+    {
+        "line": 952,
+        "original_sentence": "overall , it ' s a great (1: machine) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 953,
+        "original_sentence": "i had this (1: laptop) repaired within the first 6 months of owning it .",
+        "aspect": "laptop"
+    },
+    {
+        "line": 955,
+        "original_sentence": "sorry not a fan of (1: windows 10) .",
+        "aspect": "windows 10"
+    },
+    {
+        "line": 956,
+        "original_sentence": "i really like my (1: chromebook) .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 966,
+        "original_sentence": "the (1: track pad) , which i don ' t use , is also highly responsive .",
+        "aspect": "track pad"
+    },
+    {
+        "line": 970,
+        "original_sentence": "in seconds , even with an (2: hdd) it ' s still (1: starts up) in seconds .",
+        "aspect": "hdd"
+    },
+    {
+        "line": 971,
+        "original_sentence": "i would like to have more storage capacity but the (1: ssd) boots this laptop up in a matter of seconds .",
+        "aspect": "ssd"
+    },
+    {
+        "line": 978,
+        "original_sentence": "(2: mem) , (4: hdd) , (6: screed) , (8: dvd drive) are all easily accessible and removable .",
+        "aspect": "mem"
+    },
+    {
+        "line": 978,
+        "original_sentence": "(2: mem) , (4: hdd) , (6: screed) , (8: dvd drive) are all easily accessible and removable .",
+        "aspect": "mem"
+    },
+    {
+        "line": 978,
+        "original_sentence": "(2: mem) , (4: hdd) , (6: screed) , (8: dvd drive) are all easily accessible and removable .",
+        "aspect": "hdd"
+    },
+    {
+        "line": 978,
+        "original_sentence": "(2: mem) , (4: hdd) , (6: screed) , (8: dvd drive) are all easily accessible and removable .",
+        "aspect": "hdd"
+    },
+    {
+        "line": 978,
+        "original_sentence": "(2: mem) , (4: hdd) , (6: screed) , (8: dvd drive) are all easily accessible and removable .",
+        "aspect": "screed"
+    },
+    {
+        "line": 978,
+        "original_sentence": "(2: mem) , (4: hdd) , (6: screed) , (8: dvd drive) are all easily accessible and removable .",
+        "aspect": "screed"
+    },
+    {
+        "line": 985,
+        "original_sentence": "the (1: trackpad) is mediocre in use .",
+        "aspect": "trackpad"
+    },
+    {
+        "line": 987,
+        "original_sentence": "it was an excellent (1: machine) for the money and it also got me spoiled with its (2: touch screen) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 993,
+        "original_sentence": "all in all it is a great (1: machine) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 998,
+        "original_sentence": "not sure what the (1: deal) is but extremely disappointed .",
+        "aspect": "deal"
+    },
+    {
+        "line": 1002,
+        "original_sentence": "thanks (1: amazon) for your great (2: return policy) !",
+        "aspect": "amazon"
+    },
+    {
+        "line": 1005,
+        "original_sentence": "moreover i ' m quite upset because it seems (1: amazon) will not pay me back the shipping fees , which for me amount to about 100 $ as i live in france .",
+        "aspect": "amazon"
+    },
+    {
+        "line": 1007,
+        "original_sentence": "so far , (1: netflix) has been the most useful for me .",
+        "aspect": "netflix"
+    },
+    {
+        "line": 1010,
+        "original_sentence": "my shiny speedy (1: asus chromebook) froze after only one month of use and i am returning it today for a full refund .",
+        "aspect": "asus chromebook"
+    },
+    {
+        "line": 1018,
+        "original_sentence": "the (1: screen) blacks out and (2: apple) has refused to fix it .",
+        "aspect": "apple"
+    },
+    {
+        "line": 1021,
+        "original_sentence": "i am much more productive with this (1: machine) .",
+        "aspect": "machine"
+    },
+    {
+        "line": 1029,
+        "original_sentence": "keeping the (1: msi software) is optional , a few of these are useful like (2: burnrecovery) to make a backup of your version of windows just in case anything happens .",
+        "aspect": "burnrecovery"
+    },
+    {
+        "line": 1030,
+        "original_sentence": "first the (1: volume) does not get very loud .",
+        "aspect": "volume"
+    },
+    {
+        "line": 1031,
+        "original_sentence": "overall i love this (1: machine) , and all my computers will probably be chromebooks in the future .",
+        "aspect": "machine"
+    },
+    {
+        "line": 1040,
+        "original_sentence": "also (1: audio) is pretty decent .",
+        "aspect": "audio"
+    },
+    {
+        "line": 1041,
+        "original_sentence": "i am terribly disappointed with obviously a poor (2: qc) by samsung .",
+        "aspect": "qc"
+    },
+    {
+        "line": 1041,
+        "original_sentence": "i am terribly disappointed with obviously a poor (2: qc) by samsung .",
+        "aspect": "qc"
+    },
+    {
+        "line": 1046,
+        "original_sentence": "if you want to watch movies or listen to music , this might not be the (1: machine) for you .",
+        "aspect": "machine"
+    },
+    {
+        "line": 1050,
+        "original_sentence": "the (2: machine) is easy to use , snappy , and everything the reviewers say .",
+        "aspect": "machine"
+    },
+    {
+        "line": 1050,
+        "original_sentence": "the (2: machine) is easy to use , snappy , and everything the reviewers say .",
+        "aspect": "machine"
+    },
+    {
+        "line": 1058,
+        "original_sentence": "(1: chassis) could be studier and (2: keyboard) and (3: trackpad) very average and lack of (4: backlight) is a deal breaker for me .",
+        "aspect": "trackpad"
+    },
+    {
+        "line": 1060,
+        "original_sentence": "this is the first (1: macbook) i have ever purchased , i wish i had purchased sooner .",
+        "aspect": "macbook"
+    },
+    {
+        "line": 1071,
+        "original_sentence": "my use experience has been riddled with lag and jitteriness , although using the (1: touchscreen) for a moment sorts everything out .",
+        "aspect": "touchscreen"
+    },
+    {
+        "line": 1074,
+        "original_sentence": "one place that i find lacking in (1: chromeos) is the settings management .",
+        "aspect": "chromeos"
+    },
+    {
+        "line": 1077,
+        "original_sentence": "i typically love acers ( i have a regular laptop ) but this (1: machine) has been a nightmare .",
+        "aspect": "machine"
+    },
+    {
+        "line": 1083,
+        "original_sentence": "note : i bought a refurbished / ` ` damaged ` ` (1: model) from amazon and it ' s in absolutely flawless condition .",
+        "aspect": "model"
+    },
+    {
+        "line": 1098,
+        "original_sentence": "i ' m still loving the * idea * of what the (2: c302) is supposed to be , but the execution is feeling more and more of a miss .",
+        "aspect": "c302"
+    },
+    {
+        "line": 1098,
+        "original_sentence": "i ' m still loving the * idea * of what the (2: c302) is supposed to be , but the execution is feeling more and more of a miss .",
+        "aspect": "c302"
+    },
+    {
+        "line": 1100,
+        "original_sentence": "i ' m beyond satisfied with this (2: chromebook) , it is stunning in every way .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 1100,
+        "original_sentence": "i ' m beyond satisfied with this (2: chromebook) , it is stunning in every way .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 1101,
+        "original_sentence": "(1: acer) put together a solid package .",
+        "aspect": "acer"
+    },
+    {
+        "line": 1103,
+        "original_sentence": "the (1: touch screen) broke four months after i purchased it .",
+        "aspect": "touch screen"
+    },
+    {
+        "line": 1108,
+        "original_sentence": "if you buy this (1: machine) - be prepared for it to break .",
+        "aspect": "machine"
+    },
+    {
+        "line": 1114,
+        "original_sentence": "in the beginning i felt a little weird about this (1: trackpad) .",
+        "aspect": "trackpad"
+    },
+    {
+        "line": 1117,
+        "original_sentence": "but the (2: mac) looked and worked great .",
+        "aspect": "mac"
+    },
+    {
+        "line": 1117,
+        "original_sentence": "but the (2: mac) looked and worked great .",
+        "aspect": "mac"
+    },
+    {
+        "line": 1119,
+        "original_sentence": "for anyone wanting a small (1: footprint 1080p chromebook) , this one is hard to beat .",
+        "aspect": "footprint 1080p chromebook"
+    },
+    {
+        "line": 1125,
+        "original_sentence": "this (1: chromebook) not only meets those requirements it has exceeded my expectations .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 1130,
+        "original_sentence": "i love the (1: airdrop) and receiving imessages on my mbp ( although it can cut into productivity if you ' re not careful ) .",
+        "aspect": "airdrop"
+    },
+    {
+        "line": 1131,
+        "original_sentence": "setting it up is awkward because it ' s (1: chrome) .",
+        "aspect": "chrome"
+    },
+    {
+        "line": 1145,
+        "original_sentence": "october 12 , 2017 - - started having trouble maintaining connection to (1: wifi) ( spectrum service ) , but usually after several loops re - entering password , connection would be re - established .",
+        "aspect": "wifi"
+    },
+    {
+        "line": 1148,
+        "original_sentence": "d ) a bluetooth mouse - while this unarguably has one of the best (1: trackpads) in chromebook land , there are still times you just need the precision of a mouse .",
+        "aspect": "trackpads"
+    },
+    {
+        "line": 1161,
+        "original_sentence": "speaking of (1: asus flip) itself - it is great in every way !",
+        "aspect": "asus flip"
+    },
+    {
+        "line": 1164,
+        "original_sentence": "even though i was upset at first for receiving a lemon , the performance of the (2: working unit) far outweighs any cons .",
+        "aspect": "working unit"
+    },
+    {
+        "line": 1173,
+        "original_sentence": "(2: chromeos) did well on this device , but i didn ' t like the scaling it did at higher resolutions .",
+        "aspect": "chromeos"
+    },
+    {
+        "line": 1173,
+        "original_sentence": "(2: chromeos) did well on this device , but i didn ' t like the scaling it did at higher resolutions .",
+        "aspect": "chromeos"
+    },
+    {
+        "line": 1175,
+        "original_sentence": "love my (2: macbook) , beautiful and use daily !",
+        "aspect": "macbook"
+    },
+    {
+        "line": 1175,
+        "original_sentence": "love my (2: macbook) , beautiful and use daily !",
+        "aspect": "macbook"
+    },
+    {
+        "line": 1178,
+        "original_sentence": "the (1: rig) works better than advertised .",
+        "aspect": "rig"
+    },
+    {
+        "line": 1188,
+        "original_sentence": "the (2: core m3) allows this system to get fast and to stay quiet .",
+        "aspect": "core m3"
+    },
+    {
+        "line": 1188,
+        "original_sentence": "the (2: core m3) allows this system to get fast and to stay quiet .",
+        "aspect": "core m3"
+    },
+    {
+        "line": 1190,
+        "original_sentence": "- (1: port) minimalism .",
+        "aspect": "port"
+    },
+    {
+        "line": 1196,
+        "original_sentence": "horrible light bleed from the top edge of the (1: screen)",
+        "aspect": "screen"
+    },
+    {
+        "line": 1198,
+        "original_sentence": "i have not fiddled around much with the (1: touchscreen) yet , but it seems very responsive .",
+        "aspect": "touchscreen"
+    },
+    {
+        "line": 1200,
+        "original_sentence": "first off the (1: chromebook) itself is excellent , one of the few budget models with 1080p and a long (2: battery life) .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 1202,
+        "original_sentence": "fast (2: boot) and reliable (5: os) .",
+        "aspect": "boot"
+    },
+    {
+        "line": 1202,
+        "original_sentence": "fast (2: boot) and reliable (5: os) .",
+        "aspect": "boot"
+    },
+    {
+        "line": 1202,
+        "original_sentence": "fast (2: boot) and reliable (5: os) .",
+        "aspect": "os"
+    },
+    {
+        "line": 1202,
+        "original_sentence": "fast (2: boot) and reliable (5: os) .",
+        "aspect": "os"
+    },
+    {
+        "line": 1202,
+        "original_sentence": "fast (2: boot) and reliable (5: os) .",
+        "aspect": "os"
+    },
+    {
+        "line": 1211,
+        "original_sentence": "works great as a (1: chromebook) but (1: chromebook)s are still very limited for android compatibility , at least this one is .",
+        "aspect": "chromebooks"
+    },
+    {
+        "line": 1216,
+        "original_sentence": "stop working the (1: macbook pro)",
+        "aspect": "macbook pro"
+    },
+    {
+        "line": 1218,
+        "original_sentence": "i opened the box after ordering on black friday , and the (1: machine) wouldn ' t charge .",
+        "aspect": "machine"
+    },
+    {
+        "line": 1220,
+        "original_sentence": "third time in 5 months that the (1: touchpad) became unresponsive .",
+        "aspect": "touchpad"
+    },
+    {
+        "line": 1226,
+        "original_sentence": "my second (1: asus chromebook) has died .",
+        "aspect": "asus chromebook"
+    },
+    {
+        "line": 1228,
+        "original_sentence": "(1: acer) wants $ 170 to just look at it then add the repair cost on top of that .",
+        "aspect": "acer"
+    },
+    {
+        "line": 1239,
+        "original_sentence": "daughter school uses (1: chrome) for everything .",
+        "aspect": "chrome"
+    },
+    {
+        "line": 1240,
+        "original_sentence": "it ' s so much faster and the (2: mac os) is so much more secure .",
+        "aspect": "mac os"
+    },
+    {
+        "line": 1241,
+        "original_sentence": "the (2: keyboard) makes it easy to type notes quickly and write papers , and the backlit (2: keyboard) is a major plus .",
+        "aspect": "backlit keyboard"
+    },
+    {
+        "line": 1243,
+        "original_sentence": "we are happy to be selling her old one we bought just a few months ago , in replacement of this new (1: r11) !",
+        "aspect": "r11"
+    },
+    {
+        "line": 1244,
+        "original_sentence": "the (2: chrome rdp app) also works well , connecting to my windows machines with good performance , and i can access files on my nas using network file shares after using the (3: chromebook) for the last couple of weeks , i ' d confidently recommend one for everything but gaming and special purpose applications .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 1245,
+        "original_sentence": "(1: google) is amazing .",
+        "aspect": "google"
+    },
+    {
+        "line": 1260,
+        "original_sentence": "the (1: notebook) is very well built and it could easily pass as a high - end (2: machine) .",
+        "aspect": "notebook"
+    },
+    {
+        "line": 1261,
+        "original_sentence": "this (3: chromebook) is light - weight , durable and beautiful .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 1261,
+        "original_sentence": "this (3: chromebook) is light - weight , durable and beautiful .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 1261,
+        "original_sentence": "this (3: chromebook) is light - weight , durable and beautiful .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 1262,
+        "original_sentence": "not only did i get the laptop with a dented corner , the (1: screen) constantly flickers and cuts out on occasion , the entire laptop freezes for no discernible reason , and the (3: mouse) has completely stopped working twice .",
+        "aspect": "screen"
+    },
+    {
+        "line": 1262,
+        "original_sentence": "not only did i get the laptop with a dented corner , the (1: screen) constantly flickers and cuts out on occasion , the entire laptop freezes for no discernible reason , and the (3: mouse) has completely stopped working twice .",
+        "aspect": "mouse"
+    }
+]

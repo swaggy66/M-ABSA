@@ -1,0 +1,65 @@
+[
+    {
+        "line": 154,
+        "original_sentence": "absolutly horrible (1: product) , cheap (2: components) make for unreliable (1: product)s , but when the nearest (4: service location) is 50 + miles away i wonder how much (5: apple) truly cares ?",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'negative'], ['components', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['service location', 'SUPPORT#GENERAL', 'negative'], ['apple', 'COMPANY#GENERAL', 'negative']]\n",
+        "translated_sentence": "ya kutisha kabisa product , nafuu components hufanya kwa wasiotegemewa products , lakini wakati wa karibu eneo la huduma ni umbali wa maili 50 + nashangaa ni kiasi gani apple hujali kikweli. ?",
+        "updated_tuples": "['product', 'LAPTOP#GENERAL', 'negative'], ['components', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['eneo la huduma', 'SUPPORT#GENERAL', 'negative'], ['apple', 'COMPANY#GENERAL', 'negative']"
+    },
+    {
+        "line": 630,
+        "original_sentence": "the one drawback is that it uses more energy than most (1: apps) on the mbp ( especially word , not so much with excel or ppt ) , so i ' ve been using (2: google docs / drive) in safari ( (3: chrome) is also an energy hog ) if i ' m away from a power source and the task is light enough .",
+        "original_tuples": "[['apps', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative'], ['google docs / drive', 'SOFTWARE#GENERAL', 'neutral'], ['chrome', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "kikwazo kimoja ni kwamba hutumia nishati zaidi kuliko nyingi programu kwenye mbp ( haswa neno , sio sana na excel au ppt ) , kwa hivyo nimekuwa nikitumia google docs / drive katika safari ( ( 3: chrome) pia ni nguruwe ya nishati) ikiwa niko mbali na chanzo cha nishati na kazi ni nyepesi vya kutosha.",
+        "updated_tuples": "['programu', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative'], ['google docs / drive', 'SOFTWARE#GENERAL', 'neutral'], ['chrome', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 731,
+        "original_sentence": "the (1: trackpad) is awful as are most acer (1: trackpad)s .",
+        "original_tuples": "[['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "the trackpad ni mbaya kama ilivyo acer nyingi trackpads .",
+        "updated_tuples": "['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 772,
+        "original_sentence": "(1: 6 inch laptop) it appears fragile the (2: keyboard) itself feels like the (3: keys) will pop out .",
+        "original_tuples": "[['6 inch laptop', 'LAPTOP#QUALITY', 'negative'], ['keyboard', 'KEYBOARD#QUALITY', 'negative'], ['keys', 'KEYBOARD#QUALITY', 'negative']]\n",
+        "translated_sentence": "(Laptop 1: 6 inchi) inaonekana dhaifu keyboard yenyewe inahisi kama 6 inch laptop itatoka .",
+        "updated_tuples": "['6 inch laptop', 'LAPTOP#QUALITY', 'negative'], ['keyboard', 'KEYBOARD#QUALITY', 'negative'], ['keys', 'KEYBOARD#QUALITY', 'negative']"
+    },
+    {
+        "line": 834,
+        "original_sentence": "purchased this mid november , because of the (1: 8th gen i5) , and other good (2: specs) for the great price .",
+        "original_tuples": "[['8th gen i5', 'CPU#GENERAL', 'positive'], ['specs', 'LAPTOP#GENERAL', 'positive'], ['NULL', 'LAPTOP#PRICE', 'positive']]\n",
+        "translated_sentence": "nilinunua katikati ya Novemba , kwa sababu ya ( 1:8th gen i5 ) , na nyingine nzuri 8th gen i5 kwa bei kubwa .",
+        "updated_tuples": "['8th gen i5', 'CPU#GENERAL', 'positive'], ['specs', 'LAPTOP#GENERAL', 'positive'], ['NULL', 'LAPTOP#PRICE', 'positive']"
+    },
+    {
+        "line": 854,
+        "original_sentence": "i especially loved the high ( er ) resolution (1: display) , compared to most other chromebooks .",
+        "original_tuples": "[['display', 'DISPLAY#QUALITY', 'positive']]\n",
+        "translated_sentence": "nilipenda sana mwonekano wa juu ( er ) ( 1: display ) , ikilinganishwa na chromebooks nyingine nyingi .",
+        "updated_tuples": "['display', 'DISPLAY#QUALITY', 'positive']"
+    },
+    {
+        "line": 861,
+        "original_sentence": "(1: android) is running flawlessly so far , barring one minor incident with sound on clash of clans ( which went away on reboot ) .",
+        "original_tuples": "[['android', 'SOFTWARE#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": ".",
+        "updated_tuples": "['android', 'SOFTWARE#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 1211,
+        "original_sentence": "works great as a (1: chromebook) but (1: chromebook)s are still very limited for android compatibility , at least this one is .",
+        "original_tuples": "[['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']]\n",
+        "translated_sentence": "inafanya kazi vizuri kama chromebook lakini chromebooks bado ni ndogo sana kwa uoanifu wa android , angalau hii ni .",
+        "updated_tuples": "['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']"
+    },
+    {
+        "line": 1241,
+        "original_sentence": "the (2: keyboard) makes it easy to type notes quickly and write papers , and the backlit (2: keyboard) is a major plus .",
+        "original_tuples": "[['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "the keyboard hurahisisha kuandika madokezo haraka na kuandika karatasi , na taa ya nyuma (2: kibodi) ni nyongeza kuu .",
+        "updated_tuples": "['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']"
+    }
+]

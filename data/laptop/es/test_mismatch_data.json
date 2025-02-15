@@ -1,0 +1,240 @@
+[
+    {
+        "line": 34,
+        "original_sentence": "the beautiful (1: screen) is said to be identical to the pixelbook in size , aspect ratio , and resolution .",
+        "original_tuples": "[['screen', 'DISPLAY#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "Se dice que la hermosa (pantalla 1:) es idéntica al PixelBook en tamaño, relación de aspecto y resolución.",
+        "updated_tuples": "['screen', 'DISPLAY#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 53,
+        "original_sentence": "the (1: battery life) is good - i get about 5 - 6 hours of non stop typing , with 3 browsers opened and wifi always on .",
+        "original_tuples": "[['battery life', 'BATTERY#GENERAL', 'positive']]\n",
+        "translated_sentence": "La duración de la batería es buena: puedo escribir entre 5 y 6 horas sin parar, con 3 navegadores abiertos y el wifi siempre activado.",
+        "updated_tuples": "['battery life', 'BATTERY#GENERAL', 'positive']"
+    },
+    {
+        "line": 86,
+        "original_sentence": "i ' m a (1: graphic) designer / gamer and my creative software operates with no problems and i ' m able to play the sims 4 and world of warcraft on very high settings with no problems at all .",
+        "original_tuples": "[['graphic', 'GRAPHICS#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "Soy diseñador gráfico/jugador y mi software creativo funciona sin problemas y puedo jugar a Los Sims 4 y World of Warcraft en configuraciones muy altas sin ningún problema.",
+        "updated_tuples": "['graphic', 'GRAPHICS#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 133,
+        "original_sentence": "the (1: battery life) is touted as 10 hours but i find that 7 .",
+        "original_tuples": "[['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "La duración de la batería se promociona como 10 horas, pero creo que son 7.",
+        "updated_tuples": "['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 145,
+        "original_sentence": "the (1: screen) flashes for a second every 30 seconds or so .",
+        "original_tuples": "[['screen', 'DISPLAY#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "La (pantalla 1) parpadea durante un segundo cada 30 segundos aproximadamente.",
+        "updated_tuples": "['screen', 'DISPLAY#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 148,
+        "original_sentence": "- great price for a (1: touchscreen chromebook)",
+        "original_tuples": "[['touchscreen chromebook', 'LAPTOP#PRICE', 'positive']]\n",
+        "translated_sentence": "- Excelente precio para una Chromebook con pantalla táctil (1)",
+        "updated_tuples": "['touchscreen chromebook', 'LAPTOP#PRICE', 'positive']"
+    },
+    {
+        "line": 154,
+        "original_sentence": "the (1: battery) lasts at least 8 - 9 hours using it to type notes and simple web browsing , making it perfect for students .",
+        "original_tuples": "[['battery', 'BATTERY#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "La batería (1) dura al menos 8 a 9 horas usándola para escribir notas y navegar por Internet de forma sencilla, lo que la hace perfecta para estudiantes.",
+        "updated_tuples": "['battery', 'BATTERY#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 158,
+        "original_sentence": "after researching for a high quality (1: laptop) that would not break the bank , i finally chose this one .",
+        "original_tuples": "[['laptop', 'LAPTOP#QUALITY', 'positive']]\n",
+        "translated_sentence": "Después de investigar sobre una computadora portátil de alta calidad que no me costara un ojo de la cara, finalmente elegí esta.",
+        "updated_tuples": "['laptop', 'LAPTOP#QUALITY', 'positive']"
+    },
+    {
+        "line": 159,
+        "original_sentence": "secondly , this is a really aesthetically pleasing (1: machine) .",
+        "original_tuples": "[['machine', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "En segundo lugar, es una máquina realmente agradable desde el punto de vista estético.",
+        "updated_tuples": "['machine', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 189,
+        "original_sentence": "hook up the cat5 and the (1: machine) is screaming at high speed and exactly what i was hoping for .",
+        "original_tuples": "[['machine', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "Conecto el cat5 y la (máquina 1) está gritando a alta velocidad y es exactamente lo que estaba esperando.",
+        "updated_tuples": "['machine', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 204,
+        "original_sentence": "even the (1: speakers) are way better than i expected from a 2 in 1 at this price point .",
+        "original_tuples": "[['speakers', 'MULTIMEDIA_DEVICES#GENERAL', 'positive']]\n",
+        "translated_sentence": "Incluso los altavoces (1) son mucho mejores de lo que esperaba de un 2 en 1 a este precio.",
+        "updated_tuples": "['speakers', 'MULTIMEDIA_DEVICES#GENERAL', 'positive']"
+    },
+    {
+        "line": 216,
+        "original_sentence": "the touch screen is really accurate , and the (1: 360 flip) feature is really easy - i can switch to tablet mode anytime , although i use this much more often as a laptop .",
+        "original_tuples": "[['360 flip', 'Out_Of_Scope#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "La pantalla táctil es muy precisa y la función (giro 1:360) es muy sencilla: puedo cambiar al modo tableta en cualquier momento, aunque lo uso mucho más a menudo como computadora portátil.",
+        "updated_tuples": "['360 flip', 'Out_Of_Scope#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 223,
+        "original_sentence": "got the (1: second laptop) , died within a month and same thing .",
+        "original_tuples": "[['second laptop', 'LAPTOP#GENERAL', 'negative']]\n",
+        "translated_sentence": "Conseguí la (segunda computadora portátil), murió al mes y sigue pasando lo mismo.",
+        "updated_tuples": "['second laptop', 'LAPTOP#GENERAL', 'negative']"
+    },
+    {
+        "line": 225,
+        "original_sentence": "- the (1: screen) looks pretty good , except when viewing anything dark .",
+        "original_tuples": "[['screen', 'DISPLAY#GENERAL', 'positive']]\n",
+        "translated_sentence": "- La (pantalla 1) se ve bastante bien, excepto cuando se ve algo oscuro.",
+        "updated_tuples": "['screen', 'DISPLAY#GENERAL', 'positive']"
+    },
+    {
+        "line": 228,
+        "original_sentence": "this lead me to believe that although i purchased a “ new ” (1: product) , they sent me a refurbished one instead .",
+        "original_tuples": "[['product', 'LAPTOP#QUALITY', 'negative']]\n",
+        "translated_sentence": "Esto me llevó a creer que, aunque compré un producto “nuevo”, me enviaron uno reacondicionado.",
+        "updated_tuples": "['product', 'LAPTOP#QUALITY', 'negative']"
+    },
+    {
+        "line": 245,
+        "original_sentence": "also , i hate the (2: keyboard) - it feels really cheap .",
+        "original_tuples": "[['keyboard', 'KEYBOARD#GENERAL', 'negative'], ['keyboard', 'KEYBOARD#GENERAL', 'negative']]\n",
+        "translated_sentence": "Además, odio el teclado (2): parece realmente barato.",
+        "updated_tuples": "['keyboard', 'KEYBOARD#GENERAL', 'negative'], ['keyboard', 'KEYBOARD#GENERAL', 'negative']"
+    },
+    {
+        "line": 250,
+        "original_sentence": "the only drawback to the device so far is that it ' s not especially comfortable to use in tablet mode ; the (1: edges of the bezel) are little too ` ` sharp ` ` to comfortably rest your palms and at 2 .",
+        "original_tuples": "[['edges of the bezel', 'LAPTOP#DESIGN_FEATURES', 'negative']]\n",
+        "translated_sentence": "El único inconveniente del dispositivo hasta ahora es que no es especialmente cómodo de usar en modo tableta; los bordes del bisel son un poco demasiado \"afilados\" para apoyar cómodamente las palmas y en 2.",
+        "updated_tuples": "['edges of the bezel', 'LAPTOP#DESIGN_FEATURES', 'negative']"
+    },
+    {
+        "line": 268,
+        "original_sentence": "i enjoy the processing speed of this (1: model) .",
+        "original_tuples": "[['model', 'CPU#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "Disfruto de la velocidad de procesamiento de este (modelo 1).",
+        "updated_tuples": "['model', 'CPU#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 273,
+        "original_sentence": "the (1: screen) looked great .",
+        "original_tuples": "[['screen', 'DISPLAY#GENERAL', 'positive']]\n",
+        "translated_sentence": "La (pantalla 1) se veía genial.",
+        "updated_tuples": "['screen', 'DISPLAY#GENERAL', 'positive']"
+    },
+    {
+        "line": 292,
+        "original_sentence": "the core m3 processor allows the c302 to be fanless , as well , adding to the sleek (1: design) .",
+        "original_tuples": "[['design', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "El procesador Core M3 también permite que el C302 no tenga ventilador, lo que aumenta su diseño elegante.",
+        "updated_tuples": "['design', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 308,
+        "original_sentence": "the (2: keyboard) is very nice and very responsive .",
+        "original_tuples": "[['keyboard', 'KEYBOARD#OPERATION_PERFORMANCE', 'positive'], ['keyboard', 'KEYBOARD#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "El teclado (2) es muy agradable y responde muy bien.",
+        "updated_tuples": "['keyboard', 'KEYBOARD#OPERATION_PERFORMANCE', 'positive'], ['keyboard', 'KEYBOARD#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 331,
+        "original_sentence": "i really enjoy the 2 - 1 aspect of the device and really like how when folded into (1: tablet mode) , there aren ' t any weird groves on the sides .",
+        "original_tuples": "[['tablet mode', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Realmente disfruto del aspecto 2-1 del dispositivo y me gusta mucho cómo cuando está plegado (modo 1: tableta), no hay ranuras extrañas en los costados.",
+        "updated_tuples": "['tablet mode', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 349,
+        "original_sentence": "+ decent quantity of available (2: ports)",
+        "original_tuples": "[['ports', 'PORTS#QUALITY', 'positive'], ['ports', 'PORTS#QUALITY', 'positive']]\n",
+        "translated_sentence": "+ cantidad decente de puertos disponibles (2)",
+        "updated_tuples": "['ports', 'PORTS#QUALITY', 'positive'], ['ports', 'PORTS#QUALITY', 'positive']"
+    },
+    {
+        "line": 381,
+        "original_sentence": "6 ` ` screen is big enough to read with ease , yet the (3: item) itself is light enough to tote to meetings .",
+        "original_tuples": "[['NULL', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['NULL', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['item', 'LAPTOP#PORTABILITY', 'positive']]\n",
+        "translated_sentence": "La pantalla de 6 `` es lo suficientemente grande para leer con facilidad, pero el (artículo 3:) en sí es lo suficientemente liviano para llevarlo a las reuniones.",
+        "updated_tuples": "['NULL', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['NULL', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['item', 'LAPTOP#PORTABILITY', 'positive']"
+    },
+    {
+        "line": 397,
+        "original_sentence": "great performance , quiet and cool (3: processor) .",
+        "original_tuples": "[['processor', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['processor', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['processor', 'CPU#GENERAL', 'positive']]\n",
+        "translated_sentence": "Gran rendimiento, silencioso y fresco (procesador 3:).",
+        "updated_tuples": "['processor', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['processor', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['processor', 'CPU#GENERAL', 'positive']"
+    },
+    {
+        "line": 411,
+        "original_sentence": "perfect (3: size) to use in bed and nice and bright .",
+        "original_tuples": "[['size', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['size', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['size', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "Perfecto (tamaño 3:) para usar en la cama y bonito y brillante.",
+        "updated_tuples": "['size', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['size', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['size', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 419,
+        "original_sentence": "however , if you want a really speedy (2: chromebook) , it ' s great .",
+        "original_tuples": "[['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "Sin embargo, si quieres un Chromebook realmente rápido (2), es genial.",
+        "updated_tuples": "['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 446,
+        "original_sentence": "* (1: battery) * - (1: battery) life is great .",
+        "original_tuples": "[['battery', 'BATTERY#GENERAL', 'positive'], ['battery life', 'BATTERY#GENERAL', 'positive']]\n",
+        "translated_sentence": "* batería * - batería la duración es genial.",
+        "updated_tuples": "['batería', 'BATTERY#GENERAL', 'positive'], ['battery life', 'BATTERY#GENERAL', 'positive']"
+    },
+    {
+        "line": 453,
+        "original_sentence": "- nice , bright (2: screen) ( touch(2: screen) , too ! )",
+        "original_tuples": "[['screen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['screen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "- Bonita, brillante pantalla (táctil pantalla, ¡también!)",
+        "updated_tuples": "['pantalla', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['pantalla', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive'], ['touchscreen', 'DISPLAY#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 459,
+        "original_sentence": "the (1: asus customer service people) are rude and have no answers .",
+        "original_tuples": "[['asus customer service people', 'SUPPORT#QUALITY', 'negative']]\n",
+        "translated_sentence": "La gente del servicio de atención al cliente de Asus (1) es grosera y no tiene respuestas.",
+        "updated_tuples": "['asus customer service people', 'SUPPORT#QUALITY', 'negative']"
+    },
+    {
+        "line": 493,
+        "original_sentence": "people who complain that chromebooks are useless without (1: internet access) clearly are narrow minded and simply not thinking outside the box .",
+        "original_tuples": "[['internet access', 'PORTS#GENERAL', 'positive']]\n",
+        "translated_sentence": "Las personas que se quejan de que las Chromebooks son inútiles sin (1) acceso a Internet claramente tienen una mentalidad estrecha y simplemente no piensan fuera de la caja.",
+        "updated_tuples": "['internet access', 'PORTS#GENERAL', 'positive']"
+    },
+    {
+        "line": 508,
+        "original_sentence": "this is nothing more than an okay (1: laptop) to get you through basic work activities .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Esto no es más que una computadora portátil aceptable para realizar actividades laborales básicas.",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 510,
+        "original_sentence": "very sharp (2: screen) and good viewing angles .",
+        "original_tuples": "[['screen', 'DISPLAY#GENERAL', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive']]\n",
+        "translated_sentence": "Muy nítida (pantalla 2:) y buenos ángulos de visión.",
+        "updated_tuples": "['screen', 'DISPLAY#GENERAL', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive']"
+    },
+    {
+        "line": 525,
+        "original_sentence": "i then noticed a dead pixel on the (1: screen) .",
+        "original_tuples": "[['screen', 'DISPLAY#QUALITY', 'negative']]\n",
+        "translated_sentence": "Luego noté un píxel muerto en la pantalla (1).",
+        "updated_tuples": "['screen', 'DISPLAY#QUALITY', 'negative']"
+    }
+]

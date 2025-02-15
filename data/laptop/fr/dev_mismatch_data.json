@@ -1,0 +1,72 @@
+[
+    {
+        "line": 4,
+        "original_sentence": "this (1: version) has been my least favorite (1: version) i ' ve had for the following reasons listed bellow the pros .",
+        "original_tuples": "[['version', 'LAPTOP#GENERAL', 'negative']]\n",
+        "translated_sentence": "ceci (version 1 :) a été ma version la moins préférée (version 1 :) que j'ai eu pour les raisons suivantes énumérées ci-dessous les avantages.",
+        "updated_tuples": "['version', 'LAPTOP#GENERAL', 'negative']"
+    },
+    {
+        "line": 51,
+        "original_sentence": "the plastic that borders the (1: screen) kind of comes out ever so slightly .",
+        "original_tuples": "[['screen', 'DISPLAY#DESIGN_FEATURES', 'negative']]\n",
+        "translated_sentence": "le plastique qui borde l'écran (1) ressort légèrement.",
+        "updated_tuples": "['screen', 'DISPLAY#DESIGN_FEATURES', 'negative']"
+    },
+    {
+        "line": 94,
+        "original_sentence": "i ' m using it mainly to store movies , and the 1 tb (1: drive) is nice .",
+        "original_tuples": "[['drive', 'HARD_DISC#GENERAL', 'positive']]\n",
+        "translated_sentence": "je l'utilise principalement pour stocker des films, et le 1 To (lecteur 1:) est sympa.",
+        "updated_tuples": "['drive', 'HARD_DISC#GENERAL', 'positive']"
+    },
+    {
+        "line": 126,
+        "original_sentence": "the (2: processor) on this chromebook is one of the best you can get on a chromebook at this price ( i did plenty of research ) , but you start to notice a lag when you have more than 3 browsers open at once .",
+        "original_tuples": "[['processor', 'CPU#PRICE', 'positive'], ['processor', 'CPU#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "le (processeur 2:) sur ce Chromebook est l'un des meilleurs que vous puissiez obtenir sur un Chromebook à ce prix (j'ai fait beaucoup de recherches), mais vous commencez à remarquer un décalage lorsque vous avez plus de 3 navigateurs ouverts à la fois.",
+        "updated_tuples": "['processor', 'CPU#PRICE', 'positive'], ['processor', 'CPU#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 131,
+        "original_sentence": "i was extremely hesitant to buy a used (2: macbook pro) ( it ' s still a lot of money ) but so far am surprisingly pleased with it .",
+        "original_tuples": "[['macbook pro', 'LAPTOP#GENERAL', 'neutral'], ['macbook pro', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "J'hésitais énormément à acheter un MacBook Pro d'occasion (c'est quand même beaucoup d'argent) mais jusqu'à présent j'en suis étonnamment satisfait.",
+        "updated_tuples": "['macbook pro', 'LAPTOP#GENERAL', 'neutral'], ['macbook pro', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 158,
+        "original_sentence": "as i bought 13 inch (1: model) , it is very portable .",
+        "original_tuples": "[['model', 'LAPTOP#PORTABILITY', 'positive']]\n",
+        "translated_sentence": "comme j'ai acheté 13 pouces (modèle 1), il est très portable.",
+        "updated_tuples": "['model', 'LAPTOP#PORTABILITY', 'positive']"
+    },
+    {
+        "line": 185,
+        "original_sentence": "as others have already reported , the (1: headphone jack) produces extremely weak volume , even at max .",
+        "original_tuples": "[['headphone jack', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "comme d'autres l'ont déjà signalé, la prise casque (1) produit un volume extrêmement faible, même au maximum.",
+        "updated_tuples": "['headphone jack', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 211,
+        "original_sentence": "using (1: wifi) the signal seems to drop , not sure if the (1: wifi) adapter needs an update but there are issues .",
+        "original_tuples": "[['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "en utilisant wifi, le signal semble chuter, je ne sais pas si l'adaptateur wifi a besoin d'une mise à jour mais il y a des problèmes.",
+        "updated_tuples": "['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 227,
+        "original_sentence": "i have had this (1: laptop) two months now and it has crashed as many times .",
+        "original_tuples": "[['laptop', 'LAPTOP#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "j'ai cet ordinateur portable (1) depuis deux mois maintenant et il est tombé en panne autant de fois.",
+        "updated_tuples": "['laptop', 'LAPTOP#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 318,
+        "original_sentence": "i ' m four months into owning this lean , mean , little (2: machine) .",
+        "original_tuples": "[['machine', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['machine', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "Je possède cette petite machine maigre et méchante depuis quatre mois.",
+        "updated_tuples": "['machine', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['machine', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    }
+]

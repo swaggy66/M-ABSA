@@ -1,0 +1,100 @@
+[
+    {
+        "line": 8,
+        "original_sentence": "the second is also a known trouble spot with android , and that is the (1: microsd card) .",
+        "original_tuples": "[['microsd card', 'Out_Of_Scope#GENERAL', 'negative']]\n",
+        "translated_sentence": "Вторая проблема также известна: это карта памяти microSD (1).",
+        "updated_tuples": "['microsd card', 'Out_Of_Scope#GENERAL', 'negative']"
+    },
+    {
+        "line": 154,
+        "original_sentence": "absolutly horrible (1: product) , cheap (2: components) make for unreliable (1: product)s , but when the nearest (4: service location) is 50 + miles away i wonder how much (5: apple) truly cares ?",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'negative'], ['components', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['service location', 'SUPPORT#GENERAL', 'negative'], ['apple', 'COMPANY#GENERAL', 'negative']]\n",
+        "translated_sentence": "Абсолютно ужасный продукт, дешёвые компоненты делают продукт ненадёжным, но когда ближайший сервисный центр находится в 50+ милях, интересно, насколько Apple действительно заботится об этом?",
+        "updated_tuples": "['продукт', 'LAPTOP#GENERAL', 'negative'], ['компоненты', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['сервисный центр', 'SUPPORT#GENERAL', 'negative'], ['Apple', 'COMPANY#GENERAL', 'negative']"
+    },
+    {
+        "line": 193,
+        "original_sentence": "if you do n ' t need a full blown (1: laptop) this is a good choice .",
+        "original_tuples": "[['laptop', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Если вам не нужен полноценный ноутбук (1), то это хороший выбор.",
+        "updated_tuples": "['laptop', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 265,
+        "original_sentence": "the small (1: battery capacity) is the number one reason i would not buy this product and would recommend with that caveat being disclosed .",
+        "original_tuples": "[['battery capacity', 'BATTERY#QUALITY', 'negative']]\n",
+        "translated_sentence": "небольшая емкость аккумулятора (1) - это причина номер один, по которой я бы не стал покупать этот продукт, и я бы рекомендовал его с оговоркой, что он раскрыт.",
+        "updated_tuples": "['battery capacity', 'BATTERY#QUALITY', 'negative']"
+    },
+    {
+        "line": 416,
+        "original_sentence": "with a solid (2: cpu) and 4gb of (4: memory) i can run a dozen or more open tabs with good performance .",
+        "original_tuples": "[['cpu', 'CPU#OPERATION_PERFORMANCE', 'positive'], ['cpu', 'CPU#OPERATION_PERFORMANCE', 'positive'], ['memory', 'MEMORY#OPERATION_PERFORMANCE', 'positive'], ['memory', 'MEMORY#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "с солидным процессором (2 ГБ) и 4 ГБ памяти (4 ГБ) я могу открыть дюжину или больше вкладок с хорошей производительностью.",
+        "updated_tuples": "['cpu', 'CPU#OPERATION_PERFORMANCE', 'positive'], ['cpu', 'CPU#OPERATION_PERFORMANCE', 'positive'], ['memory', 'MEMORY#OPERATION_PERFORMANCE', 'positive'], ['memory', 'MEMORY#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 454,
+        "original_sentence": "i loved the simplicity of chrome os while enjoying the (1: flip) aspect of being able to turn it into a reading tablet when i wanted to as well .",
+        "original_tuples": "[['flip', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "Мне понравилась простота Chrome OS, а также возможность превратить его в планшет для чтения, когда мне это нужно.",
+        "updated_tuples": "['flip', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 456,
+        "original_sentence": "horrible , purchased directly from google , dead (2: pixel) on arrival , note feature did not pick up (3: stylus) and (4: bluetooth) rarely worked .",
+        "original_tuples": "[['NULL', 'LAPTOP#GENERAL', 'negative'], ['pixel', 'DISPLAY#QUALITY', 'negative'], ['stylus', 'HARDWARE#GENERAL', 'negative'], ['bluetooth', 'PORTS#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "ужасно, куплено напрямую у Google, по прибытии оказался неисправным (2 пикселя), функция «Примечание» не распознавалась (3 стилус) и (4 Bluetooth) работала редко.",
+        "updated_tuples": "['NULL', 'LAPTOP#GENERAL', 'negative'], ['pixel', 'DISPLAY#QUALITY', 'negative'], ['stylus', 'HARDWARE#GENERAL', 'negative'], ['bluetooth', 'PORTS#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 731,
+        "original_sentence": "the (1: trackpad) is awful as are most acer (1: trackpad)s .",
+        "original_tuples": "[['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "трекпад ужасен, как и большинство (1: трекпадов) Acer.",
+        "updated_tuples": "['трекпад', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 965,
+        "original_sentence": "the (2: 8th generation processor) and (3: ssd) make for a very snappy (1: computer) , and the easy upgradablility is helpful now and will be useful in the future .",
+        "original_tuples": "[['computer', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['8th generation processor', 'CPU#OPERATION_PERFORMANCE', 'positive'], ['ssd', 'HARDWARE#GENERAL', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive']]\n",
+        "translated_sentence": "процессор 8-го поколения и твердотельный накопитель делают компьютер очень быстрым, а простая возможность модернизации полезна сейчас и будет полезна в будущем.",
+        "updated_tuples": "['computer', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['процессор 8-го поколения', 'CPU#OPERATION_PERFORMANCE', 'positive'], ['твердотельный накопитель', 'HARDWARE#GENERAL', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive']"
+    },
+    {
+        "line": 1059,
+        "original_sentence": "very easy to (1: set up) and light to carry .",
+        "original_tuples": "[['set up', 'LAPTOP#USABILITY', 'positive'], ['NULL', 'LAPTOP#PORTABILITY', 'positive']]\n",
+        "translated_sentence": "очень прост в установке (1) и легок в переноске.",
+        "updated_tuples": "['set up', 'LAPTOP#USABILITY', 'positive'], ['NULL', 'LAPTOP#PORTABILITY', 'positive']"
+    },
+    {
+        "line": 1066,
+        "original_sentence": "the only draw back with this pc is the (1: battery life) which lasts about 3 hrs before needing to be charged .",
+        "original_tuples": "[['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "Единственный недостаток этого ПК — время работы от аккумулятора (1): он работает около 3 часов, прежде чем его нужно будет зарядить.",
+        "updated_tuples": "['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 1083,
+        "original_sentence": "note : i bought a refurbished / ` ` damaged ` ` (1: model) from amazon and it ' s in absolutely flawless condition .",
+        "original_tuples": "[['model', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Примечание: я купил восстановленный / `` поврежденный `` (модель 1) на Amazon, и он в абсолютно безупречном состоянии.",
+        "updated_tuples": "['model', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 1211,
+        "original_sentence": "works great as a (1: chromebook) but (1: chromebook)s are still very limited for android compatibility , at least this one is .",
+        "original_tuples": "[['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']]\n",
+        "translated_sentence": "отлично работает как Chromebook, но Chromebook все еще очень ограничены в плане совместимости с Android, по крайней мере, этот.",
+        "updated_tuples": "['Chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']"
+    },
+    {
+        "line": 1241,
+        "original_sentence": "the (2: keyboard) makes it easy to type notes quickly and write papers , and the backlit (2: keyboard) is a major plus .",
+        "original_tuples": "[['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "клавиатура позволяет легко и быстро печатать заметки и писать статьи, а подсветка клавиатура является большим плюсом.",
+        "updated_tuples": "['клавиатура', 'KEYBOARD#USABILITY', 'positive'], ['клавиатура', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']"
+    }
+]

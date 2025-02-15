@@ -1,0 +1,142 @@
+[
+    {
+        "line": 92,
+        "original_sentence": "i was a bit apprehensive at first will ordering such an expensive (2: item) online , but it was delivered in perfect new condition .",
+        "original_tuples": "[['item', 'LAPTOP#PRICE', 'negative'], ['item', 'SHIPPING#QUALITY', 'negative']]\n",
+        "translated_sentence": "İlk başta bu kadar pahalı (2 adet) bir ürünü internetten sipariş ettiğimde biraz endişeliydim, ancak mükemmel yeni durumda teslim edildi.",
+        "updated_tuples": "['item', 'LAPTOP#PRICE', 'negative'], ['item', 'SHIPPING#QUALITY', 'negative']"
+    },
+    {
+        "line": 154,
+        "original_sentence": "absolutly horrible (1: product) , cheap (2: components) make for unreliable (1: product)s , but when the nearest (4: service location) is 50 + miles away i wonder how much (5: apple) truly cares ?",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'negative'], ['components', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['service location', 'SUPPORT#GENERAL', 'negative'], ['apple', 'COMPANY#GENERAL', 'negative']]\n",
+        "translated_sentence": "kesinlikle berbat ürün, ucuz bileşenler güvenilmez (1: ürünler) anlamına geliyor, ancak en yakın servis noktası 50 milden fazla uzakta olduğunda apple ne kadarının gerçekten umurunda olduğunu merak ediyorum?",
+        "updated_tuples": "['ürün', 'LAPTOP#GENERAL', 'negative'], ['bileşenler', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['servis noktası', 'SUPPORT#GENERAL', 'negative'], ['apple', 'COMPANY#GENERAL', 'negative']"
+    },
+    {
+        "line": 266,
+        "original_sentence": "if you ' re going to be doing a lot of heavy lifting , this might not be the (1: chromebook) for you .",
+        "original_tuples": "[['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "Eğer çok fazla ağır kaldırma yapacaksanız, bu sizin için uygun olmayabilir.",
+        "updated_tuples": "['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 274,
+        "original_sentence": "this by far has been the easiest to (1: set up) and use .",
+        "original_tuples": "[['set up', 'LAPTOP#USABILITY', 'positive']]\n",
+        "translated_sentence": "bu şimdiye kadar kurulumu ve kullanımı en kolay olanıydı.",
+        "updated_tuples": "['set up', 'LAPTOP#USABILITY', 'positive']"
+    },
+    {
+        "line": 281,
+        "original_sentence": "i boot it up and notice quickly the (1: display) seems to be 720p ( or something close ) but for what i need this thing to do .",
+        "original_tuples": "[['display', 'DISPLAY#OPERATION_PERFORMANCE', 'neutral']]\n",
+        "translated_sentence": "bilgisayarı açtığımda ekranın 720p (ya da buna yakın bir şey) olduğunu fark ettim ama bu şeye ne yapmam gerektiğini bilmiyorum.",
+        "updated_tuples": "['display', 'DISPLAY#OPERATION_PERFORMANCE', 'neutral']"
+    },
+    {
+        "line": 288,
+        "original_sentence": "i got a replacement (1: unit) and it had the same issue .",
+        "original_tuples": "[['unit', 'LAPTOP#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "bir yedek aldım (1 adet) ve aynı sorun vardı.",
+        "updated_tuples": "['unit', 'LAPTOP#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 368,
+        "original_sentence": "for $ 250 i can control my $ 3000 (1: pc) anywhere .",
+        "original_tuples": "[['pc', 'LAPTOP#PORTABILITY', 'positive']]\n",
+        "translated_sentence": "250 dolara 3000 dolarımı (1 adet) her yerde kontrol edebilirim.",
+        "updated_tuples": "['pc', 'LAPTOP#PORTABILITY', 'positive']"
+    },
+    {
+        "line": 393,
+        "original_sentence": "have not tried customer service so no comment , but this is a nice sub $ 400 (1: machine) .",
+        "original_tuples": "[['machine', 'LAPTOP#PRICE', 'positive']]\n",
+        "translated_sentence": "Müşteri hizmetlerini denemedim bu yüzden yorumum yok ama 400 doların altında (1 makine) güzel bir ürün.",
+        "updated_tuples": "['machine', 'LAPTOP#PRICE', 'positive']"
+    },
+    {
+        "line": 421,
+        "original_sentence": "(1: msi) should be ashamed at putting out (2: products) they know have issues with no intent of correcting the problem during the building and testing phase .",
+        "original_tuples": "[['msi', 'COMPANY#GENERAL', 'negative'], ['products', 'LAPTOP#GENERAL', 'negative']]\n",
+        "translated_sentence": "msi sorunları olduğunu bildikleri ve bunları derleme ve test aşamasında düzeltme niyeti olmadan piyasaya sürdükleri için utanmalıdırlar.",
+        "updated_tuples": "['msi', 'COMPANY#GENERAL', 'negative'], ['products', 'LAPTOP#GENERAL', 'negative']"
+    },
+    {
+        "line": 454,
+        "original_sentence": "i loved the simplicity of chrome os while enjoying the (1: flip) aspect of being able to turn it into a reading tablet when i wanted to as well .",
+        "original_tuples": "[['flip', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "Chrome OS'un sadeliğini sevdim, ayrıca istediğim zaman onu bir okuma tableti olarak kullanabilme özelliğinin de tadını çıkardım.",
+        "updated_tuples": "['flip', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 501,
+        "original_sentence": "what this tells me is that the (1: hdmi port on my chromebook) is defective .",
+        "original_tuples": "[['hdmi port on my chromebook', 'PORTS#CONNECTIVITY', 'negative']]\n",
+        "translated_sentence": "bunun bana söylediği şey (Chromebook'umdaki 1: HDMI girişinin) arızalı olduğudur.",
+        "updated_tuples": "['hdmi port on my chromebook', 'PORTS#CONNECTIVITY', 'negative']"
+    },
+    {
+        "line": 701,
+        "original_sentence": "' what a bunch of whiners , ' i concluded about all the people who slammed the (1: keyboard) .",
+        "original_tuples": "[['keyboard', 'KEYBOARD#GENERAL', 'negative']]\n",
+        "translated_sentence": "'Ne kadar da sızlanan bir grup insan var!' diye düşündüm klavyeye sertçe vuran herkes hakkında.",
+        "updated_tuples": "['keyboard', 'KEYBOARD#GENERAL', 'negative']"
+    },
+    {
+        "line": 731,
+        "original_sentence": "the (1: trackpad) is awful as are most acer (1: trackpad)s .",
+        "original_tuples": "[['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "trackpad çoğu acer trackpad gibi berbat.",
+        "updated_tuples": "['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 771,
+        "original_sentence": "i have had three (1: macbook pro ' s) and all have been excellent .",
+        "original_tuples": "[[\"macbook pro ' s\", 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "Üç tane kullandım (biri macbook pro) ve hepsi mükemmeldi.",
+        "updated_tuples": "['macbook pro ' s', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 993,
+        "original_sentence": "all in all it is a great (1: machine) .",
+        "original_tuples": "[['machine', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "her şeyiyle harika bir makine.",
+        "updated_tuples": "['machine', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 1046,
+        "original_sentence": "if you want to watch movies or listen to music , this might not be the (1: machine) for you .",
+        "original_tuples": "[['machine', 'LAPTOP#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "Eğer film izlemek veya müzik dinlemek istiyorsanız, bu sizin için uygun bir makine olmayabilir.",
+        "updated_tuples": "['machine', 'LAPTOP#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 1211,
+        "original_sentence": "works great as a (1: chromebook) but (1: chromebook)s are still very limited for android compatibility , at least this one is .",
+        "original_tuples": "[['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']]\n",
+        "translated_sentence": "chromebook olarak harika çalışıyor ancak chromebooklar android uyumluluğu için hala çok sınırlı, en azından bu öyle.",
+        "updated_tuples": "['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']"
+    },
+    {
+        "line": 1230,
+        "original_sentence": "it worked great , no issues besides the (1: mouse) began to freeze when the computer was idled for too long .",
+        "original_tuples": "[['mouse', 'KEYBOARD#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "harika çalıştı, bilgisayar çok uzun süre boşta kaldığında farenin donmaya başlaması dışında hiçbir sorun yoktu.",
+        "updated_tuples": "['mouse', 'KEYBOARD#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 1241,
+        "original_sentence": "the (2: keyboard) makes it easy to type notes quickly and write papers , and the backlit (2: keyboard) is a major plus .",
+        "original_tuples": "[['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "klavye notlarınızı hızlı bir şekilde yazmanızı ve makaleler yazmanızı kolaylaştırır ve arkadan aydınlatmalı klavye olması büyük bir artıdır.",
+        "updated_tuples": "['klavye', 'KEYBOARD#USABILITY', 'positive'], ['klavye', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 1252,
+        "original_sentence": "(1: internal graphics) only ; not recommended for high intensity gaming or 3d modeling .",
+        "original_tuples": "[['internal graphics', 'GRAPHICS#DESIGN_FEATURES', 'negative']]\n",
+        "translated_sentence": "(1: yalnızca dahili grafikler; yüksek yoğunluklu oyun veya 3 boyutlu modelleme için önerilmez.",
+        "updated_tuples": "['internal graphics', 'GRAPHICS#DESIGN_FEATURES', 'negative']"
+    }
+]

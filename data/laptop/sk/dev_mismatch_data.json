@@ -1,0 +1,16 @@
+[
+    {
+        "line": 211,
+        "original_sentence": "using (1: wifi) the signal seems to drop , not sure if the (1: wifi) adapter needs an update but there are issues .",
+        "original_tuples": "[['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "pri použití wifi sa zdá, že signál klesá, nie som si istý, či adaptér wifi potrebuje aktualizáciu, ale vyskytli sa problémy.",
+        "updated_tuples": "['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 239,
+        "original_sentence": "it ' s light weight , sleek , the (3: screen resolution) is great and it runs very well for everyday use .",
+        "original_tuples": "[['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['screen resolution', 'DISPLAY#GENERAL', 'positive'], ['NULL', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "je ľahký, elegantný, (rozlíšenie obrazovky 3:) je skvelý a funguje veľmi dobre na každodenné použitie.",
+        "updated_tuples": "['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['screen resolution', 'DISPLAY#GENERAL', 'positive'], ['NULL', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']"
+    }
+]

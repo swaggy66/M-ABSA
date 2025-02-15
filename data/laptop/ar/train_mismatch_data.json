@@ -1,0 +1,247 @@
+[
+    {
+        "line": 33,
+        "original_sentence": "pros : nice size , clear (2: screen) , quick on start up , very functional and easy to use .",
+        "original_tuples": "[['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive'], ['NULL', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive']]\n",
+        "translated_sentence": "الإيجابيات: حجم لطيف، شاشة واضحة (2): سريع في التشغيل، عملي للغاية وسهل الاستخدام.",
+        "updated_tuples": "['NULL', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['screen', 'DISPLAY#GENERAL', 'positive'], ['NULL', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['NULL', 'LAPTOP#USABILITY', 'positive']"
+    },
+    {
+        "line": 105,
+        "original_sentence": "overall , i ' m very happy i chose this (1: model) .",
+        "original_tuples": "[['model', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "بشكل عام، أنا سعيد جدًا باختياري هذا (نموذج 1).",
+        "updated_tuples": "['model', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 146,
+        "original_sentence": "one of the first things i noticed after firing up this (2: device) was how quiet and effortlessly it performs all tasks that i ask of it .",
+        "original_tuples": "[['device', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['device', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "أحد الأشياء الأولى التي لاحظتها بعد تشغيل هذا (الجهاز 2:) هو مدى هدوئه وسهولة قيامه بجميع المهام التي أطلبها منه.",
+        "updated_tuples": "['device', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['device', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 154,
+        "original_sentence": "absolutly horrible (1: product) , cheap (2: components) make for unreliable (1: product)s , but when the nearest (4: service location) is 50 + miles away i wonder how much (5: apple) truly cares ?",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'negative'], ['components', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['service location', 'SUPPORT#GENERAL', 'negative'], ['apple', 'COMPANY#GENERAL', 'negative']]\n",
+        "translated_sentence": "فظيعة للغاية المنتج، رخيصة المكونات تجعل المنتج غير موثوق بها، ولكن عندما يكون أقرب موقع الخدمة على بعد 50 ميلاً، أتساءل ما مدى اهتمام Apple حقًا؟",
+        "updated_tuples": "['المنتج', 'LAPTOP#GENERAL', 'negative'], ['المكونات', 'LAPTOP#PRICE', 'negative'], ['products', 'LAPTOP#QUALITY', 'negative'], ['موقع الخدمة', 'SUPPORT#GENERAL', 'negative'], ['Apple', 'COMPANY#GENERAL', 'negative']"
+    },
+    {
+        "line": 156,
+        "original_sentence": "the (1: track pad) has now stopped working .",
+        "original_tuples": "[['track pad', 'KEYBOARD#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "لقد توقفت لوحة التتبع (1) عن العمل الآن.",
+        "updated_tuples": "['track pad', 'KEYBOARD#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 210,
+        "original_sentence": "there are issues beyond these , but it ' s all (1: software) related so i will let it be .",
+        "original_tuples": "[['software', 'SOFTWARE#GENERAL', 'negative']]\n",
+        "translated_sentence": "هناك قضايا تتجاوز هذه، ولكنها كلها متعلقة بالبرمجيات (1) لذلك سأتركها كما هي.",
+        "updated_tuples": "['software', 'SOFTWARE#GENERAL', 'negative']"
+    },
+    {
+        "line": 243,
+        "original_sentence": "an awesome (3: product) , well built - well worth your time and money .",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'positive'], ['product', 'LAPTOP#QUALITY', 'positive'], ['product', 'LAPTOP#QUALITY', 'positive']]\n",
+        "translated_sentence": "منتج رائع (3): مصنوع بشكل جيد - يستحق وقتك وأموالك.",
+        "updated_tuples": "['product', 'LAPTOP#GENERAL', 'positive'], ['product', 'LAPTOP#QUALITY', 'positive'], ['product', 'LAPTOP#QUALITY', 'positive']"
+    },
+    {
+        "line": 264,
+        "original_sentence": "very disappointed and i have n ' t even had the (1: product) for 12 hours .",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'negative']]\n",
+        "translated_sentence": "لقد خاب أملي للغاية ولم أحصل حتى على (المنتج 1:) لمدة 12 ساعة.",
+        "updated_tuples": "['product', 'LAPTOP#GENERAL', 'negative']"
+    },
+    {
+        "line": 347,
+        "original_sentence": "if you purchase this (1: product) , go into it with realistic expectations and patience getting familiar with the setup and you ' ll probably love it , too !",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "إذا قمت بشراء هذا (المنتج 1)، فابدأ فيه بتوقعات واقعية والصبر حتى تتعرف على الإعدادات، ومن المحتمل أنك ستحبه أيضًا!",
+        "updated_tuples": "['product', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 391,
+        "original_sentence": "i ' ve found the large (2: trackpad) to be responsive and accurate .",
+        "original_tuples": "[['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'positive'], ['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "لقد وجدت أن لوحة التتبع الكبيرة (2) سريعة الاستجابة ودقيقة.",
+        "updated_tuples": "['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'positive'], ['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 458,
+        "original_sentence": "what ' s not to like , it ' s an amazing (1: machine) .",
+        "original_tuples": "[['machine', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "ما الذي لا يعجبك، إنها آلة مذهلة (1).",
+        "updated_tuples": "['machine', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 473,
+        "original_sentence": "i like the (1: size of the laptop) , and it ' s processing speed .",
+        "original_tuples": "[['size of the laptop', 'LAPTOP#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "أعجبني حجم الكمبيوتر المحمول (1): وسرعة معالجته.",
+        "updated_tuples": "['size of the laptop', 'LAPTOP#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 493,
+        "original_sentence": "runs great - however , i just tried to upload my small adventure videos and the built in (2: video player) stops mid video about 10 seconds in - audio continues .",
+        "original_tuples": "[['NULL', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['video player', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "يعمل بشكل رائع - ومع ذلك، حاولت للتو تحميل مقاطع فيديو المغامرات الصغيرة الخاصة بي ويتوقف (مشغل الفيديو 2) المدمج في منتصف الفيديو بعد حوالي 10 ثوانٍ - يستمر الصوت.",
+        "updated_tuples": "['NULL', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['video player', 'MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 524,
+        "original_sentence": "to my great dismay and disappointment , the (2: power icon) read the exact same message : ` ` plugged in , not charging ` ` .",
+        "original_tuples": "[['power icon', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative'], ['power icon', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "لدهشتي وخيبة أملي الكبيرة، ظهرت على (أيقونة الطاقة 2) نفس الرسالة بالضبط: ``متصل، لا يشحن``.",
+        "updated_tuples": "['power icon', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative'], ['power icon', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 537,
+        "original_sentence": "this (2: device) is mainly used for web browsing and pages load quickly , animations are swift and not laggy .",
+        "original_tuples": "[['device', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['device', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "يستخدم هذا (الجهاز 2) بشكل أساسي لتصفح الويب وتحميل الصفحات بسرعة، والرسوم المتحركة سريعة وغير متأخرة.",
+        "updated_tuples": "['device', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['device', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 544,
+        "original_sentence": "and if you ' re concerned about the (1: system) , i would tell you that as a person who has never used a macbook before actually buying it , do not worry you will get used to it in no time as i did .",
+        "original_tuples": "[['system', 'OS#USABILITY', 'positive']]\n",
+        "translated_sentence": "وإذا كنت قلقًا بشأن النظام (1): فسأخبرك كشخص لم يستخدم جهاز MacBook مطلقًا قبل شرائه بالفعل، فلا تقلق فسوف تعتاد عليه في وقت قصير كما فعلت.",
+        "updated_tuples": "['system', 'OS#USABILITY', 'positive']"
+    },
+    {
+        "line": 545,
+        "original_sentence": "i predict based on tests performed by other users on youtube with battlefield 4 ( frostbyte 3 engine ) that this (1: machine) will perform well with the impending starwars battlefront ( also frostbyte 3 ) .",
+        "original_tuples": "[['machine', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "أتوقع بناءً على الاختبارات التي أجراها مستخدمون آخرون على YouTube باستخدام Battlefield 4 (محرك Frostbyte 3) أن هذا (الجهاز 1:) سيعمل جيدًا مع Starwars Battlefront الوشيكة (Frostbyte 3 أيضًا).",
+        "updated_tuples": "['machine', 'LAPTOP#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 579,
+        "original_sentence": "first of all , the (1: battery life) on it is insane .",
+        "original_tuples": "[['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'positive']]\n",
+        "translated_sentence": "أولاً وقبل كل شيء، عمر البطارية (1): مذهل.",
+        "updated_tuples": "['battery life', 'BATTERY#OPERATION_PERFORMANCE', 'positive']"
+    },
+    {
+        "line": 634,
+        "original_sentence": "at the time of this posting , this (1: model) was going only for 1800 for the 512gb with a dedicated video card .",
+        "original_tuples": "[['model', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "في وقت نشر هذا المنشور، كان هذا (النموذج 1) يُباع فقط مقابل 1800 لنسخة 512 جيجابايت مع بطاقة فيديو مخصصة.",
+        "updated_tuples": "['model', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 705,
+        "original_sentence": "although the sound is not that good , this (1: device) replaced my ipad and i have never missed it !",
+        "original_tuples": "[['device', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "على الرغم من أن الصوت ليس جيدًا، إلا أن هذا (الجهاز 1:) حل محل جهاز iPad الخاص بي ولم أفتقده أبدًا!",
+        "updated_tuples": "['device', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 731,
+        "original_sentence": "the (1: trackpad) is awful as are most acer (1: trackpad)s .",
+        "original_tuples": "[['trackpad', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "لوحة التتبع سيئة للغاية كما هي الحال مع معظم أجهزة Acer لوحة التتبع.",
+        "updated_tuples": "['لوحة التتبع', 'HARDWARE#OPERATION_PERFORMANCE', 'negative'], ['acer trackpads', 'HARDWARE#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 827,
+        "original_sentence": "the (1: specs) are good on this for a good cheap low end gaming (3: machine) .",
+        "original_tuples": "[['specs', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['machine', 'LAPTOP#GENERAL', 'positive'], ['machine', 'LAPTOP#PRICE', 'positive']]\n",
+        "translated_sentence": "المواصفات جيدة لهذا الجهاز الذي يعمل بنظام تشغيل 3: منخفض التكلفة ورخيص الثمن.",
+        "updated_tuples": "['المواصفات', 'LAPTOP#DESIGN_FEATURES', 'positive'], ['machine', 'LAPTOP#GENERAL', 'positive'], ['machine', 'LAPTOP#PRICE', 'positive']"
+    },
+    {
+        "line": 850,
+        "original_sentence": "also , often , the (1: device) simply would not power on .",
+        "original_tuples": "[['device', 'LAPTOP#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "أيضًا، في كثير من الأحيان، لا يتم تشغيل (الجهاز 1:).",
+        "updated_tuples": "['device', 'LAPTOP#OPERATION_PERFORMANCE', 'negative']"
+    },
+    {
+        "line": 939,
+        "original_sentence": "i ' ve had this (1: device) for 5 days so i ' ll keep my review simple .",
+        "original_tuples": "[['device', 'LAPTOP#GENERAL', 'neutral']]\n",
+        "translated_sentence": "لقد امتلكت هذا (الجهاز 1) لمدة 5 أيام لذا سأبقي مراجعتي بسيطة.",
+        "updated_tuples": "['device', 'LAPTOP#GENERAL', 'neutral']"
+    },
+    {
+        "line": 946,
+        "original_sentence": "i contacted the (1: seller) and they seemed like they could care less .",
+        "original_tuples": "[['seller', 'SUPPORT#GENERAL', 'negative']]\n",
+        "translated_sentence": "اتصلت بالبائع (1) وبدا الأمر وكأنهم لا يهتمون.",
+        "updated_tuples": "['seller', 'SUPPORT#GENERAL', 'negative']"
+    },
+    {
+        "line": 947,
+        "original_sentence": "this is my first ever (1: macbook) and i will never go back .",
+        "original_tuples": "[['macbook', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "هذا هو أول جهاز MacBook لي على الإطلاق ولن أعود إليه أبدًا.",
+        "updated_tuples": "['macbook', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 998,
+        "original_sentence": "not sure what the (1: deal) is but extremely disappointed .",
+        "original_tuples": "[['deal', 'LAPTOP#GENERAL', 'negative']]\n",
+        "translated_sentence": "لست متأكدًا مما هي (الصفقة 1) ولكنني أشعر بخيبة أمل شديدة.",
+        "updated_tuples": "['deal', 'LAPTOP#GENERAL', 'negative']"
+    },
+    {
+        "line": 1049,
+        "original_sentence": "the issue is that i got a faulty (2: laptop) and that ' s why the negative review .",
+        "original_tuples": "[['laptop', 'LAPTOP#QUALITY', 'negative'], ['laptop', 'LAPTOP#QUALITY', 'negative']]\n",
+        "translated_sentence": "المشكلة هي أنني حصلت على جهاز كمبيوتر محمول معيب (2) وهذا هو سبب المراجعة السلبية.",
+        "updated_tuples": "['laptop', 'LAPTOP#QUALITY', 'negative'], ['laptop', 'LAPTOP#QUALITY', 'negative']"
+    },
+    {
+        "line": 1083,
+        "original_sentence": "note : i bought a refurbished / ` ` damaged ` ` (1: model) from amazon and it ' s in absolutely flawless condition .",
+        "original_tuples": "[['model', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "ملحوظة: لقد اشتريت منتجًا مجددًا / `` تالف `` (طراز 1) من أمازون وهو في حالة خالية من العيوب تمامًا.",
+        "updated_tuples": "['model', 'LAPTOP#GENERAL', 'positive']"
+    },
+    {
+        "line": 1196,
+        "original_sentence": "horrible light bleed from the top edge of the (1: screen)",
+        "original_tuples": "[['screen', 'DISPLAY#QUALITY', 'negative']]\n",
+        "translated_sentence": "ضوء فظيع ينزف من الحافة العلوية للشاشة (1)",
+        "updated_tuples": "['screen', 'DISPLAY#QUALITY', 'negative']"
+    },
+    {
+        "line": 1207,
+        "original_sentence": "(1: apps) have to close and be reopened to get them to a somewhat decent size .",
+        "original_tuples": "[['apps', 'SOFTWARE#USABILITY', 'negative']]\n",
+        "translated_sentence": "(1: يجب إغلاق التطبيقات وإعادة فتحها للوصول إلى حجم لائق إلى حد ما.",
+        "updated_tuples": "['apps', 'SOFTWARE#USABILITY', 'negative']"
+    },
+    {
+        "line": 1208,
+        "original_sentence": "i bought this (1: product) for black friday and i have been using it steadily since then .",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'neutral']]\n",
+        "translated_sentence": "لقد اشتريت هذا (المنتج 1) في الجمعة السوداء وأستخدمه باستمرار منذ ذلك الحين.",
+        "updated_tuples": "['product', 'LAPTOP#GENERAL', 'neutral']"
+    },
+    {
+        "line": 1211,
+        "original_sentence": "works great as a (1: chromebook) but (1: chromebook)s are still very limited for android compatibility , at least this one is .",
+        "original_tuples": "[['chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']]\n",
+        "translated_sentence": "يعمل بشكل رائع كجهاز Chromebook ولكن أجهزة Chromebook لا تزال محدودة للغاية فيما يتعلق بالتوافق مع نظام Android، على الأقل هذا الجهاز.",
+        "updated_tuples": "['Chromebook', 'LAPTOP#OPERATION_PERFORMANCE', 'positive'], ['chromebooks', 'LAPTOP#USABILITY', 'negative']"
+    },
+    {
+        "line": 1241,
+        "original_sentence": "the (2: keyboard) makes it easy to type notes quickly and write papers , and the backlit (2: keyboard) is a major plus .",
+        "original_tuples": "[['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['keyboard', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']]\n",
+        "translated_sentence": "لوحة المفاتيح تجعل من السهل كتابة الملاحظات بسرعة وكتابة الأوراق، والإضاءة الخلفية لوحة المفاتيح هي ميزة إضافية كبيرة.",
+        "updated_tuples": "['لوحة المفاتيح', 'KEYBOARD#USABILITY', 'positive'], ['لوحة المفاتيح', 'KEYBOARD#USABILITY', 'positive'], ['backlit keyboard', 'KEYBOARD#DESIGN_FEATURES', 'positive']"
+    },
+    {
+        "line": 1247,
+        "original_sentence": "it is a good (1: product) to buy .",
+        "original_tuples": "[['product', 'LAPTOP#GENERAL', 'positive']]\n",
+        "translated_sentence": "إنه منتج جيد للشراء.",
+        "updated_tuples": "['product', 'LAPTOP#GENERAL', 'positive']"
+    }
+]

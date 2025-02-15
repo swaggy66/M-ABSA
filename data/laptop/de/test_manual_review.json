@@ -1,0 +1,187 @@
+[
+    {
+        "line": 49,
+        "original_sentence": "i tried factory resetting after i updated the (1: os) , and it still drained 9 % over 8 hours .",
+        "aspect": "os"
+    },
+    {
+        "line": 128,
+        "original_sentence": "bright enough for all uses , and (2: 1080p) is perfect - images are sharp .",
+        "aspect": "1080p"
+    },
+    {
+        "line": 128,
+        "original_sentence": "bright enough for all uses , and (2: 1080p) is perfect - images are sharp .",
+        "aspect": "1080p"
+    },
+    {
+        "line": 151,
+        "original_sentence": "but i guess , it ' s got a lot of power going to that (1: processor) so you can ' t have it all .",
+        "aspect": "processor"
+    },
+    {
+        "line": 155,
+        "original_sentence": "for instance , the (2: android youtube app) doesn ' t work well at all because it ' s very inconvenient to get videos into full - screen mode .",
+        "aspect": "android youtube app"
+    },
+    {
+        "line": 155,
+        "original_sentence": "for instance , the (2: android youtube app) doesn ' t work well at all because it ' s very inconvenient to get videos into full - screen mode .",
+        "aspect": "android youtube app"
+    },
+    {
+        "line": 173,
+        "original_sentence": "so i ' m very happy and relieved to see it working excellently on the (2: c302) .",
+        "aspect": "c302"
+    },
+    {
+        "line": 173,
+        "original_sentence": "so i ' m very happy and relieved to see it working excellently on the (2: c302) .",
+        "aspect": "c302"
+    },
+    {
+        "line": 188,
+        "original_sentence": "this (1: screen ratio) makes it look great in desktop mode .",
+        "aspect": "screen ratio"
+    },
+    {
+        "line": 200,
+        "original_sentence": "the (1: backlighting) is comparable , but the (2: mbp) gets brighter .",
+        "aspect": "mbp"
+    },
+    {
+        "line": 249,
+        "original_sentence": "that ' s nutty for an expensive premium (2: product) .",
+        "aspect": "product"
+    },
+    {
+        "line": 249,
+        "original_sentence": "that ' s nutty for an expensive premium (2: product) .",
+        "aspect": "product"
+    },
+    {
+        "line": 256,
+        "original_sentence": "being able to use play store apps has been a huge plus and i ' m now so comfortable with (1: google docs) , i ' very already forgotten i even owned a windows laptop .",
+        "aspect": "google docs"
+    },
+    {
+        "line": 272,
+        "original_sentence": "after being on the phone with technical support and windows support for a combined 10 hours , i am told that the (1: hardware) is defective and must be replaced .",
+        "aspect": "hardware"
+    },
+    {
+        "line": 289,
+        "original_sentence": "this does not really matter to me because the (1: mx150) is enough for my needs .",
+        "aspect": "mx150"
+    },
+    {
+        "line": 300,
+        "original_sentence": "- single (1: battery charge) can last 13 - 9 hours depending on wifi / video / app demand",
+        "aspect": "battery charge"
+    },
+    {
+        "line": 312,
+        "original_sentence": "i don ' t think you ' ll find a better (1: laptop) at this price point .",
+        "aspect": "laptop"
+    },
+    {
+        "line": 335,
+        "original_sentence": "the (1: chormebook) works as described by seller .",
+        "aspect": "chormebook"
+    },
+    {
+        "line": 344,
+        "original_sentence": "you won ' t be disappointed with this great little (2: machine) how ever you end up using it , and that versatility is what really makes this (2: machine) such a fun and valuable (6: computer) .",
+        "aspect": "computer"
+    },
+    {
+        "line": 344,
+        "original_sentence": "you won ' t be disappointed with this great little (2: machine) how ever you end up using it , and that versatility is what really makes this (2: machine) such a fun and valuable (6: computer) .",
+        "aspect": "computer"
+    },
+    {
+        "line": 346,
+        "original_sentence": "it ' s still a mainly functional (2: computer) , but using it is just not the greatest .",
+        "aspect": "computer"
+    },
+    {
+        "line": 346,
+        "original_sentence": "it ' s still a mainly functional (2: computer) , but using it is just not the greatest .",
+        "aspect": "computer"
+    },
+    {
+        "line": 411,
+        "original_sentence": "perfect (3: size) to use in bed and nice and bright .",
+        "aspect": "size"
+    },
+    {
+        "line": 411,
+        "original_sentence": "perfect (3: size) to use in bed and nice and bright .",
+        "aspect": "size"
+    },
+    {
+        "line": 411,
+        "original_sentence": "perfect (3: size) to use in bed and nice and bright .",
+        "aspect": "size"
+    },
+    {
+        "line": 417,
+        "original_sentence": "if you ' re considering getting this (1: macbook) , proceed with confidence .",
+        "aspect": "macbook"
+    },
+    {
+        "line": 419,
+        "original_sentence": "however , if you want a really speedy (2: chromebook) , it ' s great .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 419,
+        "original_sentence": "however , if you want a really speedy (2: chromebook) , it ' s great .",
+        "aspect": "chromebook"
+    },
+    {
+        "line": 446,
+        "original_sentence": "* (1: battery) * - (1: battery) life is great .",
+        "aspect": "battery life"
+    },
+    {
+        "line": 448,
+        "original_sentence": "with (2: (4: os) x y(4: os)emite) , the (4: os) is very refined and elegant .",
+        "aspect": "os"
+    },
+    {
+        "line": 448,
+        "original_sentence": "with (2: (4: os) x y(4: os)emite) , the (4: os) is very refined and elegant .",
+        "aspect": "os"
+    },
+    {
+        "line": 453,
+        "original_sentence": "- nice , bright (2: screen) ( touch(2: screen) , too ! )",
+        "aspect": "touchscreen"
+    },
+    {
+        "line": 453,
+        "original_sentence": "- nice , bright (2: screen) ( touch(2: screen) , too ! )",
+        "aspect": "touchscreen"
+    },
+    {
+        "line": 475,
+        "original_sentence": "we ' ve had the (1: computer) for 5 weeks , used it a total of less than 20 hours , and now it will be gone for 3 weeks .",
+        "aspect": "computer"
+    },
+    {
+        "line": 492,
+        "original_sentence": "the (1: computer) is good for the price , but the (2: hdmi port) is already broken .",
+        "aspect": "computer"
+    },
+    {
+        "line": 518,
+        "original_sentence": "i ' ve always liked (2: msi) for their performance and fairly decent price .",
+        "aspect": "msi"
+    },
+    {
+        "line": 518,
+        "original_sentence": "i ' ve always liked (2: msi) for their performance and fairly decent price .",
+        "aspect": "msi"
+    }
+]

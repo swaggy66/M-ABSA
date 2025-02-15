@@ -1,0 +1,30 @@
+[
+    {
+        "line": 112,
+        "original_sentence": "but , until that time , this review stands as : do not buy if your care about the (1: display ' s life) .",
+        "original_tuples": "[[\"display ' s life\", 'DISPLAY#GENERAL', 'negative']]\n",
+        "translated_sentence": "maar tot die tijd blijft deze recensie als volgt: koop het niet als u om de levensduur van het scherm geeft.",
+        "updated_tuples": "['display ' s life', 'DISPLAY#GENERAL', 'negative']"
+    },
+    {
+        "line": 158,
+        "original_sentence": "as i bought 13 inch (1: model) , it is very portable .",
+        "original_tuples": "[['model', 'LAPTOP#PORTABILITY', 'positive']]\n",
+        "translated_sentence": "Omdat ik een 13 inch (model 1) heb gekocht, is hij erg draagbaar.",
+        "updated_tuples": "['model', 'LAPTOP#PORTABILITY', 'positive']"
+    },
+    {
+        "line": 193,
+        "original_sentence": "i got the same failure to (1: charge) issue that others have reported .",
+        "original_tuples": "[['charge', 'POWER_SUPPLY#GENERAL', 'negative']]\n",
+        "translated_sentence": "Ik heb hetzelfde probleem met het niet kunnen opladen als anderen hebben gemeld.",
+        "updated_tuples": "['charge', 'POWER_SUPPLY#GENERAL', 'negative']"
+    },
+    {
+        "line": 211,
+        "original_sentence": "using (1: wifi) the signal seems to drop , not sure if the (1: wifi) adapter needs an update but there are issues .",
+        "original_tuples": "[['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']]\n",
+        "translated_sentence": "bij gebruik van wifi lijkt het signaal weg te vallen, ik weet niet zeker of de wifi adapter een update nodig heeft, maar er zijn problemen.",
+        "updated_tuples": "['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']"
+    }
+]
