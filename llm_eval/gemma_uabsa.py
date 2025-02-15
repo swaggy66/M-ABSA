@@ -10,17 +10,6 @@ from huggingface_hub import login
 import json
 import argparse
 
-def check_gpu_count():
-    gpu_count = torch.cuda.device_count()
-    if gpu_count > 0:
-        print(f"{gpu_count} GPU(s) available:")
-        for i in range(gpu_count):
-            print(f" - GPU {i}: {torch.cuda.get_device_name(i)}")
-    else:
-        print("No GPU available.")
-
-check_gpu_count()
-
 
 model_id = "google/gemma-2-9b-it"
 

@@ -55,7 +55,7 @@ def process_data(data):
 
 def main():
     model = "mistral" # TODO: select from ["llama", "gemma", "mistral", "qwen"]
-    for data_type in ["amazonfood", "coursera", "education", "hotel", "laptop", "phone", "res"]:
+    for data_type in ["food", "coursera", "education", "hotel", "laptop", "phone", "res"]:
         for test_lang in ["en", "ar", "da", "de", "es", "fr", "hi", "hr", "id", "ja", "ko", "nl", "pt", "ru", "sk", "sv", "sw", "th", "tr", "vi", "zh"]:
             input_file = f"data/{data_type}/{test_lang}/triplet_{model}_zeroshot_results_{test_lang}.json"
             # Define file path
