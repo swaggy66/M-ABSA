@@ -1,9 +1,0 @@
-[
-    {
-        "line": 211,
-        "original_sentence": "using (1: wifi) the signal seems to drop , not sure if the (1: wifi) adapter needs an update but there are issues .",
-        "original_tuples": "[['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']]\n",
-        "translated_sentence": "koristeći wifi čini se da signal pada, nisam siguran treba li wifi adapter ažurirati, ali postoje problemi.",
-        "updated_tuples": "['wifi', 'Out_Of_Scope#OPERATION_PERFORMANCE', 'negative'], ['wifi adapter', 'SOFTWARE#OPERATION_PERFORMANCE', 'negative']"
-    }
-]
