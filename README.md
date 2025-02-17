@@ -12,8 +12,8 @@ We recommend you to install the specified version of the following packages:
 
 ## Quick Start
 
-- Set up the environment as described in the above section
-- Download the pre-trained mT5-base model from [https://huggingface.co/google/mt5-base](https://huggingface.co/google/mt5-base)
+- Set up the environment as described in the above section.
+- Download the pre-trained mT5-base model from [https://huggingface.co/google/mt5-base](https://huggingface.co/google/mt5-base).
 - Run command bash run.sh, which train the model on source language under UABSA/TASD task.
 - Run command bash evaluate.sh, which test the model on target language under UABSA/TASD task.
 
