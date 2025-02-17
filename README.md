@@ -41,7 +41,7 @@ python main.py --task tasd \
 
 ## Citation
 
-If the code is used in your research, please star our repo and cite our paper as follows:
+If the code or dataset is used in your research, please star our repo and cite our paper as follows:
 ```
 ```
 
