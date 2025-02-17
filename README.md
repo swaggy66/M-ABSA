@@ -36,7 +36,7 @@ python main.py --task tasd \
 ```
 
 - $task refers to one of the ABSA task in [uabsa, tasd]
-- $dataset refers to one of the four datasets in [food, restaurant, coursera, laptop, sight, phone, hotel]
+- $dataset refers to one of the seven datasets in [food, restaurant, coursera, laptop, sight, phone, hotel]
 
 
 ## Citation
