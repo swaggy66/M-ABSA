@@ -9,6 +9,11 @@ This repo contains the data and code for our paper ****M-ABSA: A Multilingual Da
 
 All datasets are stored in the data/ folder:
 
+- All dataset contains 7 domains. 
+
+ ```
+domains = ["coursera", "hotel", "laptop", "restaurant", "phone", "sight", "food"]
+``` 
 - Each dataset contains 21 languages.
 ```
 langs = ["ar", "da", "de", "en", "es", "fr", "hi", "hr", "id", "ja", "ko", "nl", "pt", "ru", "sk", "sv", "sw", "th", "tr", "vi", "zh"]
