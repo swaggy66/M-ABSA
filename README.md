@@ -40,6 +40,19 @@ python main.py --task tasd \
 - $dataset refers to one of the seven datasets in [food, restaurant, coursera, laptop, sight, phone, hotel]
 
 
+# Data Description:
+
+All datasets are stored in the data/ folder:
+
+- Each dataset contains 21 languages.
+```
+langs = ["ar", "da", "de", "en", "es", "fr", "hi", "hr", "id", "ja", "ko", "nl", "pt", "ru", "sk", "sv", "sw", "th", "tr", "vi", "zh"]
+```
+- Each dataset is divided into training, validation, and test sets. Each sentence is separated by __"####"__, with the first part being the sentence and the second part being the corresponding triplet. Here is an example, where the triplet includes __[aspect, category, sentiment]__.
+
+```
+This coffee brews up a nice medium roast with exotic floral and berry notes .####[['coffee', 'food quality', 'positive', 'nice']]
+```
 ## Citation
 
 If the code or dataset is used in your research, please star our repo and cite our paper as follows:
