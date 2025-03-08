@@ -48,7 +48,7 @@ We recommend to install the specified version of the following packages:
 
 - task: ```tasd``` for triplet extraction, ```uabsa``` for (aspect term - sentiment polarity) pair extraction
 - dataset: one of the seven datasets in [```food```, ```restaurant```, ```coursera```, ```laptop```, ```sight```, ```phone```, ```hotel```]
-- 
+  
 ```
 python main.py --task tasd \
                --dataset hotel \
