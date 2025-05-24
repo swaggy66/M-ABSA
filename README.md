@@ -86,7 +86,7 @@ If the code or dataset is used in your research, please star our repo and cite o
 ```
 @misc{wu2025mabsa,
       title={M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis}, 
-      author={Chengyan Wu and Bolei Ma and Yihong Liu and Zheyu Zhang and Ningyuan Deng and Yanshu Li and Baolan Chen and Yi Zhang and Barbara Plank and Yun Xue},
+      author={Chengyan Wu and Bolei Ma and Yihong Liu and Zheyu Zhang and Ningyuan Deng and Yanshu Li and Baolan Chen and Yi Zhang and Yun Xue and Barbara Plank},
       year={2025},
       eprint={2502.11824},
       archivePrefix={arXiv},
