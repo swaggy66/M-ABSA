@@ -1,6 +1,6 @@
 # M-ABSA
 
-This repo contains the data and code for our paper ****M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis****.
+This repo contains the data and code for our EMNLP-2025 paper ****M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis****. 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2502.11824-b31b1b.svg)](https://arxiv.org/abs/2502.11824)
 
@@ -84,14 +84,31 @@ python {model}_{task}.py  --test_lang "en" --type "food"
 
 If the code or dataset is used in your research, please star our repo and cite our paper as follows:
 ```
-@misc{wu2025mabsa,
-      title={M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis}, 
-      author={Chengyan Wu and Bolei Ma and Yihong Liu and Zheyu Zhang and Ningyuan Deng and Yanshu Li and Baolan Chen and Yi Zhang and Yun Xue and Barbara Plank},
-      year={2025},
-      eprint={2502.11824},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.11824}, 
+@inproceedings{wu-etal-2025-absa,
+    title = "{M}-{ABSA}: A Multilingual Dataset for Aspect-Based Sentiment Analysis",
+    author = "Wu, ChengYan  and
+      Ma, Bolei  and
+      Liu, Yihong  and
+      Zhang, Zheyu  and
+      Deng, Ningyuan  and
+      Li, Yanshu  and
+      Chen, Baolan  and
+      Zhang, Yi  and
+      Xue, Yun  and
+      Plank, Barbara",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.128/",
+    doi = "10.18653/v1/2025.emnlp-main.128",
+    pages = "2530--2557",
+    ISBN = "979-8-89176-332-6",
 }
 ```
 
